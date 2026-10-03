@@ -7,8 +7,8 @@ assert(d.editorial.series.length>=8,'Missing baseline series');
 assert(d.editorial.archives.length>=10,'Missing baseline archives');
 const known=new Set(d.sigs.map(s=>s.acronym));
 const eventKeys=new Set();
-for(const e of d.events){assert(known.has(e.sig),'Unknown event group');assert(/^\d{4}-\d{2}-\d{2}$/.test(e.start)&&Number.isFinite(Date.parse(e.start)),'Bad event date');assert(!e.end||e.end>=e.start,'Reversed dates');const key=e.start+'|'+e.title;assert(!eventKeys.has(key),'Duplicate event');eventKeys.add(key);assert(/^https?:/.test(e.url),'Missing source URL');assert(e.reviewed,'Missing review date')}
-for(const s of d.sigs){assert(s.description&&s.fullName&&s.iscaUrl,'Incomplete profile');assert(Array.isArray(s.videos)&&Array.isArray(s.activities),'Incomplete resources')}
+for(const e of d.events){assert(known.has(e.sig)||e.sig==='ISCA','Unknown event group');assert(/^\d{4}-\d{2}-\d{2}$/.test(e.start)&&Number.isFinite(Date.parse(e.start)),'Bad event date');assert(!e.end||e.end>=e.start,'Reversed dates');const key=e.start+'|'+e.title;assert(!eventKeys.has(key),'Duplicate event');eventKeys.add(key);assert(/^https?:/.test(e.url),'Missing source URL');assert(e.reviewed,'Missing review date')}
+for(const s of d.sigs){assert(s.description&&s.fullName&&s.iscaUrl,'Incomplete profile');assert(Array.isArray(s.videos)&&Array.isArray(s.activities)&&Array.isArray(s.series),'Incomplete resources')}
 const all=JSON.stringify(d);assert(!/https?:\/\/(www\.)?synsig\.org/i.test(all),'Unsafe historical link');
 assert(!/[A-Z]:\\\\Users|appgprj_|GMAIL_APP_PASSWORD|BEGIN PRIVATE KEY/.test(all),'Private content in public payload');
 assert(fs.readFileSync('dist/index.html','utf8').includes('speechlab0210@gmail.com'),'Contact missing');

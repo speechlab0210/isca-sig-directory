@@ -1,5 +1,11 @@
 """Fetch known public primary sources into a private review queue; never publish scraped text."""
-import concurrent.futures, datetime as dt, hashlib, ipaddress, json, re, socket, sys, urllib.request, urllib.parse
+import concurrent.futures, datetime as dt, hashlib, ipaddress, json, re, socket, ssl, sys, urllib.request, urllib.parse
+try:
+    import certifi
+    # urllib on Windows does not trust some current CA chains by default; use certifi when present
+    CTX=ssl.create_default_context(cafile=certifi.where())
+except ImportError:
+    CTX=ssl.create_default_context()
 from pathlib import Path
 from html.parser import HTMLParser
 ROOT=Path(__file__).resolve().parents[1]
@@ -47,7 +53,7 @@ def main():
         try:
             public_url(url)
             req=urllib.request.Request(url,headers={'User-Agent':'ISCA-SIG-Atlas/1.0 (+mailto:speechlab0210@gmail.com)','Accept':'text/html,application/xhtml+xml,text/plain'})
-            with urllib.request.build_opener(SafeRedirect).open(req,timeout=25) as resp:
+            with urllib.request.build_opener(SafeRedirect,urllib.request.HTTPSHandler(context=CTX)).open(req,timeout=25) as resp:
                 raw=resp.read(2_000_001)
                 if len(raw)>2_000_000: raise ValueError('Page exceeds collection limit')
                 if not any(c in resp.headers.get('Content-Type','') for c in ('html','text/plain')): raise ValueError('Not a text source')

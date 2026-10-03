@@ -10,4 +10,4 @@ This repository contains the independent ISCA SIG Atlas website. Keep the origin
 - Run `node scripts/build.mjs`, `node scripts/validate.mjs` and `node --check dist/app.js` before publication. Preview changed interactions and small-screen layouts when editing the interface.
 - Commit source and generated output together. GitHub Pages publishes `main` from `/docs`; verify the resulting deployment and live content after pushing.
 - Never commit credentials, private correspondence, personal recipient details, local filesystem paths, or `ops/`. Review all newly tracked files before a public push.
-- Operational instructions, if provided locally, live in ignored `ops/CLAUDE-HANDOFF.md`. Do not recreate schedules merely because an older runbook mentions them.
+- Operational instructions and correspondence are kept outside the published tree (the ignored `ops/` directory or the maintainer's private workspace). The former daily source-collection job was retired on 3 October 2026; do not recreate it unless the maintainer asks. Corrections arrive by email, which is checked three times a day.

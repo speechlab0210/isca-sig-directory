@@ -1,69 +1,59 @@
 {
-  "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+  "checkedAt": "2026-10-03T09:11:45.816533+00:00",
   "sources": [
     {
-      "url": "http://avisa.loria.fr/",
+      "url": "https://8iwhscr.uevora.pt/",
+      "groups": [
+        "SIG-HIST"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "7f4cc6eb36727fb2e10b28b5ce66bd7934efa83d607cee583dc404252b33377a",
+      "changed": true
+    },
+    {
+      "url": "https://avisa.loria.fr/",
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b8ae4b069246145fc6d1eb6e0fbb548241a2e14339044e1cc39c894e2a8d7b92",
       "changed": true
     },
     {
-      "url": "http://sprosig.org/lectures.html",
-      "groups": [
-        "SProSIG"
-      ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
-      "status": "retrieved",
-      "httpStatus": 200,
-      "sha256": "3f72d93b84f325265f2a9c947bd7586fbf2a4a30633bf9b0cc0fc390047f523a",
-      "changed": true
-    },
-    {
-      "url": "http://www.isca-students.org/sacweb/index.php/podcast/podcast-episodes",
-      "groups": [
-        "ISCA resources"
-      ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
-      "status": "retrieved",
-      "httpStatus": 200,
-      "sha256": "ee40e06242b39a26f7d41daffe2aa30e7ee4bc0e4d8d5a13250d32db77245adb",
-      "changed": true
-    },
-    {
-      "url": "http://www.sig-hist.org/",
-      "groups": [
-        "SIG-HIST"
-      ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
-      "status": "unavailable",
-      "error": "URLError",
-      "changed": false
-    },
-    {
       "url": "https://homepages.inf.ed.ac.uk/htang2/sigml/",
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "fcd80a93a40a38369466f21e6e2c0de0e192950df38b7ab8762b4c170e5da73c",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8ef5d977f548e7f6f90108ae2d02fcddbe037f586118510abe5ce60b9fe71515",
+      "changed": false
+    },
+    {
+      "url": "https://iberspeech.tech/2026/",
+      "groups": [
+        "SIG-IL"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "3c99458b87148d61e9448b7cd55d85f0ed483693638e750abf31565a12d2de47",
       "changed": true
     },
     {
@@ -71,285 +61,307 @@
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "55c234105d44d3b2b099a347c5b4dc1df6635b0242928c7217ff81cac4b91491",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-sig-rosp.github.io/ISCA-SIG-RoSP/",
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1b8717ec48e636a3ddc1156d89345eea3008e01cbceb8d90d2218acc314576a9",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Association-Francophone-de-la-Communication-Parle-AFCP",
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "0b59cdfab6595fea14e6ea003eefcb74385fb792f40a8c6fa77412e025a265d2",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Associazione-Italiana-di-Scienze-della-Voce-AISV",
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "934f4673cab45dba0be098b86597e24160fe9df0d1870eba79120588d966239a",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Audio-Visual-Speech-AVISA",
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "cb9592512ccfacf0ab0554d62186d0e311d3ccc48c3aa3f0de13168122055d8a",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Child-Computer-Interaction-SIG-CHILD",
       "groups": [
         "SIG-CHILD"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d10b4e3390c9fd256fd1ce94f3961d69e020e8025e043e64be5a32d31df9bb7c",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Chinese-Spoken-Language-Processing-SIG-CSLP",
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "91f4d7d635fed4f2a47d7a99b34f9ab16958b01431d90f559792e7613365b053",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Discourse-and-Dialogue-SIGdial",
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "3c8025f77be6c011ab2482952adc7cff69632ddd9821fbe18621622c4f67f61a",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Iberian-Languages-SIG-IL",
       "groups": [
         "SIG-IL"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6800dab4779f0095dabf768abea5a82ccd41687caa10ade7faebfe81dcc72f62",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Indian-Language-Speech-Processing-SIG-ILSP",
       "groups": [
         "SIG-ILSP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "7e8e89ac3b9990963e058fcce7b7055963dfe689c082e83363134e784285e5cd",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Machine-Learning-SIGML",
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "3d7750300e621cf40bbdba5a4c69ae4663a71aa0b178843d0b20fff5e20a8190",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Robust-Speech-Processing-SIG-RoSP",
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "9b777f35c3c6ce8dcc0f37b637a61e8e4c4c6b1548ed67396372c7c5a5bd016e",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Russian-Speech-Analysis-SIGRU",
       "groups": [
         "SIGRU"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8d35f00a903be8f5a0ab5341bb22ae884fb36fd1b0ca6124079fdd91a541a124",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/SCOOT",
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "21dcec7aedd7a7d5391b4943a158db46b5103870d5cede9330e4f19cf7524821",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Security-and-Privacy-in-Speech-Communication-SIG-SPSC",
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "596bd54836670a6c53a6075f4da6a18a19707794d516ed1801a5cfb3cf180ecc",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Speaker-and-Language-Characterization-SpLC",
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f479719caee2e191d2a28b8d9217b2aa9d28041e7d188d4ad75d5f56a7e2adfc",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Special-Interest-Groups",
       "groups": [
         "ISCA roster"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "09b0c99a1220f90e8a7075836c38cd5fd209a890d26161a4a299c5f8e65e7d0c",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Speech-Prosody-SProSIG",
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "7e9c51383356839d776a369caf0099939b9132de982a199ba22bc745d4b1a19b",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Speech-Synthesis-SynSig",
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "14a02b2408dbee50a34b33f6aa1ee8bec526e485635a1dbaeffd12b96f955853",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Speech-and-Language-Processing-for-Assistive-Technologies-SLPAT",
       "groups": [
         "SLPAT"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "198b79131cd6959a0a439e07995806c94473e4bb4bae5f0bb14774771f0fc987",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Speech-and-Language-Technology-in-Education-SLaTE",
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8f49d0bbfdc43211ae6dcc06872ed7da73e0afdad69483555b91dabf5a862d0c",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Spoken-Language-Translation-SIG-SLT",
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8cbe3c82e7b48beec3cbeee2bf38f9df324433e10f88cdb45a54db9303418b5e",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/SynSIG",
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "9b782312f351074006e86fb328e57db696595c200403085d784fa9111e3267c8",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/SynSIG-Events",
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "30e770f5da766ad66818bf24ca396201231ee99fcc6f3c75063b9f8eecc8f3ad",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/The-History-of-Speech-Communication-Sciences-SIG-HIST",
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6224a73c90ac428d0650849ac6301d325fdccc8d5ca8eee7711b0130e20f2e6e",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://isca-speech.org/Under-resourced-Languages-SIGUL",
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "e856ee23250a6f436d03a06c10801f1cf0e58a3c25ec74b201ce2c84cb7f8f22",
+      "changed": false
+    },
+    {
+      "url": "https://iscslp.org/2026/",
+      "groups": [
+        "SIG-CSLP"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "d1f9e5088fd4a762ec438c4f17330da6b82b799d51256604339153e4a172b801",
+      "changed": true
+    },
+    {
+      "url": "https://iscslp.org/2026/program",
+      "groups": [
+        "SIG-CSLP"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "6dd57ee2f15d63d91a59a99f77c7f54e7af3222a44b330b40675b6036f1b4712",
       "changed": true
     },
     {
@@ -357,10 +369,32 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "81b4a9e835a5663820c36ffae5d29f53885b22b7db8a9ec7fdf1609789093d99",
+      "changed": false
+    },
+    {
+      "url": "https://iwslt.org/2027/",
+      "groups": [
+        "SIG-SLT"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "613032d15679ce3a8fd618e9ecc53d4847bb1937b859e001c07de68803f60577",
+      "changed": true
+    },
+    {
+      "url": "https://iwslt.org/current-calls/",
+      "groups": [
+        "SIG-SLT"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "d6f3d092cac3eb5cbc831e80618ae91d48055cd0f21634f234d226d24f50ac78",
       "changed": true
     },
     {
@@ -368,10 +402,65 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6ff59273ea1c73b6d94c0b664a93c6288ffb0bb508e1e80884acbcb59e471c96",
+      "changed": false
+    },
+    {
+      "url": "https://ling.cuhk.edu.hk/tai2027/",
+      "groups": [
+        "SProSIG"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "93646e0823422f97f6ea4cf31689842fc83da624db843818141b3d653e3d3bbf",
+      "changed": true
+    },
+    {
+      "url": "https://nilc-nlp.github.io/ssw-2027/blizzard-challenge.html",
+      "groups": [
+        "SynSIG"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "66e53a6ca352bfe733a434ba08989e0700fed4466d57a16dc77ec6b326bf43a6",
+      "changed": true
+    },
+    {
+      "url": "https://nilc-nlp.github.io/ssw-2027/calls.html",
+      "groups": [
+        "SynSIG"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "69d8c430b0b9b892cbb2736cb81e9ac25f8b2e05af0e8fa4ca8736a1f7ae0bcf",
+      "changed": true
+    },
+    {
+      "url": "https://nilc-nlp.github.io/ssw-2027/index.html",
+      "groups": [
+        "SynSIG"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "297cc9bc63ca4177802640a8cec5e56c30a4a71e57ad8e6170b583d3e612acc1",
+      "changed": true
+    },
+    {
+      "url": "https://odyssey2026.inesc-id.pt/2026/06/20/special-issue-in-computer-speech-language-journal/",
+      "groups": [
+        "SpLC"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "5a1acb7f425d06b2c82ae1a1262b61d4a0b4ea9dec4e2fa5a07ed6f909e2d0f7",
       "changed": true
     },
     {
@@ -379,10 +468,54 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1a112ed15e1b0f8201ca815f50d9487073ff07d302385abf51c00de214f9c5b1",
+      "changed": false
+    },
+    {
+      "url": "https://project.inria.fr/avsp2026/workshop-program/",
+      "groups": [
+        "AVISA"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "2bcef360743ec46a86641a3324fcbd773de045e444edbf99897961e2b67080cf",
+      "changed": true
+    },
+    {
+      "url": "https://semdial2026.github.io/",
+      "groups": [
+        "SIGdial"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "275673742d3426c1fdd945281a5a11fe1a6adb9443502a9529f24927e1e52992",
+      "changed": true
+    },
+    {
+      "url": "https://sites.google.com/view/aisv2027/call-for-papers",
+      "groups": [
+        "AISV"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "54990eda14a479d036d6d4336bc32813b29f5983de323ba85a46ce568a3377b3",
+      "changed": true
+    },
+    {
+      "url": "https://sites.google.com/view/aisv2027/home",
+      "groups": [
+        "AISV"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "02f8f4df17f9f795be42dd6720100439b1da3ea118b0c8634e5ee4ff547fe7f2",
       "changed": true
     },
     {
@@ -390,21 +523,32 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f84e3865501c6b6f2d71e523bdb5d9dcb5a20cffd6dccad40634e4c90a744f52",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://sites.google.com/view/sigslate",
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f3d59b9c2a1508264f6cd41cb6216bf81ce95e00e39107105d8e68fbc5c6ff72",
+      "changed": false
+    },
+    {
+      "url": "https://sites.google.com/view/sigslate/webinar",
+      "groups": [
+        "SLaTE"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "970e4a20e51348cb0ee9d81cf2000b70ba0c4eb08188eca94caa57ac1a9f534e",
       "changed": true
     },
     {
@@ -412,10 +556,32 @@
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "73aad032c85d03f38f40ce33940dec353338e815083c744e6d6600f0b606c27d",
+      "changed": false
+    },
+    {
+      "url": "https://sprosig.org/lectures.html",
+      "groups": [
+        "SProSIG"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "3f72d93b84f325265f2a9c947bd7586fbf2a4a30633bf9b0cc0fc390047f523a",
+      "changed": true
+    },
+    {
+      "url": "https://spsc-symposium.de/",
+      "groups": [
+        "SIG-SPSC"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "b83eec1a946356c413d619e61cd22719786e7152e4029a2b33363dca56079309",
       "changed": true
     },
     {
@@ -423,10 +589,21 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "34dd9c658b8410c0ecba97fa987ef52da295a76ee7697250e7e1b2d9577233a0",
+      "changed": false
+    },
+    {
+      "url": "https://www.afcp-parole.org/journee-detude-afcp-constituer-enrichir-et-exploiter-les-donnees-de-parole/",
+      "groups": [
+        "AFCP"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "edfc60de277524aea65c5b325e25494fc714993535aa8ea2cbc606d59f994390",
       "changed": true
     },
     {
@@ -434,10 +611,43 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "5e60a69abc05c0a49f2b4e4c9d9f98c709be118b68fa96b933d49da779b975e8",
+      "changed": false
+    },
+    {
+      "url": "https://www.aisv.it/categorie/notizie/corsi-aisv/corso-online-intelligenza-artificiale-applicata-alle-tecnologie-della-voce-i-edizione",
+      "groups": [
+        "AISV"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "8d6ef6c20afc7d0903e31bcae1a9b65369eaab1e685de2b7c0491215bd2a8efb",
+      "changed": true
+    },
+    {
+      "url": "https://www.aisv.it/categorie/notizie/eventi/scuola-estiva-su-metodi-e-analisi-della-lingua-parlata-malip",
+      "groups": [
+        "AISV"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "ec0a17b484409805019e73dc61f6fdeb9cc13d443aee645535789440b34fe630",
+      "changed": true
+    },
+    {
+      "url": "https://www.aisv.it/categorie/notizie/eventi/vii-edizione-della-giornata-di-studio-dedicata-alle-fonti-e-agli-archivi-orali",
+      "groups": [
+        "AISV"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "c21b9f54d29be751a0fd3b310d8da297122aacf2efaa00f165dbb6c513188a1d",
       "changed": true
     },
     {
@@ -445,64 +655,99 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "dcbed15b22680227abdf9ed5569effb44621384392c7515847884ca0d17c2f37",
+      "changed": false
+    },
+    {
+      "url": "https://www.chimechallenge.org/challenges/chime10/dates",
+      "groups": [
+        "SIG-RoSP"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "568f0dad58d5eb9fa73678dbf5668eb1ef280bde54090e7466383f36017d10d9",
       "changed": true
     },
     {
-      "url": "https://www.helmer-strik.nl/slate/",
+      "url": "https://www.chimechallenge.org/current/dates",
       "groups": [
-        "SLaTE"
+        "SIG-RoSP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
-      "status": "unavailable",
-      "error": "URLError",
-      "changed": false
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "2d68d8e99e0599de1445cde12ad97661c0e8d6d58a87b9123c0147fb6d2c0d8d",
+      "changed": true
+    },
+    {
+      "url": "https://www.elra.info/about/sig/sigul/",
+      "groups": [
+        "SIGUL"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "21ee44680c9f1f4c960ec285ab9aa96fa5407851c380b34a1d2596519758c6f5",
+      "changed": true
     },
     {
       "url": "https://www.isca-cslp.org/web/",
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "363ed5c1d63be657e2ba095d038a586788ca00351738f915aabd217768a8cc34",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://www.isca-speech.org/Distinguished-Lecturers",
       "groups": [
+        "ISCA",
         "ISCA resources"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "c423bd0ee2ebdcfdfbccf54ccf1a791c8dba16621a3e542f38223e3faeb60b4a",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://www.isca-speech.org/Online-Seminars",
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1063f9722c2003dd37a5e7988a7f1fd158765d1bc7cb493aecda5caf6703058d",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://www.isca-speech.org/Video-Archive",
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "359c2d3438030efd947aa3fe5e26cc6bf589fecffa75d48d7f1ad08339633a65",
+      "changed": false
+    },
+    {
+      "url": "https://www.isca-students.org/sacweb/index.php/podcast/podcast-episodes",
+      "groups": [
+        "ISCA resources"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "ee40e06242b39a26f7d41daffe2aa30e7ee4bc0e4d8d5a13250d32db77245adb",
       "changed": true
     },
     {
@@ -510,10 +755,21 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "526ce7df43d290ffac9e34b8524093b5e5ca16fc816dfeefe1204e04d01281e2",
+      "sha256": "c6ce292344b7e78276f27d4671f7bc382af88efe00ac216a66fdc4f841ab6aa3",
+      "changed": true
+    },
+    {
+      "url": "https://www.sig-hist.org/",
+      "groups": [
+        "SIG-HIST"
+      ],
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "564c2a1d2edc68efce2cbda88b5cf227878f7e6dedf63809a9a336e46a4db782",
       "changed": true
     },
     {
@@ -521,21 +777,21 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2f864ffbf21a82ac9ea4a29c6df10d1c6c88e893267611176abe42c32b1ec454",
-      "changed": true
+      "changed": false
     },
     {
-      "url": "https://www.sigul.eu",
+      "url": "https://www.speakerodyssey.com/",
       "groups": [
-        "SIGUL"
+        "SpLC"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "2b8b748c5b9650c05a52cffbdcc26d5f8293f752fa928b7e2a3853c33f49e707",
+      "sha256": "997e38a5d1fed751b80d601278bca0a9df919b72422d865b892f5ecd356a84a0",
       "changed": true
     },
     {
@@ -543,22 +799,22 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "ca98019207f0cdc04632367f2c7a8c2c1c043754781fb5a2fd1d91ebce925027",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://www.spsc-sig.org/webinar",
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-10-03T05:13:57.801754+00:00",
+      "checkedAt": "2026-10-03T09:11:45.816533+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "66e11b3c608e93e1b2ed2f01a4635b87d211bcced7ee0be19b224c9ea0d3c72c",
-      "changed": true
+      "changed": false
     }
   ],
   "scope": "Official roster, every SIG profile/homepage, seminar indexes, event sources and association resources. A successful fetch is not a factual review."

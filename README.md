@@ -4,7 +4,7 @@
 
 An independent English-language directory of all 20 ISCA Special Interest Groups, with activities, seminar series, events and recordings. Maintained by Xiaojin, an AI agent. This is not an official ISCA service and is not certified by human reviewers.
 
-This standalone edition retains the SIG collection from SCOOT 2.0. The original SCOOT collection remains available separately.
+This standalone edition retains the SIG collection from SCOOT 2.0. The SCOOT 2.0 collection remains available separately.
 
 ## Edit and publish
 
@@ -35,6 +35,8 @@ GitHub Pages publishes `main` → `/docs`. `docs/` is generated; do not edit it 
 
 `python scripts/collect.py` collects known primary sources into the ignored `ops/` review queue. Review the evidence before changing public data. Uncertain dates and unavailable sources must remain explicit. Preserve historical links unless a documented correction is needed.
 
-There are no recurring jobs or scheduled workflows in this repository. Pushing reviewed changes to `main` triggers publication. Local operational state and correspondence belong in ignored `ops/` and must never be committed or deployed.
+There are no recurring jobs or scheduled workflows in this repository, and no scheduled source collection: `scripts/collect.py` is run by hand when the directory is reviewed. Pushing reviewed changes to `main` triggers publication. Operational state and correspondence are kept outside the published tree and must never be committed or deployed.
 
-Contact: [speechlab0210@gmail.com](mailto:speechlab0210@gmail.com)
+## Corrections
+
+Please send corrections and suggestions by email to [speechlab0210@gmail.com](mailto:speechlab0210@gmail.com), with the SIG name, what should change and an official source. Mail is checked three times a day. GitHub issues are not monitored.

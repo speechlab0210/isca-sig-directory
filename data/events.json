@@ -5,10 +5,10 @@
     "displayDate": "3–4 Sep 2026",
     "title": "SemDial 2026 “LuffDial”",
     "sig": "SIGdial",
-    "url": "https://www.sigdial.org/",
-    "details": "",
-    "verified": false,
-    "reviewed": "2026-08-31"
+    "url": "https://semdial2026.github.io/",
+    "details": "30th Workshop on the Semantics and Pragmatics of Dialogue, Loughborough University, UK",
+    "verified": true,
+    "reviewed": "2026-10-03"
   },
   {
     "start": "2026-09-04",
@@ -16,21 +16,10 @@
     "displayDate": "4 Sep 2026",
     "title": "Speech Prosody Lecture — Xiaoming Jiang",
     "sig": "SProSIG",
-    "url": "https://sprosig.org/lectures.html",
-    "details": "Original calendar entry; the source still labels this talk upcoming despite the elapsed date.",
-    "verified": false,
-    "reviewed": "2026-08-31"
-  },
-  {
-    "start": "2026-09-01",
-    "end": "2026-09-30",
-    "displayDate": "Sep 2026",
-    "title": "SPSC Webinar — Li Liu (original announcement)",
-    "sig": "SIG-SPSC",
-    "url": "https://www.spsc-sig.org/webinar",
-    "details": "Retained as a historical announcement. This September listing is no longer on the current upcoming schedule; occurrence not confirmed.",
-    "verified": false,
-    "reviewed": "2026-08-31"
+    "url": "https://www.youtube.com/watch?v=7SlnbpIwy9w",
+    "details": "“Cracking the Communicative Codes of Voice and Speech Prosody: Neurocognitive Bases and Applications”, 13:00 Campinas time. Held as scheduled; the live-stream recording is public on YouTube and in the Speech Prosody Lecture Series playlist.",
+    "verified": true,
+    "reviewed": "2026-10-03"
   },
   {
     "start": "2026-09-23",
@@ -38,8 +27,8 @@
     "displayDate": "23–25 Sep 2026",
     "title": "MALiP Summer School, Naples",
     "sig": "AISV",
-    "url": "https://www.aisv.it/",
-    "details": "The association’s news page lists these dates.",
+    "url": "https://www.aisv.it/categorie/notizie/eventi/scuola-estiva-su-metodi-e-analisi-della-lingua-parlata-malip",
+    "details": "Joint summer school of the Società di Linguistica Italiana (SLI) and AISV, at the Centro Interdipartimentale di Ricerca Urban/Eco, Università Federico II.",
     "verified": true,
     "reviewed": "2026-10-03"
   },
@@ -47,23 +36,23 @@
     "start": "2026-09-26",
     "end": null,
     "displayDate": "26 Sep 2026",
-    "title": "SPSC Symposium, UNSW Sydney",
+    "title": "6th SPSC Symposium + VoicePrivacy 2026 workshop, UNSW Sydney",
     "sig": "SIG-SPSC",
-    "url": "https://www.spsc-sig.org/",
-    "details": "Interspeech 2026 satellite; retained from the initial collection.",
-    "verified": false,
-    "reviewed": "2026-08-31"
+    "url": "https://spsc-symposium.de/",
+    "details": "Joint SPSC Symposium and VoicePrivacy Challenge workshop at UNSW Kensington Campus (Civil Engineering Building K-H20), alongside Interspeech 2026 in Sydney.",
+    "verified": true,
+    "reviewed": "2026-10-03"
   },
   {
     "start": "2026-10-02",
     "end": null,
     "displayDate": "2 Oct 2026",
-    "title": "AVSP 2026, Sydney",
+    "title": "AVSP 2026 (16th), Sydney",
     "sig": "AVISA",
-    "url": "https://project.inria.fr/avsp2026/",
-    "details": "Interspeech 2026 satellite; retained from the initial collection.",
-    "verified": false,
-    "reviewed": "2026-08-31"
+    "url": "https://project.inria.fr/avsp2026/workshop-program/",
+    "details": "First AVSP since 2019; Interspeech 2026 satellite at The MARCS Institute, Western Sydney University (Westmead). Keynote: Michael J. Richardson (Macquarie University).",
+    "verified": true,
+    "reviewed": "2026-10-03"
   },
   {
     "start": "2026-10-07",
@@ -90,11 +79,11 @@
   {
     "start": "2026-10-21",
     "end": null,
-    "displayDate": "21 Oct · year unconfirmed",
+    "displayDate": "21 Oct 2026",
     "title": "Speech Prosody Lecture — Peggy Mok",
     "sig": "SProSIG",
     "url": "https://sprosig.org/lectures.html",
-    "details": "08:00 Campinas time. Day and month still appear on the source; 2026 is inherited from the initial calendar, not repeated on the page.",
+    "details": "08:00 Campinas time. Listed under “Upcoming Talks” right after the 4 Sep 2026 lecture; the organizer’s page gives the day and month but not the year.",
     "verified": false,
     "reviewed": "2026-10-03"
   },
@@ -104,7 +93,7 @@
     "displayDate": "27 Oct 2026",
     "title": "Oral sources & archives study day, Milan",
     "sig": "AISV",
-    "url": "https://www.aisv.it/",
+    "url": "https://www.aisv.it/categorie/notizie/eventi/vii-edizione-della-giornata-di-studio-dedicata-alle-fonti-e-agli-archivi-orali",
     "details": "Seventh edition, at Museo Nazionale Scienza e Tecnologia Leonardo da Vinci. Organizer lists 10:00–17:00.",
     "verified": true,
     "reviewed": "2026-10-03"
@@ -115,7 +104,7 @@
     "displayDate": "31 Oct 2026",
     "title": "Registration deadline: AI for voice technology course",
     "sig": "AISV",
-    "url": "https://www.aisv.it/",
+    "url": "https://www.aisv.it/categorie/notizie/corsi-aisv/corso-online-intelligenza-artificiale-applicata-alle-tecnologie-della-voce-i-edizione",
     "details": "Italian-language online course; organizer lists a maximum of 30 participants.",
     "verified": true,
     "reviewed": "2026-10-03"
@@ -138,18 +127,18 @@
     "title": "ISCSLP 2026, Penang",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/",
-    "details": "Main conference: 14–16 November. Tutorials: 17 November. Corrected the earlier calendar’s incomplete date.",
+    "details": "Main conference 14–16 November in Penang; tutorial day 17 November at Universiti Sains Malaysia (USM).",
     "verified": true,
     "reviewed": "2026-10-03"
   },
   {
     "start": "2026-11-17",
     "end": null,
-    "displayDate": "17 Nov · year unconfirmed",
+    "displayDate": "17 Nov 2026",
     "title": "Speech Prosody Lecture — Sacha Calhoun",
     "sig": "SProSIG",
     "url": "https://sprosig.org/lectures.html",
-    "details": "17:00 Campinas time. Day and month appear on the source; confirm the year with the organizer.",
+    "details": "17:00 Campinas time. Listed under “Upcoming Talks” after the 4 Sep 2026 and 21 Oct lectures; the organizer’s page gives the day and month but not the year.",
     "verified": false,
     "reviewed": "2026-10-03"
   },
@@ -170,8 +159,8 @@
     "displayDate": "24–26 Feb 2027",
     "title": "AISV 2027, Macerata",
     "sig": "AISV",
-    "url": "https://www.aisv.it/",
-    "details": "The association announces its 23rd national conference at Università degli Studi di Macerata.",
+    "url": "https://sites.google.com/view/aisv2027/home",
+    "details": "23rd national conference, 'Dare corpo alla voce. Rappresentazione grafica e annotazione linguistica', Dipartimento di Studi Umanistici, Università degli Studi di Macerata.",
     "verified": true,
     "reviewed": "2026-10-03"
   },
@@ -181,8 +170,195 @@
     "displayDate": "6–8 Sep 2027",
     "title": "Speech Synthesis Workshop — SSW14",
     "sig": "SynSIG",
-    "url": "https://isca-speech.org/SynSIG-Events",
-    "details": "Maceió, Brazil. Dates listed on the official SynSIG Events page.",
+    "url": "https://nilc-nlp.github.io/ssw-2027/index.html",
+    "details": "Maceió, Brazil; satellite of Interspeech 2027 (São Paulo, 29 Aug–2 Sep). The Blizzard Challenge 2027 workshop follows on 9 Sep.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-12-06",
+    "end": null,
+    "displayDate": "6 Dec 2026",
+    "title": "Tone and Intonation 2027 (TAI 2027) — abstract submission deadline",
+    "sig": "SProSIG",
+    "url": "https://ling.cuhk.edu.hk/tai2027/",
+    "details": "Listed among upcoming events on the SProSIG homepage. Abstract submission opens 12 Oct 2026; the deadline is Anywhere on Earth. The conference runs 27–29 May 2027 at The Chinese University of Hong Kong.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-05-27",
+    "end": "2027-05-29",
+    "displayDate": "27–29 May 2027",
+    "title": "Tone and Intonation 2027 (TAI 2027), Hong Kong",
+    "sig": "SProSIG",
+    "url": "https://ling.cuhk.edu.hk/tai2027/",
+    "details": "The Chinese University of Hong Kong. Listed among other upcoming events on the SProSIG homepage.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-01-12",
+    "end": null,
+    "displayDate": "12 Jan 2027",
+    "title": "Blizzard Challenge 2027 — team registration closes",
+    "sig": "SynSIG",
+    "url": "https://nilc-nlp.github.io/ssw-2027/blizzard-challenge.html",
+    "details": "Accented zero-shot TTS for spontaneous Portuguese speech (São Paulo, Recife and European Portuguese accents). Preliminary timeline: test data released 1 Feb 2027; results workshop 9 Sep 2027, Maceió.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-04-01",
+    "end": null,
+    "displayDate": "1 Apr 2027",
+    "title": "SSW14 — paper submission deadline",
+    "sig": "SynSIG",
+    "url": "https://nilc-nlp.github.io/ssw-2027/calls.html",
+    "details": "Final paper submission; the submission system opens 30 Jan 2027. Deadlines are 23:59 AoE.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-31",
+    "end": null,
+    "displayDate": "31 Oct 2026",
+    "title": "Submission deadline: Computer Speech & Language special issue “Speaker Characterization Beyond Words”",
+    "sig": "SpLC",
+    "url": "https://odyssey2026.inesc-id.pt/2026/06/20/special-issue-in-computer-speech-language-journal/",
+    "details": "Special issue tied to the Odyssey 2026 themes of identity, health and emotion from speech.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-09-17",
+    "end": "2026-09-18",
+    "displayDate": "17–18 Sep 2026",
+    "title": "HSCR 2026 — 8th International Workshop on the History of Speech Communication Research",
+    "sig": "SIG-HIST",
+    "url": "https://8iwhscr.uevora.pt/",
+    "details": "Faculty of Arts and Humanities, University of Coimbra, Portugal; closed with the SIG-HIST business meeting.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-11-16",
+    "end": null,
+    "displayDate": "16 Nov 2026",
+    "title": "SIG-CSLP Assembly at ISCSLP 2026",
+    "sig": "SIG-CSLP",
+    "url": "https://iscslp.org/2026/program",
+    "details": "Members’ assembly, 16:00–16:30 on day 3 of ISCSLP 2026, Penang (provisional programme; subject to change).",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-11-01",
+    "end": null,
+    "displayDate": "1 Nov 2026",
+    "title": "IWSLT 2027 shared-task decisions due",
+    "sig": "SIG-SLT",
+    "url": "https://iwslt.org/current-calls/",
+    "details": "Decisions on the proposed 2027 shared tasks are due (the call for task proposals closed 30 Sep 2026). Year-round leaderboards for the compression, offline and instruction-following tasks are already open.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-03-15",
+    "end": null,
+    "displayDate": "15 Mar 2027",
+    "title": "IWSLT 2027 scientific paper deadline",
+    "sig": "SIG-SLT",
+    "url": "https://iwslt.org/2027/",
+    "details": "Preliminary timeline; deadlines are 11:59PM UTC-12:00. Shared-task training and dev data are released 1 Jan 2027.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-08-17",
+    "end": "2027-08-18",
+    "displayDate": "17–18 Aug 2027",
+    "title": "IWSLT 2027 (24th), Kyoto",
+    "sig": "SIG-SLT",
+    "url": "https://iwslt.org/2027/",
+    "details": "Co-located with ACL 2027. Conference days from the organizer’s preliminary timeline; the site header gives 17–22 Aug 2027.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-12-01",
+    "end": null,
+    "displayDate": "1 Dec 2026",
+    "title": "CHiME-9 special issue: submission deadline",
+    "sig": "SIG-RoSP",
+    "url": "https://www.chimechallenge.org/current/dates",
+    "details": "Special issue linked to the CHiME-9 challenge; submissions opened 1 Aug 2026. Deadline 11:59pm AoE.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-02-04",
+    "end": null,
+    "displayDate": "4 Feb 2027",
+    "title": "CHiME-10 challenge opens",
+    "sig": "SIG-RoSP",
+    "url": "https://www.chimechallenge.org/challenges/chime10/dates",
+    "details": "Three tasks: ECHI-2, URGENT and SG-TSE. Submission deadline Aug–Sep 2027 (TBC); results at a CHiME 2027 workshop planned for December 2027 (TBC).",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-09-11",
+    "end": null,
+    "displayDate": "11 Sep 2026",
+    "title": "AFCP study day: building, enriching and using speech data, Paris",
+    "sig": "AFCP",
+    "url": "https://www.afcp-parole.org/journee-detude-afcp-constituer-enrichir-et-exploiter-les-donnees-de-parole/",
+    "details": "One-day AFCP seminar with talks, round tables and hands-on workshops, with financial support from the GdR TAL. Venue: Université Sorbonne Nouvelle, Paris. Free, with registration.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-18",
+    "end": null,
+    "displayDate": "18 Oct 2026",
+    "title": "Abstract deadline (extended): AISV 2027, Macerata",
+    "sig": "AISV",
+    "url": "https://sites.google.com/view/aisv2027/call-for-papers",
+    "details": "Abstracts in Italian or English, at least 600 words, for the 23rd national conference (24–26 Feb 2027). The conference site shows the original 30 Sep deadline struck through; proposals are selected by 20 Nov 2026.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-05",
+    "end": null,
+    "displayDate": "5 Oct 2026",
+    "title": "ISCA Distinguished Lecture — Kai Yu",
+    "sig": "ISCA",
+    "url": "https://www.isca-speech.org/Distinguished-Lecturers",
+    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Towards Reliable Task-oriented LLM Agents”. Registration was through a Google Form linked from the ISCA page and was requested by 2 October, 13:00 UTC.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-14",
+    "end": null,
+    "displayDate": "14 Oct 2026",
+    "title": "ISCA Distinguished Lecture — Joseph Keshet",
+    "sig": "ISCA",
+    "url": "https://www.isca-speech.org/Distinguished-Lecturers",
+    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Speech AI in the real world: noise, latency, and the languages we left behind”. Registration is through a Google Form linked from the ISCA page (requested by 11 October, 13:00 UTC).",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-30",
+    "end": null,
+    "displayDate": "30 Oct 2026",
+    "title": "ISCA Distinguished Lecture — Kong Aik Lee",
+    "sig": "ISCA",
+    "url": "https://www.isca-speech.org/Distinguished-Lecturers",
+    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Speaker Recognition and Anti-Spoofing: State of the Art, Metrics, and Ethics”. Registration is through a Google Form linked from the ISCA page (requested by 27 October, 13:00 UTC).",
     "verified": true,
     "reviewed": "2026-10-03"
   }
