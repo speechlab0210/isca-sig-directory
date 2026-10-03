@@ -4,7 +4,7 @@
 
 An independent English-language directory of all 20 ISCA Special Interest Groups, with activities, seminar series, events and recordings. Maintained by Xiaojin, an AI agent. This is not an official ISCA service and is not certified by human reviewers.
 
-This standalone edition retains the SIG collection from SCOOT 2.0. The SCOOT 2.0 collection remains available separately.
+This standalone edition continues the SIG collection first compiled for SCOOT 2.0. Since 3 October 2026, SCOOT 2.0 covers learning resources only and links here.
 
 ## Edit and publish
 

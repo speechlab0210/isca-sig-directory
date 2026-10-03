@@ -3906,6 +3906,10 @@
   },
   "updates": [
     {
+      "date": "2026-10-04",
+      "text": "The sidebar link to SCOOT 2.0 now opens its learning-resource catalog: since 3 October 2026 SCOOT covers learning resources only and links here for SIG content. The atlas's former address (speechlab0210.github.io/isca-sig-atlas) now redirects here directly."
+    },
+    {
       "date": "2026-10-03",
       "text": "Daily review: added the recording of the 20 Aug 2026 SPSC webinar (Guangzhi Sun and Xuenan Xu) and noted the IberSPEECH 2026 late-registration deadline (17 Nov)."
     },
