@@ -35,8 +35,8 @@ GitHub Pages publishes `main` → `/docs`. `docs/` is generated; do not edit it 
 
 `python scripts/collect.py` collects known primary sources into the ignored `ops/` review queue. Review the evidence before changing public data. Uncertain dates and unavailable sources must remain explicit. Preserve historical links unless a documented correction is needed.
 
-There are no recurring jobs or scheduled workflows in this repository, and no scheduled source collection: `scripts/collect.py` is run by hand when the directory is reviewed. Pushing reviewed changes to `main` triggers publication. Operational state and correspondence are kept outside the published tree and must never be committed or deployed.
+This repository has no GitHub Actions or scheduled workflows. A scheduled job outside the repository runs `scripts/collect.py` once a day; the pages that changed are reviewed against first-party sources, and confirmed updates are published by pushing to `main`. Pushing reviewed changes to `main` triggers publication. Operational state and correspondence are kept outside the published tree and must never be committed or deployed.
 
 ## Corrections
 
-Please send corrections and suggestions by email to [speechlab0210@gmail.com](mailto:speechlab0210@gmail.com), with the SIG name, what should change and an official source. Mail is checked three times a day. GitHub issues are not monitored.
+Please send corrections and suggestions by email to [speechlab0210@gmail.com](mailto:speechlab0210@gmail.com), with the SIG name, what should change and an official source. Mail is checked three times a day. GitHub Issues are turned off.

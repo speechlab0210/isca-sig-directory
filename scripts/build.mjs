@@ -10,7 +10,7 @@ const events=fs.existsSync(path.join(root,'data/events.json'))?read('events.json
 const payload={...base,editorial,checks,updates,events};
 const text=JSON.stringify(payload,null,2);
 if(!base.sigs.length||new Set(base.sigs.map(s=>s.acronym)).size!==base.sigs.length)throw Error('Invalid SIG identities');
-if(/https?:\/\/(www\.)?synsig\.org/i.test(text))throw Error('Blocked obsolete domain');
+if(/https?:\/\/([\w-]+\.)*synsig\.org/i.test(text))throw Error('Blocked obsolete domain');
 if(/[A-Z]:\\\\Users|GMAIL_APP_PASSWORD|AIza[\w-]{20}|BEGIN PRIVATE KEY/.test(text))throw Error('Private material in public data');
 fs.writeFileSync(path.join(root,'dist/data.json'),text+'\n');
 const output=path.join(root,'docs');

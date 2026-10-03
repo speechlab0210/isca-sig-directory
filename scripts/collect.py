@@ -36,11 +36,14 @@ def main():
     base=json.loads((ROOT/'data/sigs.json').read_text(encoding='utf-8-sig')); ed=json.loads((ROOT/'data/editorial.json').read_text(encoding='utf-8-sig'))
     urls={'https://isca-speech.org/Special-Interest-Groups':{'ISCA roster'}}
     def add(u,label):
-        if u and u.startswith(('http://','https://')) and not any(h in urllib.parse.urlparse(u).netloc for h in ('youtube.com','youtu.be','superlectures.com')):
+        # skipped: video hosts, login-only or app-only pages, PDFs and sites that block automated fetches — they can never be read as text
+        if u and u.startswith(('http://','https://')) and not any(h in urllib.parse.urlparse(u).netloc for h in ('youtube.com','youtu.be','superlectures.com','bsky.app','slack.com','groups.google.com','mdpi.com','underline.io')) and not urllib.parse.urlparse(u).path.lower().endswith('.pdf'):
             urls.setdefault(u,set()).add(label)
     for s in base['sigs']:
         add(s['website'],s['acronym']);add(s['iscaUrl'],s['acronym'])
         for series in s['series']: add(series['pageUrl'],s['acronym'])
+        for a in s['activities']: add(a.get('url'),s['acronym'])
+        for v in s['videos']: add(v.get('url'),s['acronym'])
     for s in ed['series']:
         for link in s['links']: add(link['href'],s['sig'])
     for item in ed['central']: add(item.get('url'),'ISCA resources')

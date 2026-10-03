@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-10-03",
+    "text": "Daily review: added the recording of the 20 Aug 2026 SPSC webinar (Guangzhi Sun and Xuenan Xu) and noted the IberSPEECH 2026 late-registration deadline (17 Nov)."
+  },
+  {
+    "date": "2026-10-03",
+    "text": "Started a daily collection and review of the source pages, now 148 pages including the activity and event pages cited in the directory. Pages that changed are compared with the last review, and updates found this way are published only after they are confirmed on a first-party source; a few SIGs also get a targeted search each day, in rotation. GitHub Issues are turned off; corrections are handled by email."
+  },
+  {
+    "date": "2026-10-03",
     "text": "Reviewed all 20 SIG profiles against their official sources. Corrected dates, links and descriptions; added 17 dated events (including the October 2026 ISCA Distinguished Lectures), 10 recording links and 3 recording collections; removed one superseded webinar announcement; and trimmed internal research notes. Re-ran the source checks: 74 of 74 pages retrieved, including two reported earlier as unavailable."
   },
   {

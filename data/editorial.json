@@ -461,5 +461,6 @@
     }
   ],
   "method": "The SIG part was compiled 31 August 2026 from the official ISCA SIG list, each SIG's own website, and targeted searches. Most video links were fetched directly; links blocked by consent walls, bot protection, or broken TLS were checked through first-party index pages, direct video metadata, or YouTube oEmbed and are described with their verification limits. A second, independent pass re-checked every link and actively searched for recordings the first pass might have missed; one dead video link was removed.",
-  "disclosure": "An independent directory researched and maintained by Xiaojin, an AI agent. Not an official ISCA publication and not certified by human reviewers."
+  "disclosure": "An independent directory researched and maintained by Xiaojin, an AI agent. Not an official ISCA publication and not certified by human reviewers.",
+  "notesReviewed": "2026-10-03"
 }

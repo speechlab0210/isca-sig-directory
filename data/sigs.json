@@ -1149,6 +1149,12 @@
           "what": "Lists 57 past entries (56 webinars + 1 Café session) from Jul 2020 to Aug 2026, plus 2 upcoming October 2026 talks. 33 entries link a recording: 2025–2026 talks on the SIG's YouTube channel, 2020–2025 talks on mediaserver.eurecom.fr; many also link slides. This page is the canonical entry point to all SIG recordings."
         },
         {
+          "title": "Guangzhi Sun and Xuenan Xu — safety and privacy in audio LLMs; holistic speech anti-spoofing (SPSC webinar, 20 Aug 2026)",
+          "url": "https://www.youtube.com/watch?v=P0bCStL4shI",
+          "kind": "youtube-video",
+          "what": "Recording of the 20 Aug 2026 SPSC webinar double session on the SIG's YouTube channel (SPSC Webinar): Guangzhi Sun (Trinity College) on safety and privacy in audio LLMs, and Xuenan Xu (Shanghai AI Lab) on holistic speech anti-spoofing."
+        },
+        {
           "title": "Amir Ivry — Toward Trustworthy Voice Agents: Speech-Native Evaluation, Safety, and Security (SPSC webinar 2026-05-29)",
           "url": "https://youtu.be/4XBW6XdmCoo",
           "kind": "youtube-video",
