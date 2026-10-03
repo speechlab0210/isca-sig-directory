@@ -1,0 +1,189 @@
+[
+  {
+    "start": "2026-09-03",
+    "end": "2026-09-04",
+    "displayDate": "3–4 Sep 2026",
+    "title": "SemDial 2026 “LuffDial”",
+    "sig": "SIGdial",
+    "url": "https://www.sigdial.org/",
+    "details": "",
+    "verified": false,
+    "reviewed": "2026-08-31"
+  },
+  {
+    "start": "2026-09-04",
+    "end": null,
+    "displayDate": "4 Sep 2026",
+    "title": "Speech Prosody Lecture — Xiaoming Jiang",
+    "sig": "SProSIG",
+    "url": "https://sprosig.org/lectures.html",
+    "details": "Original calendar entry; the source still labels this talk upcoming despite the elapsed date.",
+    "verified": false,
+    "reviewed": "2026-08-31"
+  },
+  {
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "displayDate": "Sep 2026",
+    "title": "SPSC Webinar — Li Liu (original announcement)",
+    "sig": "SIG-SPSC",
+    "url": "https://www.spsc-sig.org/webinar",
+    "details": "Retained as a historical announcement. This September listing is no longer on the current upcoming schedule; occurrence not confirmed.",
+    "verified": false,
+    "reviewed": "2026-08-31"
+  },
+  {
+    "start": "2026-09-23",
+    "end": "2026-09-25",
+    "displayDate": "23–25 Sep 2026",
+    "title": "MALiP Summer School, Naples",
+    "sig": "AISV",
+    "url": "https://www.aisv.it/",
+    "details": "The association’s news page lists these dates.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-09-26",
+    "end": null,
+    "displayDate": "26 Sep 2026",
+    "title": "SPSC Symposium, UNSW Sydney",
+    "sig": "SIG-SPSC",
+    "url": "https://www.spsc-sig.org/",
+    "details": "Interspeech 2026 satellite; retained from the initial collection.",
+    "verified": false,
+    "reviewed": "2026-08-31"
+  },
+  {
+    "start": "2026-10-02",
+    "end": null,
+    "displayDate": "2 Oct 2026",
+    "title": "AVSP 2026, Sydney",
+    "sig": "AVISA",
+    "url": "https://project.inria.fr/avsp2026/",
+    "details": "Interspeech 2026 satellite; retained from the initial collection.",
+    "verified": false,
+    "reviewed": "2026-08-31"
+  },
+  {
+    "start": "2026-10-07",
+    "end": null,
+    "displayDate": "7 Oct 2026",
+    "title": "Watermarking AI-Generated Content — Pierre Fernandez",
+    "sig": "SIG-SPSC",
+    "url": "https://www.spsc-sig.org/webinar",
+    "details": "Online. Organizer lists 15:00 (CET). Follow its registration link to confirm the timezone.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-21",
+    "end": null,
+    "displayDate": "21 Oct 2026",
+    "title": "Acoustic Interference — Yanyun Wang",
+    "sig": "SIG-SPSC",
+    "url": "https://www.spsc-sig.org/webinar",
+    "details": "Online seminar on audio-model safety. Organizer lists 15:00 (CET); confirm at registration.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-21",
+    "end": null,
+    "displayDate": "21 Oct · year unconfirmed",
+    "title": "Speech Prosody Lecture — Peggy Mok",
+    "sig": "SProSIG",
+    "url": "https://sprosig.org/lectures.html",
+    "details": "08:00 Campinas time. Day and month still appear on the source; 2026 is inherited from the initial calendar, not repeated on the page.",
+    "verified": false,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-27",
+    "end": null,
+    "displayDate": "27 Oct 2026",
+    "title": "Oral sources & archives study day, Milan",
+    "sig": "AISV",
+    "url": "https://www.aisv.it/",
+    "details": "Seventh edition, at Museo Nazionale Scienza e Tecnologia Leonardo da Vinci. Organizer lists 10:00–17:00.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-10-31",
+    "end": null,
+    "displayDate": "31 Oct 2026",
+    "title": "Registration deadline: AI for voice technology course",
+    "sig": "AISV",
+    "url": "https://www.aisv.it/",
+    "details": "Italian-language online course; organizer lists a maximum of 30 participants.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-11-09",
+    "end": "2026-11-27",
+    "displayDate": "9–27 Nov 2026",
+    "title": "AI applied to voice technologies — online course",
+    "sig": "AISV",
+    "url": "https://www.aisv.it/formazione/corsi-online",
+    "details": "Nine live sessions in Italian, with practical programming exercises. Follow the detailed timetable for times.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-11-14",
+    "end": "2026-11-17",
+    "displayDate": "14–17 Nov 2026",
+    "title": "ISCSLP 2026, Penang",
+    "sig": "SIG-CSLP",
+    "url": "https://iscslp.org/2026/",
+    "details": "Main conference: 14–16 November. Tutorials: 17 November. Corrected the earlier calendar’s incomplete date.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-11-17",
+    "end": null,
+    "displayDate": "17 Nov · year unconfirmed",
+    "title": "Speech Prosody Lecture — Sacha Calhoun",
+    "sig": "SProSIG",
+    "url": "https://sprosig.org/lectures.html",
+    "details": "17:00 Campinas time. Day and month appear on the source; confirm the year with the organizer.",
+    "verified": false,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2026-11-18",
+    "end": "2026-11-20",
+    "displayDate": "18–20 Nov 2026",
+    "title": "IberSPEECH 2026, Madrid",
+    "sig": "SIG-IL",
+    "url": "https://iberspeech.tech/2026/",
+    "details": "Speech and language technologies for Iberian languages. Venue: ETSIT, Universidad Politécnica de Madrid.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-02-24",
+    "end": "2027-02-26",
+    "displayDate": "24–26 Feb 2027",
+    "title": "AISV 2027, Macerata",
+    "sig": "AISV",
+    "url": "https://www.aisv.it/",
+    "details": "The association announces its 23rd national conference at Università degli Studi di Macerata.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  },
+  {
+    "start": "2027-09-06",
+    "end": "2027-09-08",
+    "displayDate": "6–8 Sep 2027",
+    "title": "Speech Synthesis Workshop — SSW14",
+    "sig": "SynSIG",
+    "url": "https://isca-speech.org/SynSIG-Events",
+    "details": "Maceió, Brazil. Dates listed on the official SynSIG Events page.",
+    "verified": true,
+    "reviewed": "2026-10-03"
+  }
+]

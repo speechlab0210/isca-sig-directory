@@ -1,0 +1,10 @@
+ops/
+.sites-runtime/
+*.tar.gz
+*.tar
+__pycache__/
+.openai/
+.env
+.env.*
+*.pem
+*.key
