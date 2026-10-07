@@ -448,7 +448,7 @@
       ],
       "hasRec": true,
       "activeSeries": true,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-08"
     },
     {
       "acronym": "SIGdial",
@@ -890,7 +890,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-08"
     },
     {
       "acronym": "SIG-CHILD",
@@ -1061,8 +1061,9 @@
           "name": "SPSC Webinar & Café Sessions (webinar series; one Café journal-club session listed, Aug 2020)",
           "type": "webinar-series",
           "cadence": "webinar announced as once a month (first Monday preferred, flexible); Café journal club announced as monthly but only one session listed (27 Aug 2020)",
-          "last": "Listed upcoming: 7 Oct 2026, Pierre Fernandez; 21 Oct 2026, Yanyun Wang. Both are listed as 15:00 (CET) by the organizer; confirm the timezone when registering.",
-          "url": "https://www.spsc-sig.org/webinar"
+          "last": "Next listed: Yanyun Wang, 21 Oct 2026, 15:00 (CET). The organizer also retains the earlier Pierre Fernandez listing for 7 Oct 2026. Confirm the timezone when registering.",
+          "url": "https://www.spsc-sig.org/webinar",
+          "reviewed": "2026-10-08"
         },
         {
           "name": "SPSC Symposium (ISCA Symposium on Security and Privacy in Speech Communication)",
@@ -1126,11 +1127,12 @@
         {
           "name": "SPSC Webinar (web seminar series)",
           "active": true,
-          "cadence": "since July 2020; announced as once a month (organizer prefers the first Monday but is flexible); 2026 talks so far on 23 Jan, 27 Apr, 29 May and 20 Aug (two talks), with 7 and 21 Oct scheduled; 40 min talk + up to 20 min Q&A",
+          "cadence": "since July 2020; announced as once a month (organizer prefers the first Monday but is flexible); listed 2026 dates include 23 Jan, 27 Apr, 29 May, 20 Aug (two talks), 7 Oct and 21 Oct; 40 min talk + up to 20 min Q&A",
           "pageUrl": "https://www.spsc-sig.org/webinar",
           "recUrl": "https://www.spsc-sig.org/webinar",
           "platform": "YouTube (2025-2026 talks) + EURECOM mediaserver / Nudgis (2020-2025 talks)",
-          "notes": "The source page lists webinars on 7 and 21 October 2026, with registration links. Earlier talks remain in the recording index. Schedule checked 3 October 2026."
+          "notes": "Next listed webinar: 21 October 2026, with a registration link. The earlier 7 October listing remains on the source page. Earlier talks remain in the recording index. Schedule checked 8 October 2026.",
+          "reviewed": "2026-10-08"
         },
         {
           "name": "SPSC Café (journal club)",
@@ -1147,7 +1149,8 @@
           "title": "SPSC Webinar & Café Sessions archive (master index of all webinar recordings)",
           "url": "https://www.spsc-sig.org/webinar",
           "kind": "video-page",
-          "what": "Lists 57 past entries (56 webinars + 1 Café session) from Jul 2020 to Aug 2026, plus 2 upcoming October 2026 talks. 33 entries link a recording: 2025–2026 talks on the SIG's YouTube channel, 2020–2025 talks on mediaserver.eurecom.fr; many also link slides. This page is the canonical entry point to all SIG recordings."
+          "what": "Lists 57 past entries (56 webinars + 1 Café session) from Jul 2020 to Aug 2026, plus October listings for 7 and 21 Oct 2026. 33 entries link a recording: 2025–2026 talks on the SIG's YouTube channel, 2020–2025 talks on mediaserver.eurecom.fr; many also link slides. This page is the canonical entry point to all SIG recordings.",
+          "reviewed": "2026-10-08"
         },
         {
           "title": "Guangzhi Sun and Xuenan Xu — safety and privacy in audio LLMs; holistic speech anti-spoofing (SPSC webinar, 20 Aug 2026)",
@@ -1403,7 +1406,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-08"
     },
     {
       "acronym": "AFCP",
@@ -1806,7 +1809,7 @@
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-08"
     }
   ]
 }
