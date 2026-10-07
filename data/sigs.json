@@ -352,7 +352,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-07"
     },
     {
       "acronym": "SProSIG",
@@ -828,7 +828,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-07"
     },
     {
       "acronym": "SIG-HIST",
@@ -1075,8 +1075,9 @@
           "name": "VoicePrivacy Challenge (voice anonymization; workshop co-held with SPSC Symposium)",
           "type": "challenge",
           "cadence": "roughly biennial (2020, 2022, 2024, 2026)",
-          "last": "4th edition 2026; workshop at SPSC Symposium 2026 / Interspeech 2026 Sydney",
-          "url": "https://www.voiceprivacychallenge.org/"
+          "last": "4th edition: workshop held 26 Sep 2026 in Sydney with the SPSC Symposium / Interspeech 2026. Results and team system descriptions are available on the challenge website.",
+          "url": "https://www.voiceprivacychallenge.org/",
+          "reviewed": "2026-10-07"
         },
         {
           "name": "ASVspoof Challenge (Automatic Speaker Verification Spoofing and Countermeasures; affiliated with SIG)",
@@ -1177,6 +1178,13 @@
           "url": "https://www.youtube.com/@SPSCWebinar",
           "kind": "youtube-channel",
           "what": "The SIG's own YouTube channel (12 videos as of 3 Oct 2026), hosting the 2025–2026 webinar recordings."
+        },
+        {
+          "title": "VoicePrivacy 2026 system presentations and materials",
+          "url": "https://www.voiceprivacychallenge.org/vp2026/#systems2026",
+          "kind": "video-page",
+          "what": "Organizer’s index for 13 participating teams, with seven embedded presentation videos, system papers, slides/posters and original/anonymized audio samples from the 26 Sep 2026 workshop.",
+          "reviewed": "2026-10-07"
         }
       ],
       "hasRec": true,
@@ -1285,7 +1293,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-07"
     },
     {
       "acronym": "SIG-CSLP",
@@ -1748,7 +1756,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-10-07"
     },
     {
       "acronym": "SIGRU",
