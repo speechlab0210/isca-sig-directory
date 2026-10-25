@@ -83,9 +83,9 @@
     "title": "Speech Prosody Lecture — Peggy Mok",
     "sig": "SProSIG",
     "url": "https://sprosig.org/lectures.html",
-    "details": "08:00 Campinas time. Listed under “Upcoming Talks” right after the 4 Sep 2026 lecture; the organizer’s page gives the day and month but not the year.",
+    "details": "08:00 Brasilia time (UTC-3). Topic: Acoustic Evidence for Phonological Representation and Sound Change of Tone Sandhi. The page provides a viewing link but still lists the talk under Upcoming Talks. It gives day and month only; 2026 is inferred from the listing, and playback has not been confirmed.",
     "verified": false,
-    "reviewed": "2026-10-09"
+    "reviewed": "2026-10-25"
   },
   {
     "start": "2026-10-27",
@@ -94,9 +94,9 @@
     "title": "Oral sources & archives study day, Milan",
     "sig": "AISV",
     "url": "https://www.aisv.it/categorie/notizie/eventi/vii-edizione-della-giornata-di-studio-dedicata-alle-fonti-e-agli-archivi-orali",
-    "details": "Seventh edition, at Museo Nazionale Scienza e Tecnologia Leonardo da Vinci. Organizer lists 10:00–17:00.",
+    "details": "Seventh edition, at Museo Nazionale Scienza e Tecnologia Leonardo da Vinci. Organizer lists 10:00–17:00. Admission is free, with advance reservation required through the organizer’s page.",
     "verified": true,
-    "reviewed": "2026-10-09"
+    "reviewed": "2026-10-25"
   },
   {
     "start": "2026-10-31",
@@ -259,9 +259,9 @@
     "title": "IWSLT 2027 shared-task decisions due",
     "sig": "SIG-SLT",
     "url": "https://iwslt.org/current-calls/",
-    "details": "Decisions on the proposed 2027 shared tasks are due (the call for task proposals closed 30 Sep 2026). Year-round leaderboards for the compression, offline and instruction-following tasks are already open.",
-    "verified": true,
-    "reviewed": "2026-10-03"
+    "details": "Previously announced decision date for 2027 shared-task proposals. As of 25 Oct 2026, the current calls page no longer includes the proposal-decision timetable, so this date could not be reconfirmed. Year-round submissions remain open for model compression, offline speech translation and instruction following.",
+    "verified": false,
+    "reviewed": "2026-10-25"
   },
   {
     "start": "2027-03-15",

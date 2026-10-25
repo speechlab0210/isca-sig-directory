@@ -30,7 +30,7 @@
       "pill": "live",
       "cad": "roughly monthly · recordings since Oct 2023",
       "text": "Virtual lecture series; talks are streamed and recorded, with past lectures indexed on the lecture page.",
-      "next": "Most recent: Xiaoming Jiang, 4 Sep 2026 (recording on YouTube). Next listed: Peggy Mok, 21 Oct, 08:00 Campinas time; Sacha Calhoun, 17 Nov, 17:00 Campinas time. The organizer’s page gives day and month only; 2026 follows from the list order.",
+      "next": "Previously listed: Peggy Mok, 21 Oct, 08:00 Brasilia time (UTC-3). Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time. The page omits years; 2026 is inferred from the listing.",
       "links": [
         {
           "label": "Lecture index",
@@ -41,7 +41,7 @@
           "href": "https://www.youtube.com/playlist?list=PL28Xomry0aodTqMHVQuNDXAwBmmwXx8zT"
         }
       ],
-      "reviewed": "2026-10-03"
+      "reviewed": "2026-10-25"
     },
     {
       "name": "SIGML Virtual Seminar Series",

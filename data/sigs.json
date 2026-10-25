@@ -366,7 +366,7 @@
           "name": "SProSIG Virtual Lecture Series (Speech Prosody Lectures)",
           "type": "webinar-series",
           "cadence": "approximately monthly",
-          "last": "Most recent: Xiaoming Jiang, 4 Sep 2026 (recording on YouTube). Next listed: Peggy Mok, 21 Oct, 08:00 Campinas time; Sacha Calhoun, 17 Nov, 17:00 Campinas time. The organizer’s page gives day and month only; 2026 follows from the list order.",
+          "last": "Previously listed: Peggy Mok, 21 Oct, 08:00 Brasilia time (UTC-3). Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time. The page omits years; 2026 is inferred from the listing.",
           "url": "https://sprosig.org/lectures.html"
         },
         {
@@ -399,7 +399,7 @@
           "pageUrl": "https://sprosig.org/lectures.html",
           "recUrl": "https://sprosig.org/lectures.html",
           "platform": "YouTube (streamed live with Q&A via chat; Bilibili mirror for each lecture)",
-          "notes": "Organized by Plinio Barbosa (Univ. of Campinas). Alternates distinguished and rising researchers. 14 lectures from Oct 2023 to Dec 2025 are archived on the page, each with YouTube + Bilibili links. The 4 Sep 2026 lecture (Xiaoming Jiang) was streamed; its recording is in the YouTube playlist 'Speech Prosody Lecture Series' (15 videos as of 3 Oct 2026), but the page still lists it under “Upcoming Talks”. Two more lectures are listed for 21 Oct and 17 Nov. Streams and recordings are hosted on the IEL Unicamp YouTube channel."
+          "notes": "Organized by Plinio Barbosa (Univ. of Campinas). Alternates distinguished and rising researchers. The lecture page indexes recordings from Oct 2023 onward, with YouTube and Bilibili links for past lectures. Xiaoming Jiang is now listed under Archived Lectures. Peggy Mok is listed for 21 Oct and Sacha Calhoun for 17 Nov; the page omits their years. Streams and recordings are hosted on the IEL Unicamp YouTube channel."
         }
       ],
       "videos": [
@@ -407,7 +407,7 @@
           "title": "SProSIG Lecture Series page (recordings index)",
           "url": "https://sprosig.org/lectures.html",
           "kind": "video-page",
-          "what": "Index of the 14 archived lectures (Oct 2023 – Dec 2025), each row linking a YouTube recording and a Bilibili mirror. Its “Upcoming Talks” list still includes the 4 Sep 2026 lecture (now recorded) alongside the 21 Oct and 17 Nov talks. The most reliable entry point to the series' recordings."
+          "what": "Lecture index with YouTube recordings and Bilibili mirrors for past talks. Xiaoming Jiang is now included under Archived Lectures; the page also provides a viewing link for Peggy Mok. Playback of the latter has not been confirmed."
         },
         {
           "title": "Speech Prosody Lecture Series - YouTube playlist",
@@ -1213,7 +1213,7 @@
           "name": "IWSLT evaluation campaign / shared tasks (offline & simultaneous translation, subtitling, dubbing, speech-to-speech, low-resource, Indic languages, metrics, etc.)",
           "type": "challenge",
           "cadence": "annual, run with each IWSLT edition",
-          "last": "IWSLT 2026 shared tasks (offline, low-resource, customized speech translation, compression, subtitling, simultaneous, Indic and African/Celtic speech-to-speech, cross-lingual voice cloning, instruction following, metrics). For 2027, IWSLT is piloting year-round leaderboards: submissions are open for model compression, offline speech translation and instruction following. The call for further 2027 task proposals closed 30 Sep 2026; decisions are due by 1 Nov 2026.",
+          "last": "IWSLT 2026 shared tasks (offline, low-resource, customized speech translation, compression, subtitling, simultaneous, Indic and African/Celtic speech-to-speech, cross-lingual voice cloning, instruction following, metrics). For 2027, IWSLT is piloting year-round leaderboards: submissions are open for model compression, offline speech translation and instruction following. The earlier proposal call listed 30 Sep 2026 for submissions and 1 Nov for decisions; the current calls page no longer includes that timetable as of 25 Oct 2026.",
           "url": "https://iwslt.org/2027/"
         },
         {
