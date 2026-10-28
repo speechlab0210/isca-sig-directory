@@ -128,11 +128,12 @@
           "url": null
         },
         {
-          "name": "AVSP proceedings archive (all 15 editions freely accessible via ISCA Archive; papers only, no talk videos)",
+          "name": "AVSP proceedings archive (papers via ISCA Archive)",
           "type": "other",
           "cadence": null,
-          "last": "AVSP 2019 proceedings",
-          "url": "https://www.isca-archive.org/avsp_2019/"
+          "last": "AVSP 2026 proceedings, Sydney, 2 October 2026",
+          "url": "https://www.isca-archive.org/avsp_2026/",
+          "reviewed": "2026-10-28"
         },
         {
           "name": "Community channels: mailing list (via sympa/inria), Bluesky @avsp.bsky.social (very active, research-paper digests), X/Twitter @AV_SP",
@@ -1556,8 +1557,9 @@
           "name": "Giornata di studio sulle fonti e gli archivi orali (oral sources/archives study day, with the Tavolo Permanente per le Fonti Orali; AISV coordinated the 'Vademecum per il trattamento delle fonti orali')",
           "type": "workshop",
           "cadence": "annual",
-          "last": "Next: VII edition, 27 Oct 2026, Museo Nazionale Scienza e Tecnologia, Milan",
-          "url": "https://www.aisv.it/categorie/notizie/eventi"
+          "last": "Most recently scheduled: VII edition, 27 Oct 2026, Museo Nazionale Scienza e Tecnologia, Milan",
+          "url": "https://www.aisv.it/categorie/notizie/eventi",
+          "reviewed": "2026-10-28"
         },
         {
           "name": "Premio Franco Ferrero (best student/PhD paper award)",
