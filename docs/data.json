@@ -2281,14 +2281,14 @@
     "notesReviewed": "2026-10-03"
   },
   "checks": {
-    "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+    "checkedAt": "2026-10-29T23:30:40.476593+00:00",
     "sources": [
       {
         "url": "https://2026.sigdial.org",
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "f71a058891ddf6c8d69c304ae4b1cbc59f2bb867cb17f843c6a4889ae29c9327",
@@ -2299,7 +2299,7 @@
         "groups": [
           "SIG-HIST"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "7f4cc6eb36727fb2e10b28b5ce66bd7934efa83d607cee583dc404252b33377a",
@@ -2310,10 +2310,10 @@
         "groups": [
           "SIG-IL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "548d940ea42430dbb9faf1a643905085e18efc26899d0e576e42f394912e2424",
+        "sha256": "ac311f27af5368b63089c7868c12e3de8450447d404d22d0e93ab91dfe68eff8",
         "changed": true
       },
       {
@@ -2321,10 +2321,10 @@
         "groups": [
           "SIGUL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "c84543cabc5ce7859f174d04a514a665a18b7fc4d27e088f0f4308a3664a250a",
+        "sha256": "57c714457642344de01db9f30a551f547be19aab3c487a9ac30d1287221272ec",
         "changed": true
       },
       {
@@ -2332,10 +2332,10 @@
         "groups": [
           "SLPAT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "c8ea38a43cd736f5a2e9945e3db21c0491cd20aae5157fb237412ddc521f64bb",
+        "sha256": "30cb0aa8e68beb80894e8cacbef3f4a49fe09b90b5b2a04aef841e967a42c912",
         "changed": true
       },
       {
@@ -2343,7 +2343,7 @@
         "groups": [
           "AVISA"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "b8ae4b069246145fc6d1eb6e0fbb548241a2e14339044e1cc39c894e2a8d7b92",
@@ -2354,7 +2354,7 @@
         "groups": [
           "AVISA"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "af8e443659f0c18e0a00eed034fc8d26fa6c30495b2a75018a7ab210002e7260",
@@ -2365,7 +2365,7 @@
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "85619d2ef0d631bbf2670ba52fbeaf7d1acb5b27634851f3af3a67db46dfc6d0",
@@ -2376,7 +2376,7 @@
         "groups": [
           "SLPAT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "a60a8f4b74647203e1ed185d83a3b187682320df7f20abf812521a49e05b042f",
@@ -2387,7 +2387,7 @@
         "groups": [
           "SIGRU"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "85a75ea5f602aa95129dfb2fc78be244ffec4908b2135a80822aac6972ce8d55",
@@ -2398,7 +2398,7 @@
         "groups": [
           "SIGRU"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "9ca2737e8d5d4b5cbcf833886286a6fbe9c9a50a57974a64030b50dd778eef2b",
@@ -2409,7 +2409,7 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "URLError",
         "changed": false
@@ -2419,7 +2419,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "d3265e9ec6603d148b80bb741979d204c8e753a7920c5dc8b5a51d6e60ec6201",
@@ -2430,7 +2430,7 @@
         "groups": [
           "SIGML"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "fcd80a93a40a38369466f21e6e2c0de0e192950df38b7ab8762b4c170e5da73c",
@@ -2441,7 +2441,7 @@
         "groups": [
           "SIGML"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "d9175faa38b1735d53476963bcb359334a27b49c3886ec7a683da4dfef491280",
@@ -2452,7 +2452,7 @@
         "groups": [
           "SIGML"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "8ef5d977f548e7f6f90108ae2d02fcddbe037f586118510abe5ce60b9fe71515",
@@ -2463,7 +2463,7 @@
         "groups": [
           "SIG-IL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "8f2893414ca2eeb007d3893d69eba84a2e822fec1289bca7bc98dc287c217140",
@@ -2474,7 +2474,7 @@
         "groups": [
           "SIG-IL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "e23f13911e36f58a5a5b4910bf186619d4b2adb59732094e6399a0b61eb54615",
@@ -2485,7 +2485,7 @@
         "groups": [
           "ISCA resources"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "50c980d3e4e76f6a30d09e5172a1a32b5320625c28ba37580154ec81a9595aac",
@@ -2496,7 +2496,7 @@
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "1b8717ec48e636a3ddc1156d89345eea3008e01cbceb8d90d2218acc314576a9",
@@ -2507,7 +2507,7 @@
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "d3811c919e20bf0994dad9522a602766dedb4bbb1af05e32b8fbde6edd61502b",
@@ -2518,154 +2518,154 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "9a7e05d9cd5513d042d92df95e1e229d29d2744d8d1ea27446531c59f96e0114",
-        "changed": false
+        "sha256": "874c746acabab80b940f32e01754ff65f5bf714f8870a1854eb9fe44a904944f",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Associazione-Italiana-di-Scienze-della-Voce-AISV",
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "bb04ff4e5966ace4fece313a7d512e07b100c5643d9732e93987e1a06a4ed346",
-        "changed": false
+        "sha256": "e497326fd5eda637ee4c9330805e029d8e00db98ba6ac9aadeabda2f42960983",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Audio-Visual-Speech-AVISA",
         "groups": [
           "AVISA"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "9f9c0470dbd2f99969e7e659f6d0bde09c87843609303da999216355da06f21d",
-        "changed": false
+        "sha256": "414a77b3380249d2ff242404ebd004b1a64041fd65c53dbbc7768a32ce9bf9cc",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Child-Computer-Interaction-SIG-CHILD",
         "groups": [
           "SIG-CHILD"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "d002045e73d980c2a9ae3f778699426df672b57f8117b550195b5cf084e3fc3c",
-        "changed": false
+        "sha256": "21269bdaa33029ef3729ae807347b8d35d43535c2030576b08311262326e61c0",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Chinese-Spoken-Language-Processing-SIG-CSLP",
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "a0f2135f54d51740cfa9e92c25fd07a4ec77b1173288c71d90f45fb556f14b08",
-        "changed": false
+        "sha256": "2c3c73a7fea3e04abaf97c887c65b9fff40d291bd3073764e6cd05b8b06d1f9e",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Discourse-and-Dialogue-SIGdial",
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "3b9eafd206c060cc3588ebbe3846b45ba832cbe2381dc61d444166b9e31a8def",
-        "changed": false
+        "sha256": "7e24bc26cef06d9fdd63e840e1a3d876bcc06a0a2d5157ca7a21e9a1eb0a772b",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Iberian-Languages-SIG-IL",
         "groups": [
           "SIG-IL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "f901e4707c5f46b0b237a04e6ca203f9d22e1c9e5248d6509610f9971b43b752",
-        "changed": false
+        "sha256": "a3baabc9ba034dde7906ca6bf99518c8fc620f85a563cc869a26e26b368eafc7",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Indian-Language-Speech-Processing-SIG-ILSP",
         "groups": [
           "SIG-ILSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "6917cbb7d5dd7e862e14bf946189b8dcb39373f5d3f7c78cea38dae081c588b9",
-        "changed": false
+        "sha256": "373c45f6ede756c6a5a83607804b01286fe447abb7c1d5303bbb368400653ea7",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Machine-Learning-SIGML",
         "groups": [
           "SIGML"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "e146cace7325f75f7cd36359b710907d2f8d7b2da6fc75502aafc8421985b690",
-        "changed": false
+        "sha256": "9823a7f749a73464232f91ed740b0da36206efa7d9ebd6b7aa6570b4f3682a1e",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Robust-Speech-Processing-SIG-RoSP",
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "0f440ed212eb2143a4969a9b5c25da26546237cb2661931c170f24c2a98ee976",
-        "changed": false
+        "sha256": "11d93a42479e43de00e839af764f62aead48ff37e8279a219b74686f64ca7f37",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Russian-Speech-Analysis-SIGRU",
         "groups": [
           "SIGRU"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "c881f2164b0da2cd06b671fa8fb0f45de591e11696b7dc043e21be540edba872",
-        "changed": false
+        "sha256": "f044b3642507ea4398fa259bd91c33d83c93e4daba021f35d04c0e9b40179e64",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/SCOOT",
         "groups": [
           "ISCA resources"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "f27fdc5ef55c6d82c96286a30c9bcaaf33db890c6f9e3e534a844d29588db66f",
-        "changed": false
+        "sha256": "2f005f6a8a788143a937eb8055921919726221aff6c63f964f26bc51db3a6f87",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Security-and-Privacy-in-Speech-Communication-SIG-SPSC",
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "3ae5818804dc598dc15c57724c98f2f9bb952767a43a1f4b01ea350a1fe46f63",
-        "changed": false
+        "sha256": "c96ecdc738bf9e37933d66a79f9b94e6d4c1980af667189b272582a9c8f8d4e1",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Speaker-and-Language-Characterization-SpLC",
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "3f32e9366dd20753396f755a87f6285afbb8f6ed79ab102a4cc5b19fb41d6f20",
-        "changed": false
+        "sha256": "2866b794be6b613b06aa7716eb81a2852d611bddf13b82229d57ab2f6c2704e8",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Special-Interest-Groups",
@@ -2674,73 +2674,73 @@
           "SIG-IL",
           "SIG-ILSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "f5adde3470f2b56a10010e36f333cb664ceee338f0bf56c7ae850171e7c2a2f8",
-        "changed": false
+        "sha256": "f5f2fb2b6dbd196ad8ed8eec25e97f103b62ebe9c7760556291d7a8c331708c9",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Speech-Prosody-SProSIG",
         "groups": [
           "SProSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "ff543c80ebca80e2cef50fac7a1833f9a22bb2241dfa84408c25fc596fa937ed",
-        "changed": false
+        "sha256": "315f0b017b4a92c9e3420221ec2b3805b4d961c6d474d2b3f2d82dff775a2145",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Speech-Synthesis-SynSig",
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "99b5c248aba4e7d7176124fe91cd65d3a6a053d39dad00c7a115b18dc071e2e2",
-        "changed": false
+        "sha256": "e22abeebefb137ede0d109c4ee3d97bfaea28bc9c455315f9896cde423b4ab06",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Speech-and-Language-Processing-for-Assistive-Technologies-SLPAT",
         "groups": [
           "SLPAT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "3a33d95ef5d4531a6963cc410dfbf35b8b157698e2dfbe9f53c082bb904f107f",
-        "changed": false
+        "sha256": "ee364a6c278ebf95bb68c951daf0d300b94a1c739ddeb71421aab9bcd72cc302",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Speech-and-Language-Technology-in-Education-SLaTE",
         "groups": [
           "SLaTE"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "bb8ad8025704dfe5d7f54afa50c47b17fc4c07b9b99af8195f014b31ddd60973",
-        "changed": false
+        "sha256": "55b60139ff4aa5bd853ca34000132a3c6193cef0ce4c246ea41628216344798a",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Spoken-Language-Translation-SIG-SLT",
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "e50fb982fb5393e5e4e21a7eff9154370150fe4edc751eb373db6a75c33fee79",
-        "changed": false
+        "sha256": "f45a44c4d17127bbd8f92ccbf0ad7dceb92c7d897565093f494ae469d3f5f2bd",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/SynSIG",
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "9b782312f351074006e86fb328e57db696595c200403085d784fa9111e3267c8",
@@ -2751,7 +2751,7 @@
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "30e770f5da766ad66818bf24ca396201231ee99fcc6f3c75063b9f8eecc8f3ad",
@@ -2762,40 +2762,40 @@
         "groups": [
           "SIG-HIST"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "9db517b1490190b302be1da63aa49a5a30d53766d5b7336240b0788cd1b29738",
-        "changed": false
+        "sha256": "85b06f2ce6b006dd1af610fe804374b08c33fe891c5fece9feb366c655099833",
+        "changed": true
       },
       {
         "url": "https://isca-speech.org/Under-resourced-Languages-SIGUL",
         "groups": [
           "SIGUL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "874f8cca90418ffa5e52074532d19ef63a890cf16aa2acc8d70874aee128ae4b",
-        "changed": false
+        "sha256": "612cdf04dedcb35c2868c7e94600007ba8df3d04cd7b431fa697286e5c222fe2",
+        "changed": true
       },
       {
         "url": "https://iscslp.org/2026/",
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "d1f9e5088fd4a762ec438c4f17330da6b82b799d51256604339153e4a172b801",
-        "changed": false
+        "sha256": "4200d1d6dcd26267ce1868e747130681a6b2ecbf709b7a7228c0837e93649e0c",
+        "changed": true
       },
       {
         "url": "https://iscslp.org/2026/CallForSpecialSessionPapers",
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "833018dafeac1302ac98ca05e91bae286624f6e1a6b15cbed507660d685aa2ac",
@@ -2806,7 +2806,7 @@
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "44d073d3111b790d6c5c15dab20d5da3be03db4f189950e27218962317b94b98",
@@ -2817,7 +2817,7 @@
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "28964f3bee10d1a9356227c73db61692aaa2b95b27210572784aeb54651920eb",
@@ -2828,7 +2828,7 @@
         "groups": [
           "SIGRU"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "ValueError",
         "changed": false
@@ -2838,7 +2838,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "596db31928631c6993bcb3dbae354d34321ee044ad693c8fb8b60b2d4f3fa4d6",
@@ -2849,7 +2849,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "24cf4f8d98f4ec654f68720b6d17e6450e7d9d64cbccacfa8257b3373306da10",
@@ -2860,7 +2860,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "613032d15679ce3a8fd618e9ecc53d4847bb1937b859e001c07de68803f60577",
@@ -2871,7 +2871,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "1758740e679c089cf9a23d83e5771e7309d2fdb593f421f7a7ae5b54e2183e43",
@@ -2882,7 +2882,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "65fe7c3d99ed137b945bbc37fe0c79dd7f9fe2e90dcdcc443fbc0c003f6d8e19",
@@ -2893,7 +2893,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "6ff59273ea1c73b6d94c0b664a93c6288ffb0bb508e1e80884acbcb59e471c96",
@@ -2904,7 +2904,7 @@
         "groups": [
           "SIG-SLT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "019fb22d507c2743e2ab73965e9683f4aeabbcf5f009a26c1f64c0a820414413",
@@ -2915,7 +2915,7 @@
         "groups": [
           "SProSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "93646e0823422f97f6ea4cf31689842fc83da624db843818141b3d653e3d3bbf",
@@ -2926,7 +2926,7 @@
         "groups": [
           "SIGUL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "28ac199607f012941af8f2527e5fbd9a9bdf9779a0aee40afb4513725b6ed69e",
@@ -2937,7 +2937,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "70981c4803226aad9a47487608aa82b41310268dcd1ccf0d79118ae67ad0835b",
@@ -2948,7 +2948,7 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "33d7d57347bb0a7314537fbecb48511bcd6355fafe9ef60d8b6acfbed43be648",
@@ -2959,7 +2959,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "5c199411ea13f69da0643d4fd60edd2650c7bb338a8fbfb9d26eedb49e148bc3",
@@ -2970,7 +2970,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "23eb1016a9cdc6ff530f78b7fa134e584f9eb2582a6e68738025f7e4997782a2",
@@ -2981,7 +2981,7 @@
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "66e53a6ca352bfe733a434ba08989e0700fed4466d57a16dc77ec6b326bf43a6",
@@ -2992,7 +2992,7 @@
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "69d8c430b0b9b892cbb2736cb81e9ac25f8b2e05af0e8fa4ca8736a1f7ae0bcf",
@@ -3003,7 +3003,7 @@
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "297cc9bc63ca4177802640a8cec5e56c30a4a71e57ad8e6170b583d3e612acc1",
@@ -3014,7 +3014,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "5a1acb7f425d06b2c82ae1a1262b61d4a0b4ea9dec4e2fa5a07ed6f909e2d0f7",
@@ -3025,7 +3025,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "57d00c0e28cbbee4c44d18da50db5d0947d666a67a7183a0555c4ae065190ed7",
@@ -3036,7 +3036,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "1a112ed15e1b0f8201ca815f50d9487073ff07d302385abf51c00de214f9c5b1",
@@ -3047,7 +3047,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "323861f1e6864f52ecf3cafac53badc814cf72512fba416f6495291c37e58c24",
@@ -3058,7 +3058,7 @@
         "groups": [
           "AVISA"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "f1c47d7d6ed137e892f29f29b5de328a86515cb5f554ca42b215af6d90b1c045",
@@ -3069,7 +3069,7 @@
         "groups": [
           "AVISA"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "2bcef360743ec46a86641a3324fcbd773de045e444edbf99897961e2b67080cf",
@@ -3080,7 +3080,7 @@
         "groups": [
           "SLaTE"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "5549f1131dbe82262781d805b2bf8c1a6b08b47729ba6fd54ab5aa429dfef3f8",
@@ -3091,7 +3091,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "4fae3a9477e7186a75bb3af65b8212ca45848f47967425159fd91186f0054700",
@@ -3102,7 +3102,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "275673742d3426c1fdd945281a5a11fe1a6adb9443502a9529f24927e1e52992",
@@ -3113,7 +3113,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "aacd9f79219a1e5a73c578b249f6738bbd60f1dadb1dcc8069f876291a4573a2",
@@ -3124,183 +3124,183 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "73068d7be8aada680b837bf07d6504ef503b95a2d3002e9106c9649b16b99d9e",
-        "changed": false
+        "sha256": "96219c57524f4c3c06be3a04e0ec222bd102f7742e1ea89b450eb3e99c1c1b17",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/aisv2027/call-for-papers",
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "adc46efad70a1e10fd80acd3e742359b22bf93cb060ae13265cb2ab8d67f5e0f",
-        "changed": false
+        "sha256": "54990eda14a479d036d6d4336bc32813b29f5983de323ba85a46ce568a3377b3",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/aisv2027/home",
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "72d5e329d2fc0fa8d055291e4907d16c9b51f410065056c107369cda0cbc311e",
-        "changed": false
+        "sha256": "02f8f4df17f9f795be42dd6720100439b1da3ea118b0c8634e5ee4ff547fe7f2",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/attackers-perspective-on-asv/",
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "7cd94bcbf8937bf71465e4cfedb1dfd5d0c13c77bf2c04fb4a95240d7184a475",
-        "changed": false
+        "sha256": "ed2e8b2569f642cc3bfdc231c4b563bc0870aaa4a2aa531b6e84ae5f3bf854e5",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/hscma2024/home",
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "8ee02bdd930e348cbc8845050056ba00a0416a1bc88514eeb9879056f5aed686",
-        "changed": false
+        "sha256": "e64329108867c7841f8cd959ef2585ebb32700fb13faa20e214676ce84c42bb6",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/hscmachime2026",
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "e9042aef6c416775b0f049a83b7816dfa58527e3a1915ebfddf2a55c0d0e2d01",
-        "changed": false
+        "sha256": "4c3e4f003bfc5393163fc81f2f060bb365df2adde8fbcdb74df0aec15d248e26",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/icasspsasb2024",
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "cd79aba55e347234695158fedd809b10777efa37a90cef17ede49d8f9d29634e",
-        "changed": false
+        "sha256": "99037100226e5d6b9b666eba0b67a6d59152dfbfa6144dd9ffc22a21c64036b0",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/jcparole",
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "1cef995009c129954df1601592b0ce9cc28b1a20cb3cbe63662d783fa7dd5aca",
-        "changed": false
+        "sha256": "f84e3865501c6b6f2d71e523bdb5d9dcb5a20cffd6dccad40634e4c90a744f52",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/s4p2025/home",
         "groups": [
           "SIG-ILSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "c2cade1435b4abee13b1c05620737d6cf1ea59f54956ebe5d2fedd5a5469e00a",
-        "changed": false
+        "sha256": "7d11c42385621492ddee0dce0fc619d9d49c741ab6b00929fc4598cbd38b3bce",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/sciencetech4childspeech-is25",
         "groups": [
           "SIG-CHILD"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "7be37c1a9e5398ee46e3c950036ddeea7e62e12a37ecd0ff9f534213a8a11eae",
-        "changed": false
+        "sha256": "b8137de515b5b7a0c41203cd35903dff6c4cef7cac8499a697a7a32cd073e79d",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/sigslate",
         "groups": [
           "SLaTE"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "56d74b3ec708f08643097e5f12369986c040decd76c80c784d60814be52909b2",
-        "changed": false
+        "sha256": "f3d59b9c2a1508264f6cd41cb6216bf81ce95e00e39107105d8e68fbc5c6ff72",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/sigslate/webinar",
         "groups": [
           "SLaTE"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "b58851c0c19ee57897a0e1a09a5cffe4395bf0eb65ef056fefd6102452a49285",
-        "changed": false
+        "sha256": "970e4a20e51348cb0ee9d81cf2000b70ba0c4eb08188eca94caa57ac1a9f534e",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/sigul2026/home-page",
         "groups": [
           "SIGUL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "6300d7fb28890e781da70a3d792beb5614d6e2d69c2c624bda9e84fbd19c5c20",
-        "changed": false
+        "sha256": "c49c8701df5cd9bd439eea5638e5c021ee5fadfd807913adb5b12267f2e35889",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/slate-2025",
         "groups": [
           "SLaTE"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "d1849c7755c3a35f0ca0e6d846921c8dc8569434a39283d021be9855de4774e6",
-        "changed": false
+        "sha256": "0289d589f7bc165939b70b6e3c2ad46fc39920e9050e985fa2ea1d67de1b49b6",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/wocbu/home",
         "groups": [
           "SIG-CHILD"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "e6696b3b2dca2c521ffc0b7e31ec7004baf02b93342e7eff6a89de097ad1beca",
-        "changed": false
+        "sha256": "504e6beaefa011b8c8504a711d90824b80ba9c28ccd0382a1bcbe91978d5cb43",
+        "changed": true
       },
       {
         "url": "https://sites.google.com/view/wocci-isca-is25",
         "groups": [
           "SIG-CHILD"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "2ce3aa607c319d692ebd4a952f5f363a970e38bfaa989318b1a97227b22aac7c",
-        "changed": false
+        "sha256": "d905bad9bdc62a201e3d5e0f691500dae84b9f6ec5716f4f28656a8f4a23d9f8",
+        "changed": true
       },
       {
         "url": "https://speechprivacy2019.aalto.fi/",
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "b1941eac5beb5ad8408fbcb72a7e974fa3f391441058aff0c8f7744f00222aea",
@@ -3311,7 +3311,7 @@
         "groups": [
           "SProSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "062cfcccb4091f7f74516696ca2c81d9e98fc1da78ab3954f5ca2cbd4a8d6057",
@@ -3322,7 +3322,7 @@
         "groups": [
           "SProSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "fc3c61d69dbe97c61f05067911d7d9643fbe6bd6a502f653cca4fc2686671553",
@@ -3333,7 +3333,7 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "b83eec1a946356c413d619e61cd22719786e7152e4029a2b33363dca56079309",
@@ -3344,7 +3344,7 @@
         "groups": [
           "SIG-ILSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "f29a9702bcb26afbb0d682fb70e5a16c433ac464743bff2a54fa0da4e5d4b060",
@@ -3355,7 +3355,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3365,7 +3365,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3375,7 +3375,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3385,7 +3385,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3395,7 +3395,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3405,7 +3405,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3415,7 +3415,7 @@
         "groups": [
           "AFCP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "unavailable",
         "error": "HTTPError",
         "changed": false
@@ -3425,7 +3425,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "d17835a2ab432f7b1991d1b8c2c5ffcfb8d7ea4dea1cf73db3cf85ddadb91ef8",
@@ -3436,7 +3436,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "1ac6bdba551c3e295f865e749dec20f1ad6d684d2dd4e3de840f52fde123fb52",
@@ -3447,7 +3447,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "3f8d02f19cb03d2af74f5ce686af492511560049027edbb53ee7114aacd103e9",
@@ -3458,7 +3458,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "8ec833408cdbc305305d1be214d75358524bab3ed92c9ccd4f1db203b8db93ce",
@@ -3469,7 +3469,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "d08b4430354928b5e7ec0329f4b92e25ff4d2d82b0b6d9f18a69a3c58621772c",
@@ -3480,7 +3480,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "eaf963ab8bce3524213c21515a405941d814f2786bbeca5b3c725428b11896e9",
@@ -3491,7 +3491,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "48239ade1aea81d2a6a207c3a49bf42f7d9c8cc016476e999fe94e1830cc2404",
@@ -3502,7 +3502,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "af001ec65b81ab5ac5d091fb17ffc2857dbf777758e699d3ee2162435ad712bd",
@@ -3513,7 +3513,7 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "c82e4dbd1e04c18cf45cd736797da51a53641acfcd84c9c367ba6d160dea8d0e",
@@ -3524,17 +3524,18 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
-        "status": "unavailable",
-        "error": "HTTPError",
-        "changed": false
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
+        "status": "retrieved",
+        "httpStatus": 200,
+        "sha256": "f13e65d760c074bea8cb934536fa5a3604aa44e7b981880966f6cfb71559b062",
+        "changed": true
       },
       {
         "url": "https://www.chimechallenge.org/",
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "38fdfc1e57228cbb4ca495edddbf8e9b516683ecbdc1add656d283c6d32b9710",
@@ -3545,7 +3546,7 @@
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "568f0dad58d5eb9fa73678dbf5668eb1ef280bde54090e7466383f36017d10d9",
@@ -3556,7 +3557,7 @@
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "2d68d8e99e0599de1445cde12ad97661c0e8d6d58a87b9123c0147fb6d2c0d8d",
@@ -3567,7 +3568,7 @@
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "b187ba524858ff87162ab80202988bf121e4207befab4bec9939941670524fdc",
@@ -3578,7 +3579,7 @@
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "0d368f1e0b548c2eb29b1ff3c4f6b94d750089216358391f877a46c04d620f81",
@@ -3589,7 +3590,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "ec5943eb846fb4a72ca0f11cee08be29b3206d4533dafa195b2614aa1e2fd4b1",
@@ -3600,7 +3601,7 @@
         "groups": [
           "SLPAT"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "b33b0ac0638d71a9e1b4552f1fccdcb4679d7c99bb3c1e3b15a55fec94c8eabe",
@@ -3611,7 +3612,7 @@
         "groups": [
           "SIGUL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "21ee44680c9f1f4c960ec285ab9aa96fa5407851c380b34a1d2596519758c6f5",
@@ -3622,7 +3623,7 @@
         "groups": [
           "SIGUL"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "bd2cee2b04cbd2715e37b8aac995f04894e11135e5286125a7c5504f2fd2fde4",
@@ -3633,29 +3634,29 @@
         "groups": [
           "SIG-HIST"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "421ecc27f1e6b14c18150558b84bc5edec7f54009661e02ac08a67721323062c",
         "changed": false
       },
       {
-        "url": "https://www.isca-archive.org/avsp_2019/",
+        "url": "https://www.isca-archive.org/avsp_2026/",
         "groups": [
           "AVISA"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "df19805d7b1b68b74edcfc914bb76d722f269b69e5fa2656b49f752862b30a87",
-        "changed": false
+        "sha256": "b62a74f580267c5fa1cfee485d2c44f8950f756c72fd647cabd71abaa8dc3630",
+        "changed": true
       },
       {
         "url": "https://www.isca-archive.org/wocci_2025/",
         "groups": [
           "SIG-CHILD"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "e2a99c3cf327169c1b7d762e6dc236acecb818146278201f2df27d153968673a",
@@ -3666,7 +3667,7 @@
         "groups": [
           "SIG-CSLP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "363ed5c1d63be657e2ba095d038a586788ca00351738f915aabd217768a8cc34",
@@ -3678,40 +3679,40 @@
           "ISCA",
           "ISCA resources"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "a40cbc2e4108d3e5d958576e2a4ee08371c12113338dfd21254731b535c3ec93",
-        "changed": false
+        "sha256": "2acf83a6b73fee5372af5c27915033a63961564f4238db3c40ce190f2cbf06c6",
+        "changed": true
       },
       {
         "url": "https://www.isca-speech.org/Online-Seminars",
         "groups": [
           "ISCA resources"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "c80ac4afb0a0644258bda77c9a37fe92ea0987a1244eda7236dfaf878954c5c5",
-        "changed": false
+        "sha256": "9628b44a666bd27bd13916ad97e9d70ba7dd24099046ab667e8452ef119803ca",
+        "changed": true
       },
       {
         "url": "https://www.isca-speech.org/Video-Archive",
         "groups": [
           "ISCA resources"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "86d1947dd45162da43d7ce57a9c0857ec65b72952eb2933c605217fcad83f579",
-        "changed": false
+        "sha256": "71364e809b614db44dafe5082eed4b4e29ddfcf4ccc00109958beab80ae217a0",
+        "changed": true
       },
       {
         "url": "https://www.isca-students.org/sacweb/index.php/podcast/podcast-episodes",
         "groups": [
           "ISCA resources"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "ee40e06242b39a26f7d41daffe2aa30e7ee4bc0e4d8d5a13250d32db77245adb",
@@ -3722,7 +3723,7 @@
         "groups": [
           "SIG-RoSP"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "8b2a888622ffbd69f916d36d5744c73a4a9c6d5bc906b064e0edf85a6c7898a0",
@@ -3733,10 +3734,10 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "436365d10fb748e19860c24fb5cfcc47e6203d5b2746b321785a32a2e2e8d226",
+        "sha256": "20463a729365f632d8547e99d6efb6ed368265d2d2851a6b3a638bf97da3745a",
         "changed": true
       },
       {
@@ -3744,7 +3745,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "9dd718a71ea17eb6e033272e100c3c89d07b47d9fc78f68a55d385d65000dff4",
@@ -3755,7 +3756,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "e8c6a2f8af4961e4ddd60fd2ad8d7f60e90e4ab5f636d013a321493250e68882",
@@ -3766,7 +3767,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "7b0c09719bf7e869e1739fd80e13975b814a03302cedadbe5492489fab1df57c",
@@ -3777,7 +3778,7 @@
         "groups": [
           "SIG-HIST"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "564c2a1d2edc68efce2cbda88b5cf227878f7e6dedf63809a9a336e46a4db782",
@@ -3788,7 +3789,7 @@
         "groups": [
           "SIG-HIST"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "c888de7b0c6b2c9872923a734bb78fc0fd5311f9f71aefa777cafa03cc060c1e",
@@ -3799,7 +3800,7 @@
         "groups": [
           "SIG-HIST"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "8036901cd4b633a5add056617c8540fc875727145c9d250dc11dfeb909cf95c2",
@@ -3810,7 +3811,7 @@
         "groups": [
           "SIGdial"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "2f864ffbf21a82ac9ea4a29c6df10d1c6c88e893267611176abe42c32b1ec454",
@@ -3821,7 +3822,7 @@
         "groups": [
           "SpLC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "997e38a5d1fed751b80d601278bca0a9df919b72422d865b892f5ecd356a84a0",
@@ -3832,21 +3833,21 @@
         "groups": [
           "SProSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "890a1f7e7f9e4cffd8893db23fdb6f21c113db8907ade0e948955c296d22d412",
-        "changed": false
+        "sha256": "b8d465427a6c498a3f60b102e4941cd660290a1a90881b896521e623531a43b4",
+        "changed": true
       },
       {
         "url": "https://www.spsc-sig.org/",
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "ca98019207f0cdc04632367f2c7a8c2c1c043754781fb5a2fd1d91ebce925027",
+        "sha256": "1de927f0f8a0241a6bf6c8f00e0b1575643e24c8df603468eaeb9d24d40bdd91",
         "changed": true
       },
       {
@@ -3854,10 +3855,10 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "5ddf9868738c61fcf15c763a24369bdc7a60f8937c7ff3bd617070e3823664b8",
+        "sha256": "ab1824629bfac5865723bee2fbc4a0f77b2462dc92de3c6db6dc2f9be912f93c",
         "changed": true
       },
       {
@@ -3865,10 +3866,10 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "cd375fb1de11e2ea875c81ad49fbdcdc5f603fe8be2cf2245ad9f411aed5848e",
+        "sha256": "efb44819640affedb1bc65ac0b08d6b0daa0d4b1f0a81f5b9cac579f2a99e830",
         "changed": true
       },
       {
@@ -3876,18 +3877,18 @@
         "groups": [
           "AISV"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
-        "status": "unavailable",
-        "error": "HTTPError",
-        "changed": false,
-        "lastSuccessfulHash": "b7d548fb109ee2b3e782303a7975b5cf2bc0f55152bf1f857e8c6035cfd63f3c"
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
+        "status": "retrieved",
+        "httpStatus": 200,
+        "sha256": "1c12c3ebdebd4ab39ef23aebe41622910ed2d36acaeb83e026f017b9ee305e7e",
+        "changed": true
       },
       {
         "url": "https://www.voiceprivacychallenge.org/",
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "84a09f91b760ab83127997053e9a60751d2682fa7c25f86ff4db4ba233ca743e",
@@ -3898,21 +3899,21 @@
         "groups": [
           "SIG-SPSC"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
         "sha256": "b5dab9cf9438652dd75d6ca8db3aefc4e9cf29fe1fc765d3cb11180a154abb7d",
-        "changed": true
+        "changed": false
       },
       {
         "url": "https://www.wiki.ed.ac.uk/spaces/BlizzardChallenge/overview",
         "groups": [
           "SynSIG"
         ],
-        "checkedAt": "2026-10-28T05:06:18.713518+00:00",
+        "checkedAt": "2026-10-29T23:30:40.476593+00:00",
         "status": "retrieved",
         "httpStatus": 200,
-        "sha256": "fe1149d9a3c8696377078b3b55502cef772147520aa7b292443206d6d9723d33",
+        "sha256": "33d46293b3305a43c33081f44344da73bda444e4aac5c163b90b79aa61dd4b15",
         "changed": true
       }
     ],
