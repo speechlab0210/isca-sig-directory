@@ -127,9 +127,9 @@
     "title": "ISCSLP 2026, Penang",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/",
-    "details": "Main conference 14–16 November in Penang; tutorial day 17 November at Universiti Sains Malaysia (USM).",
+    "details": "Main conference 14–16 November in Penang; tutorial day 17 November at Universiti Sains Malaysia (USM). The detailed programme, including the paper presentation schedule, is available.",
     "verified": true,
-    "reviewed": "2026-10-03"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-11-17",
@@ -170,10 +170,10 @@
     "displayDate": "6–8 Sep 2027",
     "title": "Speech Synthesis Workshop — SSW14",
     "sig": "SynSIG",
-    "url": "https://nilc-nlp.github.io/ssw-2027/index.html",
-    "details": "Maceió, Brazil; satellite of Interspeech 2027 (São Paulo, 29 Aug–2 Sep). The Blizzard Challenge 2027 workshop follows on 9 Sep.",
+    "url": "https://nilc-nlp.github.io/ssw-2027/keynotes.html",
+    "details": "Maceió, Brazil; satellite of Interspeech 2027 (São Paulo, 29 Aug–2 Sep). Listed keynote speakers: Simon King, Daniela Claro and Rafael Valle. The detailed programme is still under development. The Blizzard Challenge 2027 workshop follows on 9 Sep.",
     "verified": true,
-    "reviewed": "2026-10-03"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-12-06",
@@ -248,9 +248,9 @@
     "title": "SIG-CSLP Assembly at ISCSLP 2026",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/program",
-    "details": "Members’ assembly, held with the closing ceremony, 16:30–17:00 on day 3 of ISCSLP 2026, Penang (provisional programme; subject to change).",
+    "details": "Members’ assembly, scheduled with the closing ceremony, 16:30–17:00 on day 3 of the detailed ISCSLP 2026 programme, Penang. Check the organizer’s programme for updates.",
     "verified": true,
-    "reviewed": "2026-10-06"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-11-01",

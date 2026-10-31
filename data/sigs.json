@@ -13,8 +13,9 @@
           "name": "Speech Synthesis Workshop (SSW)",
           "type": "workshop",
           "cadence": "biennial since 2019 (previously every ~3 years, since 1990)",
-          "last": "SSW13, Aug 24-26 2025, Leeuwarden, NL; next: SSW14, Sep 6-8 2027, Maceió, Brazil",
-          "url": "https://nilc-nlp.github.io/ssw-2027/index.html"
+          "last": "SSW13, Aug 24-26 2025, Leeuwarden, NL; next: SSW14, Sep 6-8 2027, Maceió, Brazil. The second call for papers and keynote lineup are available; listed speakers are Simon King, Daniela Claro and Rafael Valle.",
+          "url": "https://nilc-nlp.github.io/ssw-2027/index.html",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Blizzard Challenge (TTS evaluation challenge, run with CSTR Edinburgh)",
@@ -270,8 +271,9 @@
           "name": "Computer Speech & Language special issues on speaker and language recognition/characterization",
           "type": "journal",
           "cadence": "irregular (tied to Odyssey editions)",
-          "last": "CSL special issue 'Speaker Characterization Beyond Words: Identity, Health and Emotion from Speech' (tied to Odyssey 2026); submissions due 31 Oct 2026",
-          "url": "https://odyssey2026.inesc-id.pt/2026/06/20/special-issue-in-computer-speech-language-journal/"
+          "last": "CSL special issue 'Speaker Characterization Beyond Words: Identity, Health and Emotion from Speech' (tied to Odyssey 2026); the listed submission deadline was 31 Oct 2026",
+          "url": "https://odyssey2026.inesc-id.pt/2026/06/20/special-issue-in-computer-speech-language-journal/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "SpLC members' discussion/mailing list",
@@ -1332,8 +1334,9 @@
           "name": "SIG-CSLP Gatherings (informal member meetups at major speech conferences)",
           "type": "other",
           "cadence": "roughly twice a year at Interspeech and ICASSP",
-          "last": "Most recent documented on SIG site: gathering at Interspeech 2024 (also ICASSP 2024, Interspeech 2023, ICASSP 2023); the ISCSLP 2026 provisional programme schedules a SIG-CSLP Assembly on 16 Nov 2026; no recordings",
-          "url": "https://www.isca-cslp.org/web/"
+          "last": "Most recent documented on SIG site: gathering at Interspeech 2024 (also ICASSP 2024, Interspeech 2023, ICASSP 2023); the detailed ISCSLP 2026 programme schedules a SIG-CSLP Assembly with the closing ceremony on 16 Nov 2026, 16:30–17:00; no recordings",
+          "url": "https://www.isca-cslp.org/web/",
+          "reviewed": "2026-11-01"
         }
       ],
       "series": [],
@@ -1572,9 +1575,9 @@
           "name": "Online course: AI applied to voice technologies (first edition)",
           "type": "course",
           "cadence": "9 live online sessions, taught in Italian",
-          "last": "9–27 November 2026; registration closes 31 October 2026. Check the organizer’s timetable for session times.",
+          "last": "9–27 November 2026; the listed registration deadline was 31 October 2026. Check the organizer’s timetable for session times.",
           "url": "https://www.aisv.it/formazione/corsi-online",
-          "reviewed": "2026-10-03"
+          "reviewed": "2026-11-01"
         }
       ],
       "series": [
