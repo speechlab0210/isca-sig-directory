@@ -2771,8 +2771,9 @@
         "series": "SLaTE Webinar Series",
         "title": "Abeer Alwan (UCLA) - To Use or not to Use Spoken Language Systems in Early Literacy Education? (SLaTE webinar, 3 Mar 2025)",
         "url": "https://www.youtube.com/watch?v=RP0JN0JRk-s",
-        "source": "https://www.youtube.com/watch?v=RP0JN0JRk-s",
-        "indexed": "2026-11-01"
+        "source": "https://sites.google.com/view/sigslate/webinar",
+        "indexed": "2026-11-01",
+        "date": "2025-03-03"
       },
       {
         "sig": "SIG-SPSC",
@@ -2788,7 +2789,8 @@
         "title": "An endangered language perspective on ST in education: reflections on the ABAIR Irish experience",
         "url": "https://www.youtube.com/watch?v=VdwQLBeZA7A",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2024-12-02"
       },
       {
         "sig": "SLaTE",
@@ -2796,7 +2798,8 @@
         "title": "Approaches to advancing speech technology for educational applications",
         "url": "https://www.youtube.com/watch?v=7_pQ0aQwg-w",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2024-10-07"
       },
       {
         "sig": "SIGML",
@@ -2805,7 +2808,8 @@
         "url": "https://www.youtube.com/watch?v=XkyvT6j3shk",
         "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
         "speaker": "Marcely Zanon Boito Avignon Université",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2021-11-29"
       },
       {
         "sig": "SIG-SPSC",
@@ -2989,7 +2993,8 @@
         "title": "Learning Second Language Expression with Form-Focused Trialogue-Based CALL system",
         "url": "https://www.youtube.com/watch?v=UPR1q06A41k",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2025-02-03"
       },
       {
         "sig": "SIG-SPSC",
@@ -3029,7 +3034,8 @@
         "title": "Measurement of listening behaviors of learners & raters & its application 4 L2 aural/oral training",
         "url": "https://www.youtube.com/watch?v=cyCc7gML0o4",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2024-11-04"
       },
       {
         "sig": "SIG-SPSC",
@@ -3229,7 +3235,8 @@
         "title": "Towards End to End Spoken Grammatical Error Correction",
         "url": "https://www.youtube.com/watch?v=rSY6VfsezBM",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2024-04-08"
       },
       {
         "sig": "SLaTE",
@@ -3237,7 +3244,8 @@
         "title": "Towards L1-aware Multilingual Mispronunciation Detection Modeling",
         "url": "https://www.youtube.com/watch?v=Az_DZ73Gq5s",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2024-03-04"
       },
       {
         "sig": "SIG-SPSC",
@@ -3269,7 +3277,8 @@
         "title": "Using social robots for language learning: a scoping review",
         "url": "https://www.youtube.com/watch?v=syn-i5Ps-GU",
         "source": "https://sites.google.com/view/sigslate/webinar",
-        "indexed": "2026-11-01"
+        "indexed": "2026-11-01",
+        "date": "2024-05-13"
       },
       {
         "sig": "AISV",
