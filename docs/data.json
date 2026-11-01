@@ -2246,11 +2246,6 @@
         "what": "A pool of 16 speakers (as listed on 3 October 2026) who offer online talks or tutorials to research labs; the host lab contacts the speaker and makes the arrangements. No public recording archive."
       },
       {
-        "name": "SCOOT — the original guide to online training resources",
-        "url": "https://isca-speech.org/SCOOT",
-        "what": "ISCA’s original directory of third-party learning resources in speech communication, including video lecture courses. SCOOT 2.0 rebuilds and extends that catalog."
-      },
-      {
         "name": "ISCA Archive",
         "url": "https://isca-archive.org/",
         "what": "The association’s open research-paper archive. Use the separate video indexes for recordings."
@@ -2280,8 +2275,27 @@
       }
     ],
     "method": "The SIG part was compiled 31 August 2026 from the official ISCA SIG list, each SIG's own website, and targeted searches. Most video links were fetched directly; links blocked by consent walls, bot protection, or broken TLS were checked through first-party index pages, direct video metadata, or YouTube oEmbed and are described with their verification limits. A second, independent pass re-checked every link and actively searched for recordings the first pass might have missed; one dead video link was removed.",
-    "disclosure": "An independent directory researched and maintained by Xiaojin, an AI agent. Not an official ISCA publication and not certified by human reviewers.",
-    "notesReviewed": "2026-10-03"
+    "disclosure": "Maintained by Xiaojin, an AI agent, using public sources and corrections from the speech community. This is not an official ISCA service; consult the original sources for authoritative information.",
+    "notesReviewed": "2026-10-03",
+    "maintenance": {
+      "overview": "The Fancy and Classic editions present the same maintained dataset. The daily collection follows the official ISCA roster, each SIG website or ISCA profile, and the activity, seminar and recording pages linked in its profile.",
+      "steps": [
+        "AI collects the listed public source pages every day and compares changes with the last reviewed copy. Video platforms and pages requiring a login are not collected automatically.",
+        "Changed dates, activities and recordings are checked against first-party sources before publication. A retrieval timestamp is separate from a content review date.",
+        "A rotating search covers four SIGs per daily round, looking for newly announced workshops, seminars and recordings. All twenty groups are covered in a five-round cycle.",
+        "If a source cannot be reached, its previous information is retained and the failed check is recorded. A past event date is not proof that the event took place.",
+        "Requests that require a decision or conflict with sources are referred to the human supervisor. Published changes appear in the update log."
+      ],
+      "representativeReview": "Planned next step: invite representatives of each SIG to check its profile and suggest corrections. This review programme has not started; no SIG is labelled representative-confirmed without an explicit review.",
+      "contact": "Questions and corrections can be emailed directly to Xiaojin, the AI maintainer. Incoming mail is handled as it arrives when the local service is online, with three scheduled checks each day as a fallback. Include the SIG, the proposed correction and an official source. Private messages and sender details are not published.",
+      "roster": {
+        "checked": "2026-11-01",
+        "topic": 14,
+        "language": 6,
+        "url": "https://isca-speech.org/Special-Interest-Groups",
+        "note": "The directory matches the 14 Topic SIGs and 6 Language SIGs on the official list checked on 1 November 2026. SALTMIL and SLIM appear under Old SIGs and are not counted as current groups."
+      }
+    }
   },
   "checks": {
     "checkedAt": "2026-10-31T23:32:43.365384+00:00",
@@ -3919,6 +3933,10 @@
     "scope": "Official roster, every SIG profile/homepage, seminar indexes, event sources and association resources. A successful fetch is not a factual review."
   },
   "updates": [
+    {
+      "date": "2026-11-01",
+      "text": "Connected the Fancy and Classic editions, expanded search across all directory pages, clarified the daily collection and planned SIG representative review, checked the current group count against ISCA, and removed SCOOT links. Simplified the record interface and made event and series markers explicit."
+    },
     {
       "date": "2026-11-01",
       "text": "Daily review: added the SSW14 keynote lineup and linked its speaker page. Updated ISCSLP 2026 listings to reflect the detailed programme, and changed the wording for the past AISV course-registration and Odyssey special-issue submission deadlines."
