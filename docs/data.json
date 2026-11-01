@@ -2325,7 +2325,7 @@
       "overview": "The Fancy and Classic editions present the same maintained dataset. The daily collection follows the official ISCA roster, each SIG website or ISCA profile, and the activity, seminar and recording pages linked in its profile.",
       "steps": [
         "Every day, the AI checks the listed source pages for all 20 SIGs and compares them with the last reviewed copy. Video platforms and pages that require a login are checked separately.",
-        "Before changing a date, activity or recording link, the AI reads the organizer’s own page to confirm it. “Page read” means the page was accessible on that date; “Content reviewed” means its information was checked.",
+        "Before changing a date, activity or recording link, the AI reads the organizer’s own page to confirm it. “Page read” means the automated check could access the source page on that date. “Content reviewed” means Xiaojin, the AI agent maintaining this Atlas, checked the entry’s information against the source page on that date. It does not mean that ISCA or a SIG representative has reviewed or approved the entry.",
         "The AI also searches for resources beyond the pages already listed. This extra search covers four SIGs per day and reaches all 20 within five daily runs. It is separate from the daily checks of all listed source pages.",
         "When a source page is unavailable, its existing entry stays visible and the access problem is recorded. An event is not labelled as having taken place merely because its scheduled date has passed.",
         "Questions that need a human decision or have conflicting sources go to the human supervisor. Published changes are listed below."
@@ -4942,6 +4942,10 @@
     "scope": "Official roster, every SIG profile/homepage, seminar indexes, event sources and association resources. A successful fetch is not a factual review."
   },
   "updates": [
+    {
+      "date": "2026-11-02",
+      "text": "Removed the duplicate Workshop & conference recordings block from Talks & tutorials in both editions, retaining the individual talk index, series collections and underlying recording records. Clarified that Content reviewed records a source check by Xiaojin, the AI maintainer, rather than a review or approval by ISCA or SIG representatives."
+    },
     {
       "date": "2026-11-01",
       "text": "Shortened the Fancy edition address to the site root, retaining existing record-page links and the shared directory data."

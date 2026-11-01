@@ -1,6 +1,6 @@
 # Maintenance instructions
 
-This repository contains the independent ISCA SIG Atlas website. Keep the original SCOOT project and other websites separate.
+This repository maintains the shared data and Classic directory for ISCA SIG Atlas. The owner's standing instruction of 2026-11-01 applies to all agents: the sole default target for ISCA SIG Atlas website requests is https://speechlab0210.github.io/isca-sig-atlas-worlds/ . Earlier defaults pointing to this text directory, the /on-the-record/ sub-URL, Resonance or a concept site are revoked. General frontend requests belong to the record site's source; use this repository for shared data and explicitly requested Classic changes. Verify delivered changes at the canonical root URL. Keep SCOOT and other websites separate; existing source verification and authorization requirements still apply.
 
 - Preserve the typography-led design, accessible controls and English public copy.
 - Keep all 20 baseline SIGs and existing resources unless a source-backed correction justifies a change. Cite first-party sources and record actual review dates. A retrieval timestamp is not a content review.
