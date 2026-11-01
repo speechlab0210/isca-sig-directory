@@ -57,24 +57,24 @@
   {
     "start": "2026-10-07",
     "end": null,
-    "displayDate": "7 Oct 2026",
+    "displayDate": "Oct 2026 (exact date unconfirmed)",
     "title": "Watermarking AI-Generated Content — Pierre Fernandez",
     "sig": "SIG-SPSC",
-    "url": "https://www.spsc-sig.org/webinar",
-    "details": "Online. Organizer lists 15:00 (CET). Follow its registration link to confirm the timezone.",
-    "verified": true,
-    "reviewed": "2026-10-07"
+    "url": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
+    "details": "A recording with this title and speaker is published on the official SPSC Webinar channel. The previously listed 7 October date and time could not be reconfirmed from the current sources.",
+    "verified": false,
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-10-21",
     "end": null,
-    "displayDate": "21 Oct 2026",
+    "displayDate": "21 Oct 2026 (unconfirmed)",
     "title": "Acoustic Interference — Yanyun Wang",
     "sig": "SIG-SPSC",
     "url": "https://www.spsc-sig.org/webinar",
-    "details": "Online seminar on audio-model safety. Organizer lists 15:00 (CET); confirm at registration.",
-    "verified": true,
-    "reviewed": "2026-10-09"
+    "details": "Previously listed date and speaker could not be reconfirmed in the 1 Nov 2026 web snapshot or official YouTube channel. Retained as an unconfirmed historical listing, not a confirmed event or a cancellation.",
+    "verified": false,
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-10-21",
@@ -82,10 +82,10 @@
     "displayDate": "21 Oct 2026",
     "title": "Speech Prosody Lecture — Peggy Mok",
     "sig": "SProSIG",
-    "url": "https://sprosig.org/lectures.html",
-    "details": "08:00 Brasilia time (UTC-3). Topic: Acoustic Evidence for Phonological Representation and Sound Change of Tone Sandhi. The page provides a viewing link but still lists the talk under Upcoming Talks. It gives day and month only; 2026 is inferred from the listing, and playback has not been confirmed.",
-    "verified": false,
-    "reviewed": "2026-10-25"
+    "url": "https://www.youtube.com/watch?v=dKdlgon0hVI",
+    "details": "21 Oct 2026, listed at 08:00 Brasilia time (UTC-3). The organizer links this talk and the official IEL Unicamp playlist lists its archived livestream. Title and uploader match YouTube oEmbed; playback was not re-tested.",
+    "verified": true,
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-10-27",
@@ -182,9 +182,9 @@
     "title": "Tone and Intonation 2027 (TAI 2027) — abstract submission deadline",
     "sig": "SProSIG",
     "url": "https://ling.cuhk.edu.hk/tai2027/",
-    "details": "Listed among upcoming events on the SProSIG homepage. Abstract submission opened 12 Oct 2026; the deadline is Anywhere on Earth. The conference runs 27–29 May 2027 at The Chinese University of Hong Kong.",
+    "details": "The TAI 2027 conference website gives the 6 Dec 2026 Anywhere on Earth deadline; abstract submission opened 12 Oct 2026. Conference: 27–29 May 2027, The Chinese University of Hong Kong.",
     "verified": true,
-    "reviewed": "2026-10-28"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2027-05-27",
@@ -193,9 +193,9 @@
     "title": "Tone and Intonation 2027 (TAI 2027), Hong Kong",
     "sig": "SProSIG",
     "url": "https://ling.cuhk.edu.hk/tai2027/",
-    "details": "The Chinese University of Hong Kong. Listed among other upcoming events on the SProSIG homepage.",
+    "details": "Fourth International Conference on Tone and Intonation, The Chinese University of Hong Kong; dates confirmed on the conference website.",
     "verified": true,
-    "reviewed": "2026-10-03"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2027-01-12",
@@ -248,7 +248,7 @@
     "title": "SIG-CSLP Assembly at ISCSLP 2026",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/program",
-    "details": "Members’ assembly, scheduled with the closing ceremony, 16:30–17:00 on day 3 of the detailed ISCSLP 2026 programme, Penang. Check the organizer’s programme for updates.",
+    "details": "SIG-CSLP Assembly / Closing Ceremony, Penang, 16 Nov 2026, starting at 16:30 in the detailed programme. No separate session end time is specified; check the organizer for updates.",
     "verified": true,
     "reviewed": "2026-11-01"
   },
@@ -277,13 +277,13 @@
   {
     "start": "2027-08-17",
     "end": "2027-08-18",
-    "displayDate": "17–18 Aug 2027",
+    "displayDate": "Aug 2027 — exact dates unconfirmed",
     "title": "IWSLT 2027 (24th), Kyoto",
     "sig": "SIG-SLT",
     "url": "https://iwslt.org/2027/",
-    "details": "Co-located with ACL 2027. Conference days from the organizer’s preliminary timeline; the site header gives 17–22 Aug 2027.",
-    "verified": true,
-    "reviewed": "2026-10-03"
+    "details": "Official sources disagree: the website timeline gives 17–18 Aug, its header gives 17–22 Aug, and the Call for Tasks PDF gives 21–22 Aug. Kyoto and ACL co-location are listed; exact conference dates remain unconfirmed.",
+    "verified": false,
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-12-01",
@@ -336,9 +336,9 @@
     "title": "ISCA Distinguished Lecture — Kai Yu",
     "sig": "ISCA",
     "url": "https://www.isca-speech.org/Distinguished-Lecturers",
-    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Towards Reliable Task-oriented LLM Agents”. Registration was through a Google Form linked from the ISCA page and was requested by 2 October, 13:00 UTC.",
+    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Towards Reliable Task-oriented LLM Agents”. Registration was through a Google Form linked from the ISCA page and was requested by 2 October, 13:00 UTC. The scheduled date has passed; this listing does not independently confirm delivery or recording availability.",
     "verified": true,
-    "reviewed": "2026-10-03"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-10-14",
@@ -347,9 +347,9 @@
     "title": "ISCA Distinguished Lecture — Joseph Keshet",
     "sig": "ISCA",
     "url": "https://www.isca-speech.org/Distinguished-Lecturers",
-    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Speech AI in the real world: noise, latency, and the languages we left behind”. Registration is through a Google Form linked from the ISCA page (requested by 11 October, 13:00 UTC).",
+    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Speech AI in the real world: noise, latency, and the languages we left behind”. Registration was through a Google Form linked from the ISCA page (requested by 11 October, 13:00 UTC). The scheduled date has passed; this listing does not independently confirm delivery or recording availability.",
     "verified": true,
-    "reviewed": "2026-10-09"
+    "reviewed": "2026-11-01"
   },
   {
     "start": "2026-10-30",
@@ -358,8 +358,19 @@
     "title": "ISCA Distinguished Lecture — Kong Aik Lee",
     "sig": "ISCA",
     "url": "https://www.isca-speech.org/Distinguished-Lecturers",
-    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Speaker Recognition and Anti-Spoofing: State of the Art, Metrics, and Ethics”. Registration is through a Google Form linked from the ISCA page (requested by 27 October, 13:00 UTC).",
+    "details": "Online, 13:00–15:00 UTC, two hours including Q&A: “Speaker Recognition and Anti-Spoofing: State of the Art, Metrics, and Ethics”. Registration was through a Google Form linked from the ISCA page (requested by 27 October, 13:00 UTC). The scheduled date has passed; this listing does not independently confirm delivery or recording availability.",
     "verified": true,
-    "reviewed": "2026-10-09"
+    "reviewed": "2026-11-01"
+  },
+  {
+    "start": "2027-03-23",
+    "end": "2027-03-29",
+    "displayDate": "23–29 Mar 2027",
+    "title": "LV International Philological Conference, St. Petersburg",
+    "sig": "SIGRU",
+    "url": "https://conference-spbu.ru/en/conference/57/",
+    "details": "Officially announced dates for the recurring philological conference associated with SIGRU’s phonetics activities; consult the organizer for the detailed sections.",
+    "verified": true,
+    "reviewed": "2026-11-01"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "reviewed": "31 August 2026",
+  "reviewed": "2026-11-01",
   "part_title": "ISCA SIGs & online events",
   "part_blurb": "An independent directory of ISCA Special Interest Groups, activities and recordings.",
   "series_title": "Webinar & lecture series",
@@ -10,11 +10,11 @@
       "sig": "SIG-SPSC",
       "pill": "live",
       "cad": "webinar series · since Jul 2020",
-      "text": "Talks on security and privacy in speech, with an archive of recordings and slides.",
-      "next": "Next listed: Yanyun Wang, 21 Oct 2026. Registration and timezone details are on the organizer’s page.",
+      "text": "Speech-security and privacy webinars. Historical slides and recordings are indexed on the website; newer recordings are on the SIG YouTube channel.",
+      "next": "Recent recordings are on YouTube. The website schedule is stale; the earlier Yanyun Wang listing for 21 Oct 2026 is unconfirmed.",
       "links": [
         {
-          "label": "Recording archive",
+          "label": "Historical web index",
           "href": "https://www.spsc-sig.org/webinar"
         },
         {
@@ -22,7 +22,7 @@
           "href": "https://www.youtube.com/@SPSCWebinar"
         }
       ],
-      "reviewed": "2026-10-08"
+      "reviewed": "2026-11-01"
     },
     {
       "name": "Speech Prosody Lectures",
@@ -30,7 +30,7 @@
       "pill": "live",
       "cad": "roughly monthly · recordings since Oct 2023",
       "text": "Virtual lecture series; talks are streamed and recorded, with past lectures indexed on the lecture page.",
-      "next": "Previously listed: Peggy Mok, 21 Oct, 08:00 Brasilia time (UTC-3). Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time. The page omits years; 2026 is inferred from the listing.",
+      "next": "Peggy Mok’s 21 Oct 2026 talk is archived in the official playlist. Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time; the lecture page omits the year.",
       "links": [
         {
           "label": "Lecture index",
@@ -41,14 +41,14 @@
           "href": "https://www.youtube.com/playlist?list=PL28Xomry0aodTqMHVQuNDXAwBmmwXx8zT"
         }
       ],
-      "reviewed": "2026-10-25"
+      "reviewed": "2026-11-01"
     },
     {
       "name": "SIGML Virtual Seminar Series",
       "sig": "SIGML",
-      "pill": "live",
+      "pill": "paused",
       "cad": "roughly biweekly when in session",
-      "text": "Machine-learning-for-speech seminars: ran Apr–Dec 2021 and Jul–Nov 2025 (latest recorded talk: Charles McGhee, 14 Nov 2025); no session scheduled as of 3 Oct 2026. All 21 recordings indexed on the seminar page.",
+      "text": "Machine-learning-for-speech seminars: ran Apr–Dec 2021 and Jul–Nov 2025 (latest recorded talk: Charles McGhee, 14 Nov 2025); no session scheduled as of 1 Nov 2026. All 21 recordings indexed on the seminar page. No upcoming listing is not proof that the series has ended.",
       "links": [
         {
           "label": "Seminar index",
@@ -59,14 +59,14 @@
           "href": "https://www.youtube.com/@haotang9505"
         }
       ],
-      "reviewed": "2026-10-03"
+      "reviewed": "2026-11-01"
     },
     {
       "name": "SLaTE Webinar Series",
       "sig": "SLaTE",
-      "pill": "live",
+      "pill": "paused",
       "cad": "announced as monthly (first non-holiday Monday, 16:00 CET); irregular since 2025",
-      "text": "Speech-and-language-in-education talks, live-streamed; 8 recordings (Mar 2024–Mar 2025) on the SIG's own YouTube channel. Latest talk: Mikko Kurimo, 5 May 2026; no upcoming webinar listed as of 3 Oct 2026.",
+      "text": "Speech-and-language-in-education talks, live-streamed; 8 recordings (Mar 2024–Mar 2025) on the SIG's own YouTube channel. Latest talk: Mikko Kurimo, 5 May 2026; no upcoming webinar listed as of 1 Nov 2026. No upcoming listing is not proof that the series has ended.",
       "links": [
         {
           "label": "Webinar page",
@@ -77,7 +77,7 @@
           "href": "https://www.youtube.com/@ISCASIGSLaTE"
         }
       ],
-      "reviewed": "2026-10-03"
+      "reviewed": "2026-11-01"
     },
     {
       "name": "SIGSLT Seminars",
@@ -131,16 +131,20 @@
     {
       "name": "SynSIG Online Seminars",
       "sig": "SynSIG",
-      "pill": "announced",
-      "cad": "flagged “NEW” on the events page",
-      "text": "The official Events page still shows an Online Seminars heading without a programme. SSW14 is announced for 6–8 September 2027.",
+      "pill": "paused",
+      "cad": "recording archive · next session unconfirmed",
+      "text": "Three Online Seminars recordings are available: Shivam Mehta, Nikita Torgashov and Erica Cooper. The ISCA Events page has not yet supplied a programme.",
       "links": [
         {
           "label": "Events page",
           "href": "https://isca-speech.org/SynSIG-Events"
+        },
+        {
+          "label": "Seminar recordings",
+          "href": "https://www.youtube.com/@isca-synsig"
         }
       ],
-      "reviewed": "2026-10-03"
+      "reviewed": "2026-11-01"
     }
   ],
   "archives_title": "Recorded workshop & conference archives",
@@ -404,7 +408,7 @@
     {
       "name": "Speech Pitch — the ISCA-SAC podcast",
       "url": "https://www.isca-students.org/sacweb/index.php/podcast/podcast-episodes",
-      "what": "Student Advisory Committee interview series, numbered up to episode #25 as of 1 October 2026, plus multi-part conference specials (recent: Hynek Hermansky & Nelson Morgan, “Behind the Scenes at ISCA”, an Interspeech 2026 preview, Tomi Kinnunen).",
+      "what": "ISCA-SAC interview podcast. The SAC index currently lists numbered episodes through #24. Episodes #22–#24 are individual episodes, distinct from the earlier multi-part conference specials. Consult the official podcast channels for uploads not yet reflected in the index.",
       "links": [
         {
           "label": "Spotify",
@@ -414,12 +418,14 @@
           "label": "YouTube",
           "href": "https://www.youtube.com/@SpeechPitch"
         }
-      ]
+      ],
+      "reviewed": "2026-11-01"
     },
     {
       "name": "ISCA Distinguished Lecturers",
       "url": "https://www.isca-speech.org/Distinguished-Lecturers",
-      "what": "Since a 12 March 2026 Board decision, the programme runs as online lectures. The 2026–27 Distinguished Lecturers (Kai Yu, Joseph Keshet and Kong Aik Lee) each give a two-hour online lecture in October 2026 (5, 14 and 30 October, 13:00–15:00 UTC); registration is through a Google Form linked from the ISCA page. The page does not mention recordings."
+      "what": "The programme moved online following the 12 Mar 2026 Board decision. Its page scheduled two-hour lectures by Kai Yu, Joseph Keshet and Kong Aik Lee on 5, 14 and 30 Oct 2026, 13:00–15:00 UTC. These dates and registration deadlines have passed; the page does not confirm recordings or that each lecture took place.",
+      "reviewed": "2026-11-01"
     },
     {
       "name": "ISCA International Virtual Seminars",
@@ -437,13 +443,13 @@
   "notes": [
     {
       "warn": true,
-      "text": "The historical synsig.org address is no longer SynSIG’s; on 3 October 2026 it redirected to an unrelated third-party domain. SynSIG’s pages are hosted on isca-speech.org."
+      "text": "The historical synsig.org domain is not used as a SynSIG source or link. The current SynSIG pages are hosted by ISCA at isca-speech.org."
     },
     {
       "text": "The ISCA Video Archive page lists recordings up to Interspeech 2022 (still the case on 3 October 2026). Later recordings exist on individual conference sites; for example, Interspeech 2025 keeps its keynote and ceremony livestreams on its own Recordings page."
     },
     {
-      "text": "SynSIG’s Events page carries an Online Seminars heading marked “NEW” with no programme yet (still the case on 3 October 2026)."
+      "text": "SynSIG seminar recordings exist on its official YouTube channel even though the Events page still has an empty programme section. Recording availability and future scheduling are separate checks."
     },
     {
       "text": "4 of 20 SIGs have no recording links in this directory (AVISA, SIG-CHILD, SIG-IL, SIGRU); this reflects what was located, not what exists. AVISA’s AVSP 2026 was scheduled for 2 October 2026 in Sydney; the workshop site did not mention recordings as of 3 October 2026."

@@ -28,8 +28,9 @@
           "name": "SynSIG Online Seminars",
           "type": "webinar-series",
           "cadence": null,
-          "last": null,
-          "url": "https://isca-speech.org/SynSIG-Events"
+          "last": "Three seminar recordings are available on the official ISCA SynSIG channel: Shivam Mehta (S1E01), Nikita Torgashov (S1E02) and Erica Cooper (S1E03). No upcoming programme is listed on the Events page.",
+          "url": "https://isca-speech.org/SynSIG-Events",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Speech Processing Courses in Crete (SPCC) summer school — affiliated; SynSIG's YouTube channel archives its lectures",
@@ -52,9 +53,10 @@
           "active": false,
           "cadence": null,
           "pageUrl": "https://isca-speech.org/SynSIG-Events",
-          "recUrl": null,
-          "platform": null,
-          "notes": "Advertised as a '*NEW* Online seminars' section on the SynSIG Events page, but as of 3 Oct 2026 the section body is still an empty placeholder ('...'). No schedule, speakers, past seminars or recordings have been located. (ISCA's separate 'International Virtual Seminars' page is an ISCA-wide speaker directory, not a SynSIG series, and hosts no recordings.)"
+          "recUrl": "https://www.youtube.com/@isca-synsig",
+          "platform": "YouTube — ISCA SynSIG",
+          "notes": "The Events page still has an empty Online Seminars programme section, but three seminar recordings are independently verified on the official ISCA SynSIG channel. Future scheduling is unconfirmed; the series is represented here as a recording archive.",
+          "reviewed": "2026-11-01"
         }
       ],
       "videos": [
@@ -62,7 +64,8 @@
           "title": "ISCA SynSIG YouTube channel (@isca-synsig)",
           "url": "https://www.youtube.com/@isca-synsig",
           "kind": "youtube-channel",
-          "what": "Official SynSIG channel, linked from the SynSIG Resources page, which says it holds 'videos of past editions of the Speech Processing Course in Crete (SPCC) Summer School among other things'. Uploads include SPCC 2014 lectures (e.g. Rainer Martin, signal processing for hearing aids) and SPCC 2016 lectures (Yannis Stylianou, Simon King, Spyros Raptis), all published under 'ISCA SynSIG'. The channel lists 33 videos as of 3 Oct 2026."
+          "what": "Official SynSIG channel, linked from its Resources page. It hosts the SynSIG seminar recordings and playlists for SPCC 2014, 2016, 2019 and 2020, Blizzard Challenge 2021, and the combined Blizzard / Voice Conversion Challenges 2020 archive.",
+          "reviewed": "2026-11-01"
         },
         {
           "title": "SPCC 2016 - Simon King - Text processing for speech synthesis",
@@ -93,6 +96,27 @@
           "url": "https://www.youtube.com/watch?v=8ARUsFIlOTk",
           "kind": "youtube-video",
           "what": "Verified via oEmbed (HTE channel). Day-2 sessions of SSW11 exist as individual videos on HTE rather than a discovered playlist."
+        },
+        {
+          "title": "SynSIG seminars — S1E01 — Shivam Mehta",
+          "url": "https://www.youtube.com/watch?v=PxanvFrwiRc",
+          "kind": "youtube-video",
+          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader verified through YouTube oEmbed.",
+          "reviewed": "2026-11-01"
+        },
+        {
+          "title": "SynSIG seminars — S1E02 — Nikita Torgashov",
+          "url": "https://www.youtube.com/watch?v=M8n9I9eGyTM",
+          "kind": "youtube-video",
+          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader verified through YouTube oEmbed.",
+          "reviewed": "2026-11-01"
+        },
+        {
+          "title": "SynSIG seminars — S1E03 — Erica Cooper",
+          "url": "https://www.youtube.com/watch?v=dayt4XhVgdc",
+          "kind": "youtube-video",
+          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader verified through YouTube oEmbed.",
+          "reviewed": "2026-11-01"
         }
       ],
       "hasRec": true,
@@ -110,16 +134,18 @@
         {
           "name": "AVSP — International Conference on Auditory-Visual Speech Processing (workshop series since 1997; 15 editions 1997–2019, then hiatus)",
           "type": "workshop",
-          "cadence": "historically biennial; 7-year hiatus 2019–2026, now resumed",
+          "cadence": "recurring workshop/conference series; intervals vary; resumed in 2026 after the 2019 edition",
           "last": "AVSP 2026 (16th edition), Oct 2, 2026, Sydney, Australia — satellite workshop of Interspeech 2026",
-          "url": "https://project.inria.fr/avsp2026/"
+          "url": "https://project.inria.fr/avsp2026/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Prix Christian Benoît (young-researcher award funding a multimedia product, €7,500)",
           "type": "other",
           "cadence": "roughly biennial, irregular",
-          "last": "11th award announced Jan 2021 (deadline May 2021); no newer edition found on the SIG site",
-          "url": "https://avisa.loria.fr/pcbenoit.html"
+          "last": "ISCA’s awards page lists Daniel Michelsanti as the 2021 Prix Christian Benoît recipient. The SIG page announced that year’s eleventh award.",
+          "url": "https://isca-speech.org/ISCA-Awards",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "LIPS Visual Speech Synthesis Challenge",
@@ -139,9 +165,10 @@
         {
           "name": "Community channels: mailing list (via sympa/inria), Bluesky @avsp.bsky.social (very active, research-paper digests), X/Twitter @AV_SP",
           "type": "other",
-          "cadence": "Bluesky posts several times per month (posts verified through 18 Sep 2026, including the AVSP 2026 programme announcement)",
-          "last": null,
-          "url": "https://bsky.app/profile/avsp.bsky.social"
+          "cadence": "Ongoing posts and reposts; public feed checked 1 Nov 2026.",
+          "last": "The retrieved feed includes an original AVSP post dated 29 Oct and reposted research items through 31 Oct 2026.",
+          "url": "https://bsky.app/profile/avsp.bsky.social",
+          "reviewed": "2026-11-01"
         }
       ],
       "series": [],
@@ -169,8 +196,9 @@
           "name": "LT4All (Language Technologies for All) conference, organized by ELRA and SIGUL in partnership with UNESCO",
           "type": "conference",
           "cadence": "irregular (2019, 2025)",
-          "last": "LT4All 2025, UNESCO HQ Paris + Zoom, 24-26 Feb 2025",
-          "url": "https://www.elra.info/lt4all-2025/"
+          "last": "LT4All 2025, UNESCO Headquarters, Paris, 24–26 Feb 2025. ELRA’s event page confirms the venue and dates; it does not substantiate the earlier Zoom claim.",
+          "url": "https://www.elra.info/lt4all-2025/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "SLTU (Spoken Language Technologies for Under-resourced Languages) workshop series — predecessor, merged into SIGUL workshops",
@@ -197,8 +225,9 @@
           "name": "SIGUL mailing list (sigul@list.elra.info) — active CFP/announcement channel",
           "type": "other",
           "cadence": "ongoing",
-          "last": "active through Sep 2026 (e.g. IWSLT 2027 call for task proposals; ComputEL-10 call for papers)",
-          "url": "https://list.elra.info/mailman3/hyperkitty/list/sigul@list.elra.info/"
+          "last": "The public mailing-list archive reports four discussions in the past 30 days, checked 1 Nov 2026. Follow the archive for individual announcements.",
+          "url": "https://list.elra.info/mailman3/hyperkitty/list/sigul@list.elra.info/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Workshop proceedings in ACL Anthology (SIGUL venue)",
@@ -350,7 +379,8 @@
           "title": "VoxSRC Workshop 2023 talks (embedded videos)",
           "url": "https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2023.html",
           "kind": "video-page",
-          "what": "Verified live page (KAIST) for the VoxSRC-23 workshop held Aug 20, 2023 in Dublin at Interspeech 2023, with embedded HTML5 videos: keynote by Wei-Ning Hsu (Meta FAIR) on controllable speech generation, plus winner presentations across Tracks 1-4 (Unisound, ID R&D, xg0721, DKU-MSXF, KrispAI, pyannote) and 11 linked technical reports. Same page format and video-embed pattern as the verified 2020-2022 workshop pages."
+          "what": "VoxSRC 2023 workshop page (20 Aug 2023, Dublin): slides, embedded HTML5 video elements for the keynote and participant talks, and 13 technical-report links from 12 teams. DKU-MSXF has two reports. Embedded elements are present in the source; media playback was not re-tested in this review.",
+          "reviewed": "2026-11-01"
         }
       ],
       "hasRec": true,
@@ -363,14 +393,15 @@
       "kind": "topic",
       "website": "https://sprosig.org/",
       "iscaUrl": "https://isca-speech.org/Speech-Prosody-SProSIG",
-      "description": "ISCA's topic SIG on speech prosody, running the biennial Speech Prosody conference (the largest international forum on prosody), a roughly monthly virtual lecture series streamed and archived on YouTube, and endorsing the Tonal Aspects of Languages / Tone and Intonation (TAL/TAI) workshop series.",
+      "description": "ISCA's topic SIG on speech prosody, running the biennial Speech Prosody conference (the largest international forum on prosody), a roughly monthly virtual lecture series streamed and archived on YouTube, and endorsing the Tonal Aspects of Languages / Tone and Intonation (TAL/TAI) conference series.",
       "activities": [
         {
           "name": "SProSIG Virtual Lecture Series (Speech Prosody Lectures)",
           "type": "webinar-series",
           "cadence": "approximately monthly",
-          "last": "Previously listed: Peggy Mok, 21 Oct, 08:00 Brasilia time (UTC-3). Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time. The page omits years; 2026 is inferred from the listing.",
-          "url": "https://sprosig.org/lectures.html"
+          "last": "Peggy Mok’s 21 Oct 2026 talk is archived in the official playlist. Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time; the lecture page omits the year.",
+          "url": "https://sprosig.org/lectures.html",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Speech Prosody conference",
@@ -380,11 +411,12 @@
           "url": "https://www.speechprosody2026.org/"
         },
         {
-          "name": "Tonal Aspects of Languages / Tone and Intonation workshops (TAL/TAI, SIG-endorsed)",
-          "type": "workshop",
+          "name": "Tonal Aspects of Languages / Tone and Intonation conferences (TAL/TAI, SIG-endorsed)",
+          "type": "conference",
           "cadence": "biennial in odd years since 2021 (as TAI)",
           "last": "TAI 2025, Herrsching (near Munich), Germany, 16–18 May 2025; next: TAI 2027, The Chinese University of Hong Kong, 27–29 May 2027 (abstracts due 6 Dec 2026)",
-          "url": "https://ling.cuhk.edu.hk/tai2027/"
+          "url": "https://ling.cuhk.edu.hk/tai2027/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "SProSIG mailing list",
@@ -401,8 +433,9 @@
           "cadence": "approximately monthly",
           "pageUrl": "https://sprosig.org/lectures.html",
           "recUrl": "https://sprosig.org/lectures.html",
-          "platform": "YouTube (streamed live with Q&A via chat; Bilibili mirror for each lecture)",
-          "notes": "Organized by Plinio Barbosa (Univ. of Campinas). Alternates distinguished and rising researchers. The lecture page indexes recordings from Oct 2023 onward, with YouTube and Bilibili links for past lectures. Xiaoming Jiang is now listed under Archived Lectures. Peggy Mok is listed for 21 Oct and Sacha Calhoun for 17 Nov; the page omits their years. Streams and recordings are hosted on the IEL Unicamp YouTube channel."
+          "platform": "YouTube livestreams and recordings; Bilibili mirrors for some archived lectures",
+          "notes": "The lecture page indexes talks from October 2023. The official IEL Unicamp playlist now includes Peggy Mok, alongside Xiaoming Jiang, and contains 16 recordings. Bilibili links are provided for some earlier talks, not every lecture. Sacha Calhoun is listed for 17 Nov; the year is not printed on the lecture page.",
+          "reviewed": "2026-11-01"
         }
       ],
       "videos": [
@@ -410,13 +443,15 @@
           "title": "SProSIG Lecture Series page (recordings index)",
           "url": "https://sprosig.org/lectures.html",
           "kind": "video-page",
-          "what": "Lecture index with YouTube recordings and Bilibili mirrors for past talks. Xiaoming Jiang is now included under Archived Lectures; the page also provides a viewing link for Peggy Mok. Playback of the latter has not been confirmed."
+          "what": "Lecture index linking YouTube recordings and some Bilibili mirrors. Peggy Mok’s linked video is independently listed in the official IEL Unicamp playlist and resolves through YouTube oEmbed; media playback was not re-tested.",
+          "reviewed": "2026-11-01"
         },
         {
           "title": "Speech Prosody Lecture Series - YouTube playlist",
           "url": "https://www.youtube.com/playlist?list=PL28Xomry0aodTqMHVQuNDXAwBmmwXx8zT",
           "kind": "youtube-playlist",
-          "what": "Playlist 'Speech Prosody Lecture Series' on the IEL Unicamp channel: 15 videos as of 3 Oct 2026 (the 14 archived lectures from Oct 2023 to Dec 2025 plus the 4 Sep 2026 lecture)."
+          "what": "Official IEL Unicamp 'Speech Prosody Lecture Series' playlist: 16 listed videos on 1 Nov 2026, including Xiaoming Jiang and Peggy Mok.",
+          "reviewed": "2026-11-01"
         },
         {
           "title": "Example lecture: Yi Xu, 'Tackling prosodic phenomena at their roots' (Oct 2023)",
@@ -638,12 +673,13 @@
       "series": [
         {
           "name": "ISCA SIG SLaTE Webinar Series",
-          "active": true,
+          "active": false,
           "cadence": "nominally monthly; in practice 6 talks in 2024, 3 in early 2025, 1 in 2026 (5 May)",
           "pageUrl": "https://sites.google.com/view/sigslate/webinar",
           "recUrl": "https://www.youtube.com/@ISCASIGSLaTE",
           "platform": "live-streamed (Eventbrite registration) with recordings posted to YouTube",
-          "notes": "Webinar page states the talks are live-streamed and recorded, with links on the SIG's YouTube channel. Documented talks: 6 in 2024 (Chowdhury, Bannò, Huang, Tits, Minematsu, Ní Chasaide), 3 in 2025 (Islam — the page notes no video for this talk, Kato, Alwan), 1 in 2026 (Kurimo, 5 May). The channel holds 8 recordings (Mar 2024–Mar 2025); the Islam and Kurimo talks are not on it. No upcoming event on Eventbrite as of 3 Oct 2026."
+          "notes": "Webinar page states the talks are live-streamed and recorded, with links on the SIG's YouTube channel. Documented talks: 6 in 2024 (Chowdhury, Bannò, Huang, Tits, Minematsu, Ní Chasaide), 3 in 2025 (Islam — the page notes no video for this talk, Kato, Alwan), 1 in 2026 (Kurimo, 5 May). The channel holds 8 recordings (Mar 2024–Mar 2025); the Islam and Kurimo talks are not on it. No upcoming event on Eventbrite as of 3 Oct 2026. Checked 1 Nov 2026: no upcoming dated session is listed. The archive remains available; this is not evidence that the series has been discontinued.",
+          "reviewed": "2026-11-01"
         }
       ],
       "videos": [
@@ -667,7 +703,7 @@
         }
       ],
       "hasRec": true,
-      "activeSeries": true,
+      "activeSeries": false,
       "contentReviewed": "2026-10-03"
     },
     {
@@ -703,12 +739,13 @@
       "series": [
         {
           "name": "SIGML Virtual Seminar Series",
-          "active": true,
+          "active": false,
           "cadence": "roughly biweekly when in session; 15 talks in 2021, 6 talks Jul-Nov 2025 after a 2022-2024 hiatus",
           "pageUrl": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
           "recUrl": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
           "platform": "YouTube (live-streamed then recorded, ~1 hour talks)",
-          "notes": "The SIG's main recorded offering: all 21 seminars on the page (15 from Apr–Dec 2021, 6 from Jul–Nov 2025) link to a YouTube recording on organizer Hao Tang's personal channel. Talks follow the Chatham House Rule. Last seminar 14 Nov 2025; no seminar scheduled as of 3 Oct 2026."
+          "notes": "The SIG's main recorded offering: all 21 seminars on the page (15 from Apr–Dec 2021, 6 from Jul–Nov 2025) link to a YouTube recording on organizer Hao Tang's personal channel. Talks follow the Chatham House Rule. Last seminar 14 Nov 2025; no seminar scheduled as of 3 Oct 2026. Checked 1 Nov 2026: no upcoming dated session is listed. The archive remains available; this is not evidence that the series has been discontinued.",
+          "reviewed": "2026-11-01"
         }
       ],
       "videos": [
@@ -768,16 +805,16 @@
         }
       ],
       "hasRec": true,
-      "activeSeries": true,
+      "activeSeries": false,
       "contentReviewed": "2026-10-03"
     },
     {
       "acronym": "SLPAT",
       "fullName": "Speech and Language Processing for Assistive Technologies (SIG-SLPAT)",
       "kind": "topic",
-      "website": null,
+      "website": "http://www.slpat.org/",
       "iscaUrl": "https://isca-speech.org/Speech-and-Language-Processing-for-Assistive-Technologies-SLPAT",
-      "description": "Joint ISCA/ACL special interest group promoting the application of speech and language technologies to assistive technologies, especially for people whose impairments affect their ability to communicate; interdisciplinary across NLP, speech processing, speech pathology, AAC, HCI and accessibility.",
+      "description": "Joint ISCA/ACL special interest group promoting the application of speech and language technologies to assistive technologies, especially for people whose impairments affect their ability to communicate; interdisciplinary across NLP, speech processing, speech pathology, AAC, HCI and accessibility. ISCA identifies slpat.org as the SIG website; that hostname could not be resolved from this review environment on 1 Nov 2026.",
       "activities": [
         {
           "name": "SLPAT Workshop series (Workshop on Speech and Language Processing for Assistive Technologies)",
@@ -839,7 +876,7 @@
       "kind": "topic",
       "website": "https://www.sig-hist.org/",
       "iscaUrl": "https://isca-speech.org/The-History-of-Speech-Communication-Sciences-SIG-HIST",
-      "description": "Topic SIG (jointly supported by ISCA and the International Phonetic Association) devoted to preserving and sharing the history of speech communication sciences: it runs the HSCR workshop series, organizes special sessions and exhibitions at major conferences (Interspeech, ICPhS), and curates historical resources (original publications, historical audio/video recordings, pioneer biographies, bibliography) on its website.",
+      "description": "Topic SIG (jointly supported by ISCA and the International Phonetic Association) devoted to preserving and sharing the history of speech communication sciences: it runs the HSCR workshop series, organizes special sessions and exhibitions at major conferences (Interspeech, ICPhS), and curates historical resources (original scientific texts, historical audio/video recordings and pioneer biographies) on its website.",
       "activities": [
         {
           "name": "International Workshop on the History of Speech Communication Research (HSCR)",
@@ -856,18 +893,20 @@
           "url": "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/FINAL-PROCEEDINGS_TOC_HTML.html"
         },
         {
-          "name": "Curated historical resources collection (publications, historical audio and video recordings, instrument collections, bibliography)",
+          "name": "Historical resources: audio recordings, video recordings and scientific texts",
           "type": "other",
           "cadence": "ongoing",
           "last": null,
-          "url": "https://www.sig-hist.org/historical-resources.html"
+          "url": "https://www.sig-hist.org/historical-resources.html",
+          "reviewed": "2026-11-01"
         },
         {
-          "name": "SIG-HIST mailing list (join via the SIG’s contact page)",
+          "name": "Contact the SIG secretary via the official contact page",
           "type": "other",
           "cadence": null,
-          "last": null,
-          "url": "https://www.sig-hist.org/contact.html"
+          "last": "The page provides a secretary contact; it does not describe a mailing-list subscription.",
+          "url": "https://www.sig-hist.org/contact.html",
+          "reviewed": "2026-11-01"
         }
       ],
       "series": [],
@@ -918,11 +957,12 @@
           "url": "https://www.isca-archive.org/wocci_2025/"
         },
         {
-          "name": "Interspeech special sessions on children's speech (e.g. 'Connecting Speech-science and Speech-technology for Children's Speech' at IS2023, IS2024 and IS2025)",
+          "name": "Interspeech special sessions on children's speech",
           "type": "special-session",
           "cadence": "roughly annual, 2019-2025 per the ISCA SIG page",
-          "last": "Interspeech 2025, Rotterdam ('Connecting Speech-science and Speech-technology for Children's Speech')",
-          "url": "https://sites.google.com/view/sciencetech4childspeech-is25"
+          "last": "Interspeech 2025, Rotterdam: Connecting Speech Science and Speech Technology for Children's Speech. The session page also documents earlier editions in 2023 and 2024.",
+          "url": "https://sites.google.com/view/sciencetech4childspeech-is25",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "LTLT - Language Teaching, Learning and Technology workshops",
@@ -963,9 +1003,10 @@
         {
           "name": "CHiME Challenges (Computational Hearing in Multisource Environments) — flagship activity",
           "type": "challenge",
-          "cadence": "roughly annual since 2011",
-          "last": "CHiME-9 (MCoRec, ECHI) ran 1 Jul 2025–6 Feb 2026; results presented at HSCMA&CHiME 2026, Barcelona, 4 May 2026. CHiME-10 (ECHI-2, URGENT, SG-TSE) opens 4 Feb 2027; a CHiME 2027 workshop is planned for Dec 2027 as an ASLI satellite (TBC).",
-          "url": "https://www.chimechallenge.org/"
+          "cadence": "recurring challenges since 2011; intervals vary",
+          "last": "CHiME-9 ran 1 Jul 2025–6 Feb 2026, with results presented at HSCMA&CHiME 2026. CHiME-10 opens 4 Feb 2027; its one-day workshop is planned for Dec 2027 as an ASLI satellite or co-located event (details TBC). ASLI means IEEE International Conference on Audio, Speech, and Language Intelligence, Singapore; its conference website lists 29 Nov–4 Dec 2027.",
+          "url": "https://www.chimechallenge.org/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "CHiME Workshops (Speech Processing in Everyday Environments) — flagship workshop, usually a satellite of Interspeech/ICASSP",
@@ -1064,9 +1105,9 @@
           "name": "SPSC Webinar & Café Sessions (webinar series; one Café journal-club session listed, Aug 2020)",
           "type": "webinar-series",
           "cadence": "webinar announced as once a month (first Monday preferred, flexible); Café journal club announced as monthly but only one session listed (27 Aug 2020)",
-          "last": "Next listed: Yanyun Wang, 21 Oct 2026, 15:00 (CET). The organizer also retains the earlier Pierre Fernandez listing for 7 Oct 2026. Confirm the timezone when registering.",
+          "last": "The website snapshot reviewed on 1 Nov 2026 lists past webinars through 3 Mar 2025 and still labels Apr–May 2025 entries as upcoming. Recent recordings, including 2026 talks and Pierre Fernandez, are on the SIG YouTube channel. No next session is confirmed here.",
           "url": "https://www.spsc-sig.org/webinar",
-          "reviewed": "2026-10-08"
+          "reviewed": "2026-11-01"
         },
         {
           "name": "SPSC Symposium (ISCA Symposium on Security and Privacy in Speech Communication)",
@@ -1115,27 +1156,29 @@
           "name": "7th CoSDEO Workshop \"Privacy and Security in Digital Assistants\" (at PerCom 2020)",
           "type": "workshop",
           "cadence": "one-off",
-          "last": "March 2020",
-          "url": "https://cosdeo.aalto.fi"
+          "last": "March 2020 workshop. The HTTPS endpoint failed hostname certificate validation on 1 Nov 2026; the historical URL is retained without bypassing that check.",
+          "url": "https://cosdeo.aalto.fi",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Slack community + social media (Twitter/X @SPSC_SIG, LinkedIn)",
           "type": "other",
           "cadence": null,
-          "last": null,
-          "url": "https://spsc-sig.slack.com/"
+          "last": "The SIG website links X and LinkedIn. Availability of this separate Slack workspace is not verified by the public website.",
+          "url": "https://spsc-sig.slack.com/",
+          "reviewed": "2026-11-01"
         }
       ],
       "series": [
         {
           "name": "SPSC Webinar (web seminar series)",
           "active": true,
-          "cadence": "since July 2020; announced as once a month (organizer prefers the first Monday but is flexible); listed 2026 dates include 23 Jan, 27 Apr, 29 May, 20 Aug (two talks), 7 Oct and 21 Oct; 40 min talk + up to 20 min Q&A",
+          "cadence": "Monthly format announced since July 2020; 40-minute talk plus up to 20 minutes of Q&A; dates vary.",
           "pageUrl": "https://www.spsc-sig.org/webinar",
-          "recUrl": "https://www.spsc-sig.org/webinar",
+          "recUrl": "https://www.youtube.com/@SPSCWebinar",
           "platform": "YouTube (2025-2026 talks) + EURECOM mediaserver / Nudgis (2020-2025 talks)",
-          "notes": "Next listed webinar: 21 October 2026, with a registration link. The earlier 7 October listing remains on the source page. Earlier talks remain in the recording index. Schedule checked 8 October 2026.",
-          "reviewed": "2026-10-08"
+          "notes": "The web index currently ends in March 2025, with stale April–May 2025 placeholders. The official YouTube channel supplies the newer recording evidence. The previously listed 21 Oct 2026 Yanyun Wang session could not be reconfirmed; no cancellation is inferred.",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "SPSC Café (journal club)",
@@ -1149,11 +1192,11 @@
       ],
       "videos": [
         {
-          "title": "SPSC Webinar & Café Sessions archive (master index of all webinar recordings)",
+          "title": "SPSC Webinar & Café Sessions — historical web index",
           "url": "https://www.spsc-sig.org/webinar",
           "kind": "video-page",
-          "what": "Lists 57 past entries (56 webinars + 1 Café session) from Jul 2020 to Aug 2026, plus October listings for 7 and 21 Oct 2026. 33 entries link a recording: 2025–2026 talks on the SIG's YouTube channel, 2020–2025 talks on mediaserver.eurecom.fr; many also link slides. This page is the canonical entry point to all SIG recordings.",
-          "reviewed": "2026-10-08"
+          "what": "The 1 Nov 2026 source snapshot contains 44 past webinars and one Café session, ending in March 2025, plus April–May 2025 placeholders. It links historical EURECOM recordings and slides, but no YouTube recordings. Use the separate SIG YouTube channel for newer talks.",
+          "reviewed": "2026-11-01"
         },
         {
           "title": "Guangzhi Sun and Xuenan Xu — safety and privacy in audio LLMs; holistic speech anti-spoofing (SPSC webinar, 20 Aug 2026)",
@@ -1183,7 +1226,8 @@
           "title": "SPSC Webinar — dedicated YouTube channel (@SPSCWebinar)",
           "url": "https://www.youtube.com/@SPSCWebinar",
           "kind": "youtube-channel",
-          "what": "The SIG's own YouTube channel (12 videos as of 3 Oct 2026), hosting the 2025–2026 webinar recordings."
+          "what": "The SIG's YouTube channel lists 13 videos on 1 Nov 2026, including 2026 webinars and Pierre Fernandez's Watermarking AI-Generated Content recording.",
+          "reviewed": "2026-11-01"
         },
         {
           "title": "VoicePrivacy 2026 system presentations and materials",
@@ -1191,6 +1235,13 @@
           "kind": "video-page",
           "what": "Organizer’s index for 13 participating teams, with seven embedded presentation videos, system papers, slides/posters and original/anonymized audio samples from the 26 Sep 2026 workshop.",
           "reviewed": "2026-10-07"
+        },
+        {
+          "title": "Pierre Fernandez — Watermarking AI-Generated Content",
+          "url": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
+          "kind": "youtube-video",
+          "what": "Recording listed on the official SPSC Webinar channel; the exact session date is not confirmed by the retrieved channel listing.",
+          "reviewed": "2026-11-01"
         }
       ],
       "hasRec": true,
@@ -1209,8 +1260,9 @@
           "name": "IWSLT — International Conference on Spoken Language Translation",
           "type": "conference",
           "cadence": "annual since 2004",
-          "last": "IWSLT 2026 (23rd edition), July 3-4 2026, San Diego, co-located with ACL 2026; next: IWSLT 2027 (24th edition), Aug 17-22 2027, Kyoto, co-located with ACL",
-          "url": "https://iwslt.org/2026/"
+          "last": "IWSLT 2026 (23rd edition), 3–4 Jul 2026, San Diego. Next: IWSLT 2027 (24th), Kyoto, co-located with ACL; exact dates are unconfirmed because the official website and Call for Tasks PDF disagree (17–18, 17–22 or 21–22 Aug 2027).",
+          "url": "https://iwslt.org/2026/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "IWSLT evaluation campaign / shared tasks (offline & simultaneous translation, subtitling, dubbing, speech-to-speech, low-resource, Indic languages, metrics, etc.)",
@@ -1313,8 +1365,9 @@
           "name": "ISCSLP — International Symposium on Chinese Spoken Language Processing (flagship conference)",
           "type": "conference",
           "cadence": "biennial (even years)",
-          "last": "Last held: ISCSLP 2024 (14th), Beijing, 7–10 Nov 2024; next: ISCSLP 2026 (15th), Penang, Malaysia: main conference 14–16 Nov 2026 at JEN Penang Georgetown, tutorial day 17 Nov at Universiti Sains Malaysia (USM); registration open as of 3 Oct 2026",
-          "url": "https://iscslp.org/2026/"
+          "last": "ISCSLP 2026 (15th), Penang, Malaysia: main conference 14–16 Nov at JEN Penang Georgetown; tutorials 17 Nov at USM. Online registration is closed 24 Oct–13 Nov; on-site registration reopens 14 Nov 2026.",
+          "url": "https://iscslp.org/2026/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "ISCSLP grand challenges (e.g. Chinese-English Code-Switching ASR + Intelligent Cockpit SR Challenge 2022, Conversational Voice Clone CoVoC 2024, CoT-TTS Challenge 2026)",
@@ -1334,7 +1387,7 @@
           "name": "SIG-CSLP Gatherings (informal member meetups at major speech conferences)",
           "type": "other",
           "cadence": "roughly twice a year at Interspeech and ICASSP",
-          "last": "Most recent documented on SIG site: gathering at Interspeech 2024 (also ICASSP 2024, Interspeech 2023, ICASSP 2023); the detailed ISCSLP 2026 programme schedules a SIG-CSLP Assembly with the closing ceremony on 16 Nov 2026, 16:30–17:00; no recordings",
+          "last": "The ISCSLP 2026 programme lists the SIG-CSLP Assembly / Closing Ceremony on 16 Nov, starting at 16:30. No separate ending time is printed in that session cell; no recording is confirmed.",
           "url": "https://www.isca-cslp.org/web/",
           "reviewed": "2026-11-01"
         }
@@ -1405,7 +1458,8 @@
           "title": "ISCSLP 2014 recordings on SuperLectures (Singapore, 12–14 Sep 2014)",
           "url": "https://www.superlectures.com/iscslp2014/",
           "kind": "video-page",
-          "what": "Video recordings and slides from the 9th ISCSLP: opening ceremony, 3 keynotes and 4 tutorials (some split into parts). Linked from the ISCA Video Archive; keynote playback confirmed on 3 Oct 2026."
+          "what": "Historical archive of the 9th ISCSLP: opening ceremony, 3 keynotes and 4 tutorials (some split into parts). Linked from the ISCA Video Archive. Playback was previously checked on 3 Oct 2026; a fresh request timed out on 1 Nov, so current playback availability is unconfirmed.",
+          "reviewed": "2026-11-01"
         }
       ],
       "hasRec": true,
@@ -1418,7 +1472,7 @@
       "kind": "language",
       "website": "https://www.afcp-parole.org/",
       "iscaUrl": "https://isca-speech.org/Association-Francophone-de-la-Communication-Parle-AFCP",
-      "description": "French non-profit association (loi 1901) and ISCA language SIG supporting the development, dissemination and promotion of speech science and technology in the French-speaking community; runs the biennial JEP conference, young-researcher meetings (RJCP), occasional scientific seminars, a thesis prize and the JCeP young-researchers community.",
+      "description": "French non-profit association (loi 1901) and ISCA language SIG supporting the development, dissemination and promotion of speech science and technology in the French-speaking community; runs the biennial JEP conference, young-researcher meetings (RJCP), occasional scientific seminars, a thesis prize and the JCeP young-researchers community. The AFCP website returned HTTP 503 during the 1 Nov 2026 check; existing links are retained, and this does not imply that activities have stopped.",
       "activities": [
         {
           "name": "Journées d'Études sur la Parole (JEP)",
@@ -1466,8 +1520,9 @@
           "name": "Prix de thèse AFCP (annual thesis prize)",
           "type": "other",
           "cadence": "annual",
-          "last": "2025 thesis prize, announced 29 Apr 2026 (post titled 'Prix de thèse AFCP 2026'); the prize is officially presented at the JEP",
-          "url": "https://www.afcp-parole.org/category/soutiens/prix-de-these-de-lafcp/"
+          "last": "The 2025 AFCP thesis prize was awarded to Kübra Bodur on 11 Jun 2026 at JEP in Montpellier, according to her laboratory’s announcement.",
+          "url": "https://lpl-aix.fr/en/node/324",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "JEP proceedings archive (online since 1970) and francophone thesis database (since 1994)",
@@ -1648,7 +1703,7 @@
       "kind": "language",
       "website": null,
       "iscaUrl": "https://isca-speech.org/Iberian-Languages-SIG-IL",
-      "description": "Conceived at Interspeech 2005 in Lisbon, SIG-IL promotes speech science and technology for Iberian languages (Spanish, Portuguese, Catalan, Basque, Galician), mainly by co-organizing/endorsing the IberSPEECH and PROPOR conference series and fostering research-industry exchange across Iberia and Latin America.",
+      "description": "Conceived at Interspeech 2005 in Lisbon, SIG-IL promotes speech science and technology for Iberian languages (Spanish, Portuguese, Catalan, Basque, Galician), mainly by co-organizing/endorsing the IberSPEECH and PROPOR conference series and fostering research-industry exchange across Iberia and Latin America. ISCA lists a legacy website at il-sig.org; it was unavailable during the 1 Nov 2026 check (DNS resolution failed). Use the ISCA profile for the official SIG listing.",
       "activities": [
         {
           "name": "IberSPEECH (joint conference of SIG-IL and the Spanish Speech Technology Network RTTH; merges Jornadas en Tecnologías del Habla + Iberian SLTech)",
@@ -1698,7 +1753,7 @@
       "kind": "language",
       "website": null,
       "iscaUrl": "https://isca-speech.org/Indian-Language-Speech-Processing-SIG-ILSP",
-      "description": "ISCA language SIG focused on speech and audio processing for Indian languages; it conducts periodic topical meetings in India with local and international experts and is historically the body behind the annual Winter School on Speech and Audio Processing (WiSSAP), running since 2006.",
+      "description": "ISCA language SIG focused on speech and audio processing for Indian languages; it conducts periodic topical meetings in India with local and international experts and is historically the body behind the annual Winter School on Speech and Audio Processing (WiSSAP), running since 2006. ISCA lists a legacy website at ravi.iiit.ac.in; it was unavailable during the 1 Nov 2026 check (DNS resolution failed). Use the ISCA profile for the official SIG listing.",
       "activities": [
         {
           "name": "WiSSAP — Winter School on Speech and Audio Processing",
@@ -1759,7 +1814,8 @@
           "title": "GIAN course: Modelling linguistic diversity and prosodic typology with machine learning (IIT Guwahati, 20–24 Jan 2025) — YouTube playlist",
           "url": "https://www.youtube.com/playlist?list=PL_Y7CYX2FIdyo0OqvvR28zgUm1DytwpIt",
           "kind": "youtube-playlist",
-          "what": "Five day-long recordings (Day 1–Day 5) on the CET IITG channel; listed as a 'Video Lecture Link' in SIG-ILSP's 2025 activity report to ISCA. Title, channel and video count verified on 3 Oct 2026. Hosted by an institute channel, not a SIG channel."
+          "what": "Five recordings labelled Day 1–Day 5 on the CET IITG channel. They are not all day-long: Day 5 is 2:17:25. The playlist is linked as a video lecture resource in the SIG’s 2025 report to ISCA; the channel belongs to the host institute.",
+          "reviewed": "2026-11-01"
         }
       ],
       "hasRec": true,
@@ -1772,7 +1828,7 @@
       "kind": "language",
       "website": null,
       "iscaUrl": "https://isca-speech.org/Russian-Speech-Analysis-SIGRU",
-      "description": "Based at the Phonetics Department of St. Petersburg State University, SIGRU promotes research on Russian speech analysis, particularly formal representations of the Russian sound system to enable automatic processing of large speech corpora and phonetic/linguistic interpretation of speech events.",
+      "description": "Based at the Phonetics Department of St. Petersburg State University, SIGRU promotes research on Russian speech analysis, particularly formal representations of the Russian sound system to enable automatic processing of large speech corpora and phonetic/linguistic interpretation of speech events. ISCA lists a legacy website at forma.spbu.ru; it was unavailable during the 1 Nov 2026 check (HTTP 410 Gone). Use the ISCA profile for the official SIG listing.",
       "activities": [
         {
           "name": "AR3 — «Анализ разговорной русской речи» (Analysis of Russian Conversational Speech) interdisciplinary seminar",
@@ -1785,8 +1841,9 @@
           "name": "Phonetics section of the annual International Philological Conference, St. Petersburg State University (ISCA-supported in 2008; listed in SIGRU's 2025 report to ISCA)",
           "type": "conference",
           "cadence": "annual (March)",
-          "last": "LIII conference, 25–31 Mar 2025, St. Petersburg & online (phonetics section listed in SIGRU's 2025 report); the LIV conference was held 24–30 Mar 2026; earlier ISCA-supported edition: XXXVII, 11–15 Mar 2008",
-          "url": "https://conference-spbu.ru/en/conference/55/"
+          "last": "The LV International Philological Conference is announced for 23–29 Mar 2027 at St. Petersburg State University. Earlier editions: LIII, 25–31 Mar 2025, and LIV, 24–30 Mar 2026.",
+          "url": "https://conference-spbu.ru/en/conference/57/",
+          "reviewed": "2026-11-01"
         },
         {
           "name": "Printed/PDF proceedings volumes of the AR3 seminars (e.g. AR3-2023 'Труды десятого междисциплинарного семинара', Skifia-print, St. Petersburg)",
@@ -1806,8 +1863,9 @@
           "name": "SPbU master's programme on speech science, speech technologies and AI, plus student-research outlets (Phonological lyceum yearbook; phonetics section of the Open Conference for Philology Students)",
           "type": "other",
           "cadence": "ongoing / annual",
-          "last": "Listed in SIGRU's 2025 report to ISCA: second cohort of 10 master's graduates in 2025; XXVIII Open Conference for Philology Students, St. Petersburg & online, 14–19 Apr 2025",
-          "url": "https://conference-spbu.ru/en/conference/56/"
+          "last": "SIGRU’s 2025 report lists a second cohort of 10 master’s graduates. The XXIX Open Conference for Philology Students was scheduled for 20–25 Apr 2026 in mixed format, per its official event page.",
+          "url": "https://conference-spbu.ru/en/conference/58/",
+          "reviewed": "2026-11-01"
         }
       ],
       "series": [],

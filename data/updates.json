@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-11-01",
+    "text": "Corrected seminar and recording descriptions against original sources; added SynSIG recordings and the SPSC Pierre Fernandez recording; clarified uncertain SPSC and IWSLT dates, restored ISCA’s SLPAT website link, corrected the VoxSRC report count, and refreshed registration, archive and event details across the directory following a reader report."
+  },
+  {
+    "date": "2026-11-01",
     "text": "Connected the Fancy and Classic editions, expanded search across all directory pages, clarified the daily collection and planned SIG representative review, checked the current group count against ISCA, and removed SCOOT links. Simplified the record interface and made event and series markers explicit."
   },
   {
