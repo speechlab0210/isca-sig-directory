@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-11-01",
+    "text": "Added a searchable index of individual talks, with dated recordings first and series collections retained. Simplified maintenance and source-access explanations across both editions."
+  },
+  {
+    "date": "2026-11-01",
     "text": "Corrected seminar and recording descriptions against original sources; added SynSIG recordings and the SPSC Pierre Fernandez recording; clarified uncertain SPSC and IWSLT dates, restored ISCA’s SLPAT website link, corrected the VoxSRC report count, and refreshed registration, archive and event details across the directory following a reader report."
   },
   {

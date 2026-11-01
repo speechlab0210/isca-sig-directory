@@ -440,47 +440,983 @@
   ],
   "notes_title": "Research notes",
   "notes_head": "Things worth knowing",
-  "notes": [
-    {
-      "warn": true,
-      "text": "The historical synsig.org domain is not used as a SynSIG source or link. The current SynSIG pages are hosted by ISCA at isca-speech.org."
-    },
-    {
-      "text": "The ISCA Video Archive page lists recordings up to Interspeech 2022 (still the case on 3 October 2026). Later recordings exist on individual conference sites; for example, Interspeech 2025 keeps its keynote and ceremony livestreams on its own Recordings page."
-    },
-    {
-      "text": "SynSIG seminar recordings exist on its official YouTube channel even though the Events page still has an empty programme section. Recording availability and future scheduling are separate checks."
-    },
-    {
-      "text": "4 of 20 SIGs have no recording links in this directory (AVISA, SIG-CHILD, SIG-IL, SIGRU); this reflects what was located, not what exists. AVISA’s AVSP 2026 was scheduled for 2 October 2026 in Sydney; the workshop site did not mention recordings as of 3 October 2026."
-    },
-    {
-      "text": "Former SIGs SALTMIL and SLIM are listed as historical (“Old SIGs”) on the official page and are not counted here."
-    },
-    {
-      "text": "Some SIG recordings are hosted on personal or host-institution channels rather than SIG-owned ones (SIGML seminars on an officer’s personal channel; SSW11 on the channel of HTE, the Hungarian host association; WiSSAP 2023 on an IIT Kanpur lab channel), so their availability depends on those channel owners."
-    }
-  ],
+  "notes": [],
   "method": "The SIG part was compiled 31 August 2026 from the official ISCA SIG list, each SIG's own website, and targeted searches. Most video links were fetched directly; links blocked by consent walls, bot protection, or broken TLS were checked through first-party index pages, direct video metadata, or YouTube oEmbed and are described with their verification limits. A second, independent pass re-checked every link and actively searched for recordings the first pass might have missed; one dead video link was removed.",
-  "disclosure": "Maintained by Xiaojin, an AI agent, using public sources and corrections from the speech community. This is not an official ISCA service; consult the original sources for authoritative information.",
+  "disclosure": "Maintained by Xiaojin, an AI agent, using public sources and corrections from the speech community. This is not an official ISCA service yet; consult the original sources for authoritative information.",
   "notesReviewed": "2026-10-03",
   "maintenance": {
     "overview": "The Fancy and Classic editions present the same maintained dataset. The daily collection follows the official ISCA roster, each SIG website or ISCA profile, and the activity, seminar and recording pages linked in its profile.",
     "steps": [
-      "AI collects the listed public source pages every day and compares changes with the last reviewed copy. Video platforms and pages requiring a login are not collected automatically.",
-      "Changed dates, activities and recordings are checked against first-party sources before publication. A retrieval timestamp is separate from a content review date.",
-      "A rotating search covers four SIGs per daily round, looking for newly announced workshops, seminars and recordings. All twenty groups are covered in a five-round cycle.",
-      "If a source cannot be reached, its previous information is retained and the failed check is recorded. A past event date is not proof that the event took place.",
-      "Requests that require a decision or conflict with sources are referred to the human supervisor. Published changes appear in the update log."
+      "Every day, the AI checks the listed source pages for all 20 SIGs and compares them with the last reviewed copy. Video platforms and pages that require a login are checked separately.",
+      "Before changing a date, activity or recording link, the AI reads the organizer’s own page to confirm it. “Page read” means the page was accessible on that date; “Content reviewed” means its information was checked.",
+      "The AI also searches for resources beyond the pages already listed. This extra search covers four SIGs per day and reaches all 20 within five daily runs. It is separate from the daily checks of all listed source pages.",
+      "When a source page is unavailable, its existing entry stays visible and the access problem is recorded. An event is not labelled as having taken place merely because its scheduled date has passed.",
+      "Questions that need a human decision or have conflicting sources go to the human supervisor. Published changes are listed below."
     ],
     "representativeReview": "Planned next step: invite representatives of each SIG to check its profile and suggest corrections. This review programme has not started; no SIG is labelled representative-confirmed without an explicit review.",
-    "contact": "Questions and corrections can be emailed directly to Xiaojin, the AI maintainer. Incoming mail is handled as it arrives when the local service is online, with three scheduled checks each day as a fallback. Include the SIG, the proposed correction and an official source. Private messages and sender details are not published.",
+    "contact": "Write to the AI agent maintaining this website with a question or correction. Name the SIG, describe what should change, and add a link to the organizer’s page if you have one. For example: “The SLaTE talk has a new date; here is the updated announcement.” Mail is handled as it arrives while the service is online, with scheduled checks as a fallback. Your message and contact details are kept private.",
     "roster": {
       "checked": "2026-11-01",
       "topic": 14,
       "language": 6,
       "url": "https://isca-speech.org/Special-Interest-Groups",
-      "note": "The directory matches the 14 Topic SIGs and 6 Language SIGs on the official list checked on 1 November 2026. SALTMIL and SLIM appear under Old SIGs and are not counted as current groups."
+      "note": "The directory matches the 14 Topic SIGs and 6 Language SIGs on the official list checked on 1 November 2026."
     }
-  }
+  },
+  "talks": [
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Guangzhi Sun and Xuenan Xu — safety and privacy in audio LLMs; holistic speech anti-spoofing (SPSC webinar, 20 Aug 2026)",
+      "url": "https://www.youtube.com/watch?v=P0bCStL4shI",
+      "source": "https://www.youtube.com/watch?v=P0bCStL4shI",
+      "date": "2026-08-20",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Hua Shen — Towards Human-Centered Alignment in Speech Language Models (SPSC webinar 2026-01-23)",
+      "url": "https://www.youtube.com/watch?v=cC_JuaBI1bU",
+      "source": "https://www.youtube.com/watch?v=cC_JuaBI1bU",
+      "date": "2026-01-23",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Ensino e aprendizagem de prosódia em L2: Gestos podem dar uma mãozinha? | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=LrFCYEFLZzQ",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2025-12-10",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Example lecture: Cristel Portes, intonational form-meaning in French (Nov 2025)",
+      "url": "https://www.youtube.com/watch?v=iLhxbYfoLt4",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2025-11-19",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Segmental Pronunciation Training with Consistent Articulatory Representations",
+      "url": "https://www.youtube.com/watch?v=o3ljydQnk9E",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Charles McGhee University of Cambridge",
+      "date": "2025-11-14",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Adapting Single-Speaker ASR to Handle Conversations",
+      "url": "https://www.youtube.com/watch?v=axcXO0paYcg",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Alexander Polok Brno University of Technology",
+      "date": "2025-10-17",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "From Challenge to Solution: Speak & Improve Challenge 2025\n        and Advances in End-to-End Spoken Grammatical Error Correction",
+      "url": "https://www.youtube.com/watch?v=mgpJwrTeFW8",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Mengjie Qian University of Cambridge",
+      "date": "2025-10-10",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Autism and (what it can teach us about) prosody | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=vAMy_Y4Fh0Q",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2025-09-10",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Unsupervised Array Speech Processing with Diffusion as\n        a Foundational Prior",
+      "url": "https://www.youtube.com/watch?v=xmBsMw7DT5Q",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Zhongweiyang Xu University of Illinois Urbana-Champaign",
+      "date": "2025-09-05",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Breaking Down Barriers: Advancing Interdisciplinary Speech Applications in Early Children’s Development",
+      "url": "https://www.youtube.com/watch?v=U-Xzfb3FN4Q",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Jialu Li University of Arizona",
+      "date": "2025-08-08",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Language-Universal Speech Technology from Unpaired Data",
+      "url": "https://www.youtube.com/watch?v=A-ZAZoVwo3A",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Liming Wang Massachusetts Institute of Technology",
+      "date": "2025-07-25",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Perception-based phonology is about time | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=BwEYuBAhnvo",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2025-06-11",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Early perception of prosody in atypical language acquisition | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=4VUCG299XpM",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2025-04-24",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Controlling and Probing Generative End-to-end Models | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=p7PI5CRkpWI",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2024-11-27",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "On the intermittency of speech and the lack of compelling evidence | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=nB4fcnTNBC4",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2024-10-23",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Syntagmatic prominence relations in prosodic focus marking | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=YUE9pRbq9w0",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2024-09-24",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Predictive Modelling of Turn-taking in Spoken Conversation | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=0RuJVUaV9QQ",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2024-05-15",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "The speech synthesis phoneticians need is both realistic and controllable | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=uRnR9dI_EAo",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2024-04-17",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "How to handle variability in the study of intonation | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=_GNY3VEeC78",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2023-12-14",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Segmental articulations and prosody | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=iHz1JC504eg",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2023-11-23",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Example lecture: Yi Xu, 'Tackling prosodic phenomena at their roots' (Oct 2023)",
+      "url": "https://www.youtube.com/watch?v=ENteqgM8NEM",
+      "source": "https://sprosig.org/lectures.html",
+      "date": "2023-10-25",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Recent Works on Speech Translation at Naver Labs Europe",
+      "url": "https://www.youtube.com/watch?v=SyJkrdF2Ed4",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2023-05-03",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Challenges and Approaches in Distant Speech Recognition",
+      "url": "https://www.youtube.com/watch?v=gmPe9dvpZZc",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2023-01-23",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Learning Shared Representations for Translation in Low-Resource Conditions",
+      "url": "https://www.youtube.com/watch?v=lAriOXPju2s",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-12-21",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Controllable and Explainable End-to-End Speech Translation",
+      "url": "https://www.youtube.com/watch?v=CMMv19ch9P0",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-11-18",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Speech Translation: Effectiveness, Efficiency, and Data",
+      "url": "https://www.youtube.com/watch?v=LodPoXYsAtQ",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-10-20",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "State of the art and current challenges of MT for sign to spoken languages",
+      "url": "https://www.youtube.com/watch?v=W20MfKWGMiY",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-09-14",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Towards Streaming Speech Translation",
+      "url": "https://www.youtube.com/watch?v=91btxw8ewcI",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-06-14",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Isochrony for Automatic Dubbing",
+      "url": "https://www.youtube.com/watch?v=PaxRvWzBlOI",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-05-05",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Towards Augmented Speech Translation: Joint Speech Translation and Named Entity Recognition",
+      "url": "https://www.youtube.com/watch?v=g2fIcjVWgXY",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-04-06",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "Simultaneous Speech-to-Speech Translation with Transformer-based Incremental ASR, MT, and TTS",
+      "url": "https://www.youtube.com/watch?v=PH6Zlki-1pg",
+      "source": "https://iwslt.org/lectures/",
+      "date": "2022-03-01",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Segmental Contrastive Predictive Coding for Unsupervised Acoustic Segmentation",
+      "url": "https://www.youtube.com/watch?v=Ql0QmPFxAhI",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Saurabhchand Bhati Johns Hopkins University",
+      "date": "2021-12-13",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Generative Spoken Language Modeling from Raw Audio",
+      "url": "https://www.youtube.com/watch?v=gMOuP0L7n-k",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Kushal Lakhotia Outreach",
+      "date": "2021-11-16",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Fine-Grained Interpretation of End-to-End Speech Models",
+      "url": "https://www.youtube.com/watch?v=-lEOky49nW4",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Shammur Absar Chowdhury Qatar Computing Research Institute",
+      "date": "2021-11-02",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Unsupervised Speech Disentanglement for Speech Style Transfer",
+      "url": "https://www.youtube.com/watch?v=1vfmdz7LI54i",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Kaizhi Qian MIT-IBM Watson AI Lab",
+      "date": "2021-10-19",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Adversarially Robust Speech Recognition",
+      "url": "https://www.youtube.com/watch?v=mD7dxsynP2A",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Lea Schönherr Ruhr-Universität Bochum",
+      "date": "2021-08-11",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "From Supervised to Self-Supervised: Phoneme Boundary Detection\n        using Novel Neural Architectures",
+      "url": "https://www.youtube.com/watch?v=gk6thCWl_eE",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Felix Kreuk Bar-Ilan University",
+      "date": "2021-07-28",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Improving ASR for Small Data with Self-Training and Pre-Training",
+      "url": "https://www.youtube.com/watch?v=auckRROnkN8",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Weiran Wang Google",
+      "date": "2021-07-14",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Controlling Prosody with Insufficient Context",
+      "url": "https://www.youtube.com/watch?v=BjHWeiba1ss",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Zach Hodari The University of Edinburgh",
+      "date": "2021-06-30",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Audio Spectrogram Transformer for Audio Scene Analysis",
+      "url": "https://www.youtube.com/watch?v=CSRDbqGY0Vw",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Yuan Gong Massachusetts Institute of Technology",
+      "date": "2021-06-16",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Self-Supervised Representation Learning in Speech Processing",
+      "url": "https://www.youtube.com/watch?v=HwHNnRGlBlY",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Benjamin Milde Universität Hamburg",
+      "date": "2021-06-02",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Integrating Prosody in Spoken Language Understanding",
+      "url": "https://www.youtube.com/watch?v=Y-BJ2rjjl2w",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Trang Tran University of Southern California",
+      "date": "2021-05-19",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Diarization of Overlapping Speech: Methods and Ensembles",
+      "url": "https://www.youtube.com/watch?v=SHWNqU9g_hU",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Desh Raj Johns Hopkins University",
+      "date": "2021-05-05",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Speaker Adaptation and Fairness",
+      "url": "https://www.youtube.com/watch?v=ieI02OL5G8Q",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Leda Sarı University of Illinois Urbana-Champaign",
+      "date": "2021-04-21",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Subspace Models for Acoustic Unit Discovery",
+      "url": "https://www.youtube.com/watch?v=-qhOetkEFao",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Lucas Ondel Laboratoire Interdisciplinaire des Sciences du Numérique",
+      "date": "2021-04-07",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Abeer Alwan (UCLA) - To Use or not to Use Spoken Language Systems in Early Literacy Education? (SLaTE webinar, 3 Mar 2025)",
+      "url": "https://www.youtube.com/watch?v=RP0JN0JRk-s",
+      "source": "https://www.youtube.com/watch?v=RP0JN0JRk-s",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Amir Ivry — Toward Trustworthy Voice Agents: Speech-Native Evaluation, Safety, and Security (SPSC webinar 2026-05-29)",
+      "url": "https://www.youtube.com/watch?v=4XBW6XdmCoo",
+      "source": "https://youtu.be/4XBW6XdmCoo",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "An endangered language perspective on ST in education: reflections on the ABAIR Irish experience",
+      "url": "https://www.youtube.com/watch?v=VdwQLBeZA7A",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Approaches to advancing speech technology for educational applications",
+      "url": "https://www.youtube.com/watch?v=7_pQ0aQwg-w",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGML",
+      "series": "SIGML Virtual Seminar Series",
+      "title": "Attention-based Unsupervised Word Segmentation",
+      "url": "https://www.youtube.com/watch?v=XkyvT6j3shk",
+      "source": "https://homepages.inf.ed.ac.uk/htang2/sigml/seminar/index.html",
+      "speaker": "Marcely Zanon Boito Avignon Université",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models by Kai Li",
+      "url": "https://www.youtube.com/watch?v=OPabluQfIfc",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-RoSP",
+      "series": "Talks and tutorials",
+      "title": "CHiME 2020 Keynote - Leibny Paola Garcia Perera (sample individual talk)",
+      "url": "https://www.youtube.com/watch?v=JttWgfWo6lw",
+      "source": "https://www.youtube.com/watch?v=JttWgfWo6lw",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGUL",
+      "series": "Talks and tutorials",
+      "title": "Conférence internationale sur les technologies linguistiques pour tous (UNESCO French channel)",
+      "url": "https://www.youtube.com/watch?v=UlWsnI7X67I",
+      "source": "https://www.youtube.com/watch?v=UlWsnI7X67I",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Decifrando os Códigos Comunicativos da Voz e da Prosódia da Fala | Palestras sobre Prosódia da Fala",
+      "url": "https://www.youtube.com/watch?v=7SlnbpIwy9w",
+      "source": "https://www.youtube.com/playlist?list=PL28Xomry0aodTqMHVQuNDXAwBmmwXx8zT",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-ILSP",
+      "series": "Talks and tutorials",
+      "title": "Dr. Vipul Arora — Day 1 Session 1, WiSSAP 2023",
+      "url": "https://www.youtube.com/watch?v=HPXQMC2XmdI",
+      "source": "https://www.youtube.com/watch?v=HPXQMC2XmdI",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Ethical Development of Speech-Centered Affective Computing for Health : Yara El-Tawil",
+      "url": "https://www.youtube.com/watch?v=0GFBmIQQI30",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Evidência Acústica para Representação Fonológica e Mudança Sonora do Sandhi Tonal | Prosódia da Fala",
+      "url": "https://www.youtube.com/watch?v=dKdlgon0hVI",
+      "source": "https://www.youtube.com/playlist?list=PL28Xomry0aodTqMHVQuNDXAwBmmwXx8zT",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Generalization and Robustness of Audio DeepFake Detection by Dr. Piotr Kawa",
+      "url": "https://www.youtube.com/watch?v=g_43sCCTlCk",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Generalizing Audio Deepfake Detection via Style-Linguistics Alignment Pretraining : Yi Zhu",
+      "url": "https://www.youtube.com/watch?v=aZ6Tn1qal7U",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Keynote Speech 1 — Dr Jinyu Li, Microsoft: Advancing end-to-end automatic speech recognition and beyond",
+      "url": "https://www.youtube.com/watch?v=Yz5I990Md5o",
+      "source": "https://youtu.be/Yz5I990Md5o",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Keynote Speech 2 — Prof Eng Siong Chng, NTU Singapore: code-switch Singapore English+Mandarin LVCSR",
+      "url": "https://www.youtube.com/watch?v=xZQTXXIzCZo",
+      "source": "https://youtu.be/xZQTXXIzCZo",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Keynote Speech 3 — Kate Knill, University of Cambridge: Automated Assessment and Feedback / Spoken Grammatical Error Correction",
+      "url": "https://www.youtube.com/watch?v=ukCCcs99WKI",
+      "source": "https://youtu.be/ukCCcs99WKI",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Tutorial 1 — Exploring the Frontier of Large-Scale Semi-Supervised Learning for Speech Processing (Google)",
+      "url": "https://www.youtube.com/watch?v=iZmMHLM7gkQ",
+      "source": "https://youtu.be/iZmMHLM7gkQ",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Tutorial 2 — TorchAudio Tutorial",
+      "url": "https://www.youtube.com/watch?v=oz_OcJq2nOc",
+      "source": "https://youtu.be/oz_OcJq2nOc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Tutorial 3 — Towards Solving Cocktail Party Problem with Artificial Intelligence",
+      "url": "https://www.youtube.com/watch?v=DVA7QATrlYA",
+      "source": "https://youtu.be/DVA7QATrlYA",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Tutorial 4 — Quantum Machine Learning for Speech Processing",
+      "url": "https://www.youtube.com/watch?v=iimei5hckLI",
+      "source": "https://youtu.be/iimei5hckLI",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-CSLP",
+      "series": "Talks and tutorials",
+      "title": "ISCSLP 2022 Tutorial 5 — Recent Advances on Automatic Dialogue Evaluation",
+      "url": "https://www.youtube.com/watch?v=_p6yQeJKPAA",
+      "source": "https://youtu.be/_p6yQeJKPAA",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "IWSLT 2016 - Session 2 (Microsoft Research channel)",
+      "url": "https://www.youtube.com/watch?v=lsKGeUk2aF8",
+      "source": "https://www.youtube.com/watch?v=lsKGeUk2aF8",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SLT",
+      "series": "SIGSLT Seminars",
+      "title": "IWSLT 2016 - Session 3 (Microsoft Research channel)",
+      "url": "https://www.youtube.com/watch?v=SiQbmMPjez0",
+      "source": "https://www.youtube.com/watch?v=SiQbmMPjez0",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-HIST",
+      "series": "Talks and tutorials",
+      "title": "Kempelen's speaking machine (Saarbruecken replica demonstration)",
+      "url": "https://www.youtube.com/watch?v=k_YUB_S6Gpo",
+      "source": "https://www.youtube.com/watch?v=k_YUB_S6Gpo",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-HIST",
+      "series": "Talks and tutorials",
+      "title": "Klatt's Last Tapes - History of Speech Synthesis (BBC Radio 4)",
+      "url": "https://www.youtube.com/watch?v=097K1uMIPyQ",
+      "source": "https://www.youtube.com/watch?v=097K1uMIPyQ",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AISV",
+      "series": "AISV online courses & OLF",
+      "title": "Le intercettazioni: intelligence e formazione del perito linguista (Radio Radicale)",
+      "url": "https://www.radioradicale.it/scheda/743534/le-intercettazioni-intelligence-e-formazione-del-perito-linguista",
+      "source": "https://www.radioradicale.it/scheda/743534/le-intercettazioni-intelligence-e-formazione-del-perito-linguista",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Learning Second Language Expression with Form-Focused Trialogue-Based CALL system",
+      "url": "https://www.youtube.com/watch?v=UPR1q06A41k",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Leveraging Mixture of Experts for Improved Speech Deepfake Detection: Viola Negroni",
+      "url": "https://www.youtube.com/watch?v=rDZJXTVHXRc",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGUL",
+      "series": "Talks and tutorials",
+      "title": "LT4All 2019 Day 1 afternoon session (UNESCO YouTube channel)",
+      "url": "https://www.youtube.com/watch?v=7ECxgBn3v0k",
+      "source": "https://www.youtube.com/watch?v=7ECxgBn3v0k",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGUL",
+      "series": "Talks and tutorials",
+      "title": "LT4All 2019 Day 2 morning session (UNESCO YouTube channel)",
+      "url": "https://www.youtube.com/watch?v=kSUutulubkM",
+      "source": "https://www.youtube.com/watch?v=kSUutulubkM",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGUL",
+      "series": "Talks and tutorials",
+      "title": "LT4All 2019 Day 3 morning session (UNESCO YouTube channel)",
+      "url": "https://www.youtube.com/watch?v=XTK8FJOCuOQ",
+      "source": "https://www.youtube.com/watch?v=XTK8FJOCuOQ",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Measurement of listening behaviors of learners & raters & its application 4 L2 aural/oral training",
+      "url": "https://www.youtube.com/watch?v=cyCc7gML0o4",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Overview of Privacy in Speech Technology : Tom Bäckström",
+      "url": "https://www.youtube.com/watch?v=00ySuegC0ZI",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Pierre Fernandez — Watermarking AI-Generated Content",
+      "url": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
+      "source": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGUL",
+      "series": "Talks and tutorials",
+      "title": "Prof. Gloria Emezue (Lanfrica) with Aimee Ansari at LT4All 2025 (CLEAR Global channel)",
+      "url": "https://www.youtube.com/watch?v=GZEukvQnu8U",
+      "source": "https://www.youtube.com/watch?v=GZEukvQnu8U",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-ILSP",
+      "series": "Talks and tutorials",
+      "title": "Prof. Zhiyao Duan — Day 2 Session 2, WiSSAP 2023",
+      "url": "https://www.youtube.com/watch?v=K-TftoGpVfE",
+      "source": "https://www.youtube.com/watch?v=K-TftoGpVfE",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AFCP",
+      "series": "Présente Tes Recherches",
+      "title": "PTR #6 Intelligences artificielles neuronales appliquées à la compréhension de la parole",
+      "url": "https://www.youtube.com/watch?v=OOKrjYkdZyo",
+      "source": "https://www.youtube.com/@jceparole/videos",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AFCP",
+      "series": "Présente Tes Recherches",
+      "title": "PTR #7 — Archivage audiovisuel à grande échelle grâce à une diarisation robuste",
+      "url": "https://www.youtube.com/watch?v=OJbTed99eb0",
+      "source": "https://www.youtube.com/watch?v=OJbTed99eb0",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AFCP",
+      "series": "Présente Tes Recherches",
+      "title": "PTR #8 Détection automatique d'interruption",
+      "url": "https://www.youtube.com/watch?v=HePhRD0Wqbk",
+      "source": "https://www.youtube.com/@jceparole/videos",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AFCP",
+      "series": "Présente Tes Recherches",
+      "title": "PTR #9 Traduction automatique de la parole vers des pictogrammes",
+      "url": "https://www.youtube.com/watch?v=SCVzv_Mc4wg",
+      "source": "https://www.youtube.com/@jceparole/videos",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "QASP: Towards Homomorphic Encryption for audio by Dr. Rachid RIAD",
+      "url": "https://www.youtube.com/watch?v=3iWmRrM7pq8",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SIGDIAL 2020 Live Stream - Day 1, Welcome, Keynote + Q/A",
+      "url": "https://www.youtube.com/watch?v=5ML-7obSmOU",
+      "source": "https://www.youtube.com/watch?v=5ML-7obSmOU",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SIGDIAL 2020 Live Stream - Day 3 (Sessions 12-13 + Business Meeting)",
+      "url": "https://www.youtube.com/watch?v=M7isw0Xx3u0",
+      "source": "https://youtu.be/M7isw0Xx3u0",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SigDial 2022 Keynote 1: Yun-Nung (Vivian) Chen — Robustness, Scalability, and Practicality of Conversational AI",
+      "url": "https://www.youtube.com/watch?v=Q7APmuHaPk0",
+      "source": "https://www.youtube.com/watch?v=Q7APmuHaPk0",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SigDial 2022 Keynote 2: Angeliki Lazaridou (LLM communication)",
+      "url": "https://www.youtube.com/watch?v=6kWrh7fM6x0",
+      "source": "https://www.youtube.com/watch?v=6kWrh7fM6x0",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SigDial 2022 Keynote 3: Giuseppe Carenini — Unlimited discourse structures in the era of distant supervision",
+      "url": "https://www.youtube.com/watch?v=U0G2Ig3ww9o",
+      "source": "https://www.youtube.com/watch?v=U0G2Ig3ww9o",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SIGDIAL 2024 Keynote 1: Koji Inoue",
+      "url": "https://www.youtube.com/watch?v=2WYko6ZKWZg",
+      "source": "https://www.youtube.com/watch?v=2WYko6ZKWZg",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIGdial",
+      "series": "Talks and tutorials",
+      "title": "SIGDIAL 2024 Keynote 2: Zhou Yu (AI agents)",
+      "url": "https://www.youtube.com/watch?v=JewYs-09AHU",
+      "source": "https://www.youtube.com/watch?v=JewYs-09AHU",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SynSIG",
+      "series": "SynSIG Online Seminars",
+      "title": "SPCC 2016 - Simon King - Text processing for speech synthesis",
+      "url": "https://www.youtube.com/watch?v=6lMs1VcUrYc",
+      "source": "https://www.youtube.com/watch?v=6lMs1VcUrYc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SProSIG",
+      "series": "Speech Prosody Lectures",
+      "title": "Speech prosody and social meaning | Speech Prosody Lectures",
+      "url": "https://www.youtube.com/watch?v=zqgNALrF6MI",
+      "source": "https://www.youtube.com/playlist?list=PL28Xomry0aodTqMHVQuNDXAwBmmwXx8zT",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SynSIG",
+      "series": "SynSIG Online Seminars",
+      "title": "SSW11 Day 2 session: Emotion, Singing and Voice Conversion (chair: Simon King)",
+      "url": "https://www.youtube.com/watch?v=8ARUsFIlOTk",
+      "source": "https://www.youtube.com/watch?v=8ARUsFIlOTk",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SynSIG",
+      "series": "SynSIG Online Seminars",
+      "title": "SSW11 Keynote 1 - Lior Wolf (chair: Erica Cooper)",
+      "url": "https://www.youtube.com/watch?v=CyYkDSDb6Tc",
+      "source": "https://www.youtube.com/watch?v=CyYkDSDb6Tc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SynSIG",
+      "series": "SynSIG Online Seminars",
+      "title": "SynSIG seminars — S1E01 — Shivam Mehta",
+      "url": "https://www.youtube.com/watch?v=PxanvFrwiRc",
+      "source": "https://www.youtube.com/watch?v=PxanvFrwiRc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SynSIG",
+      "series": "SynSIG Online Seminars",
+      "title": "SynSIG seminars — S1E02 — Nikita Torgashov",
+      "url": "https://www.youtube.com/watch?v=M8n9I9eGyTM",
+      "source": "https://www.youtube.com/watch?v=M8n9I9eGyTM",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SynSIG",
+      "series": "SynSIG Online Seminars",
+      "title": "SynSIG seminars — S1E03 — Erica Cooper",
+      "url": "https://www.youtube.com/watch?v=dayt4XhVgdc",
+      "source": "https://www.youtube.com/watch?v=dayt4XhVgdc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AISV",
+      "series": "AISV online courses & OLF",
+      "title": "Tavola Rotonda del XX Convegno AISV, Torino 1-3/2/2024",
+      "url": "https://www.youtube.com/watch?v=3-gWkKsJvI0",
+      "source": "https://www.youtube.com/watch?v=3-gWkKsJvI0",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Towards End to End Spoken Grammatical Error Correction",
+      "url": "https://www.youtube.com/watch?v=rSY6VfsezBM",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Towards L1-aware Multilingual Mispronunciation Detection Modeling",
+      "url": "https://www.youtube.com/watch?v=Az_DZ73Gq5s",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Traceability and Copyright Protection in Neural Speech Process: Junzuo Zhou",
+      "url": "https://www.youtube.com/watch?v=TYUGiwggX_w",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AISV",
+      "series": "AISV online courses & OLF",
+      "title": "UN ANNO DI 'VADEMECUM PER IL TRATTAMENTO DELLE FONTI ORALI' (ICCD channel)",
+      "url": "https://www.youtube.com/watch?v=owLlvPuJpPQ",
+      "source": "https://www.youtube.com/watch?v=owLlvPuJpPQ",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-SPSC",
+      "series": "SPSC Webinar & Café",
+      "title": "Unifying Speech Editing Detection and Content Localization via Prior-Enhanced Audio LLMs",
+      "url": "https://www.youtube.com/watch?v=H4wWjrSmquQ",
+      "source": "https://www.youtube.com/@SPSCWebinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SLaTE",
+      "series": "SLaTE Webinar Series",
+      "title": "Using social robots for language learning: a scoping review",
+      "url": "https://www.youtube.com/watch?v=syn-i5Ps-GU",
+      "source": "https://sites.google.com/view/sigslate/webinar",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AISV",
+      "series": "AISV online courses & OLF",
+      "title": "V Giornata di Studi sulle Fonti Orali — Le molte voci delle voci (28 Oct 2024)",
+      "url": "https://www.youtube.com/watch?v=h7tTGu00ImE",
+      "source": "https://www.youtube.com/watch?v=h7tTGu00ImE",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "AISV",
+      "series": "AISV online courses & OLF",
+      "title": "VI Giornata di studi sulle fonti orali — Custodire le voci, Part 1 (27 Oct 2025)",
+      "url": "https://www.youtube.com/watch?v=38gT7EhoHhc",
+      "source": "https://www.youtube.com/watch?v=38gT7EhoHhc",
+      "indexed": "2026-11-01"
+    },
+    {
+      "sig": "SIG-HIST",
+      "series": "Talks and tutorials",
+      "title": "von Kempelen Speaking Machine (York replica demonstration)",
+      "url": "https://www.youtube.com/watch?v=Lw1MsSHHlQs",
+      "source": "https://www.youtube.com/watch?v=Lw1MsSHHlQs",
+      "indexed": "2026-11-01"
+    }
+  ]
 }
