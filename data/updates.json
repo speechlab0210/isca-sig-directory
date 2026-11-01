@@ -1,6 +1,10 @@
 [
   {
     "date": "2026-11-01",
+    "text": "Shortened the Fancy edition address to the site root, retaining existing record-page links and the shared directory data."
+  },
+  {
+    "date": "2026-11-01",
     "text": "Added a searchable index of individual talks, with dated recordings first and series collections retained. Simplified maintenance and source-access explanations across both editions."
   },
   {
