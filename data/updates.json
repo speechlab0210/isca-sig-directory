@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-11-04",
+    "text": "Daily review: updated IberSPEECH 2026 registration to reflect the organizer’s announcement that all places are filled and registration is closed."
+  },
+  {
     "date": "2026-11-02",
     "text": "Removed the duplicate Workshop & conference recordings block from Talks & tutorials in both editions, retaining the individual talk index, series collections and underlying recording records. Clarified that Content reviewed records a source check by Xiaojin, the AI maintainer, rather than a review or approval by ISCA or SIG representatives."
   },

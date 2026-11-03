@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+  "checkedAt": "2026-11-03T23:36:32.909409+00:00",
   "sources": [
     {
       "url": "http://www.slpat.org/",
       "groups": [
         "SLPAT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "gaierror",
       "changed": false
@@ -16,7 +16,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f71a058891ddf6c8d69c304ae4b1cbc59f2bb867cb17f843c6a4889ae29c9327",
@@ -27,7 +27,7 @@
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "7f4cc6eb36727fb2e10b28b5ce66bd7934efa83d607cee583dc404252b33377a",
@@ -38,10 +38,10 @@
       "groups": [
         "SIG-IL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "ede3c9c56b3c46c82cf2ec403d4610fdb8d6e1c38217ad9747c9288e0b8e8587",
+      "sha256": "68f6f137da03a9d82327331de7ed165158fa3bfd8e31d3974978ba5fa421cacb",
       "changed": true
     },
     {
@@ -49,10 +49,10 @@
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "46500a8aa081dc9c22a44b6ea2ca52060a82c613cf38cfe754ec10a4f7bc4784",
+      "sha256": "38a4b2e6156ba1026d761b1034d41b0389d72ad10db6536becc172cceba79df1",
       "changed": true
     },
     {
@@ -60,10 +60,10 @@
       "groups": [
         "SLPAT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "40c25295a6a966f74682978e684f90903efc1313a66aef81ba5290d6a4625a27",
+      "sha256": "3ac9c9d03023aae7454be6764dac31f7d0675bce6c3ed0279babb0c2059c874f",
       "changed": true
     },
     {
@@ -71,7 +71,7 @@
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b8ae4b069246145fc6d1eb6e0fbb548241a2e14339044e1cc39c894e2a8d7b92",
@@ -82,7 +82,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "85619d2ef0d631bbf2670ba52fbeaf7d1acb5b27634851f3af3a67db46dfc6d0",
@@ -93,7 +93,7 @@
       "groups": [
         "SLPAT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "a60a8f4b74647203e1ed185d83a3b187682320df7f20abf812521a49e05b042f",
@@ -104,7 +104,7 @@
       "groups": [
         "SIGRU"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "628236b60b9a653fd4bc0e0a944b921e28cad27a8b71e09cbb0902abef206111",
@@ -115,7 +115,7 @@
       "groups": [
         "SIGRU"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6c28b3c4f221029cadf8ac67f2b1f39b2d6aa126143ba3129177acf47b261ae5",
@@ -126,7 +126,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "URLError",
       "changed": false
@@ -136,7 +136,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d3265e9ec6603d148b80bb741979d204c8e753a7920c5dc8b5a51d6e60ec6201",
@@ -147,7 +147,7 @@
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "fcd80a93a40a38369466f21e6e2c0de0e192950df38b7ab8762b4c170e5da73c",
@@ -158,7 +158,7 @@
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d9175faa38b1735d53476963bcb359334a27b49c3886ec7a683da4dfef491280",
@@ -169,7 +169,7 @@
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8ef5d977f548e7f6f90108ae2d02fcddbe037f586118510abe5ce60b9fe71515",
@@ -180,18 +180,18 @@
       "groups": [
         "SIG-IL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "8f2893414ca2eeb007d3893d69eba84a2e822fec1289bca7bc98dc287c217140",
-      "changed": false
+      "sha256": "387c745fac4c378206b3a69cf3f8f4e7a4c5ca70343f4641061bce6c263f9bbc",
+      "changed": true
     },
     {
       "url": "https://iberspeech.tech/2026/albayzin-evaluation-challenge/",
       "groups": [
         "SIG-IL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "e23f13911e36f58a5a5b4910bf186619d4b2adb59732094e6399a0b61eb54615",
@@ -202,7 +202,7 @@
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "50c980d3e4e76f6a30d09e5172a1a32b5320625c28ba37580154ec81a9595aac",
@@ -213,7 +213,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1b8717ec48e636a3ddc1156d89345eea3008e01cbceb8d90d2218acc314576a9",
@@ -224,7 +224,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d3811c919e20bf0994dad9522a602766dedb4bbb1af05e32b8fbde6edd61502b",
@@ -235,7 +235,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "874c746acabab80b940f32e01754ff65f5bf714f8870a1854eb9fe44a904944f",
@@ -246,7 +246,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "e497326fd5eda637ee4c9330805e029d8e00db98ba6ac9aadeabda2f42960983",
@@ -257,7 +257,7 @@
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "414a77b3380249d2ff242404ebd004b1a64041fd65c53dbbc7768a32ce9bf9cc",
@@ -268,7 +268,7 @@
       "groups": [
         "SIG-CHILD"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "21269bdaa33029ef3729ae807347b8d35d43535c2030576b08311262326e61c0",
@@ -279,7 +279,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2c3c73a7fea3e04abaf97c887c65b9fff40d291bd3073764e6cd05b8b06d1f9e",
@@ -290,7 +290,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "7e24bc26cef06d9fdd63e840e1a3d876bcc06a0a2d5157ca7a21e9a1eb0a772b",
@@ -301,7 +301,7 @@
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2315ba20a0ad594b10c0844da6406d884ca41646991c824c2e670995697792dc",
@@ -312,7 +312,7 @@
       "groups": [
         "SIG-IL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "a3baabc9ba034dde7906ca6bf99518c8fc620f85a563cc869a26e26b368eafc7",
@@ -323,7 +323,7 @@
       "groups": [
         "SIG-ILSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "373c45f6ede756c6a5a83607804b01286fe447abb7c1d5303bbb368400653ea7",
@@ -334,7 +334,7 @@
       "groups": [
         "SIGML"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "9823a7f749a73464232f91ed740b0da36206efa7d9ebd6b7aa6570b4f3682a1e",
@@ -345,7 +345,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "11d93a42479e43de00e839af764f62aead48ff37e8279a219b74686f64ca7f37",
@@ -356,7 +356,7 @@
       "groups": [
         "SIGRU"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f044b3642507ea4398fa259bd91c33d83c93e4daba021f35d04c0e9b40179e64",
@@ -367,7 +367,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "c96ecdc738bf9e37933d66a79f9b94e6d4c1980af667189b272582a9c8f8d4e1",
@@ -378,7 +378,7 @@
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2866b794be6b613b06aa7716eb81a2852d611bddf13b82229d57ab2f6c2704e8",
@@ -391,7 +391,7 @@
         "SIG-IL",
         "SIG-ILSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f5f2fb2b6dbd196ad8ed8eec25e97f103b62ebe9c7760556291d7a8c331708c9",
@@ -402,7 +402,7 @@
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "315f0b017b4a92c9e3420221ec2b3805b4d961c6d474d2b3f2d82dff775a2145",
@@ -413,7 +413,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "e22abeebefb137ede0d109c4ee3d97bfaea28bc9c455315f9896cde423b4ab06",
@@ -424,7 +424,7 @@
       "groups": [
         "SLPAT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "ee364a6c278ebf95bb68c951daf0d300b94a1c739ddeb71421aab9bcd72cc302",
@@ -435,7 +435,7 @@
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "55b60139ff4aa5bd853ca34000132a3c6193cef0ce4c246ea41628216344798a",
@@ -446,7 +446,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f45a44c4d17127bbd8f92ccbf0ad7dceb92c7d897565093f494ae469d3f5f2bd",
@@ -457,7 +457,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "9b782312f351074006e86fb328e57db696595c200403085d784fa9111e3267c8",
@@ -468,7 +468,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "30e770f5da766ad66818bf24ca396201231ee99fcc6f3c75063b9f8eecc8f3ad",
@@ -479,7 +479,7 @@
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "85b06f2ce6b006dd1af610fe804374b08c33fe891c5fece9feb366c655099833",
@@ -490,7 +490,7 @@
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "612cdf04dedcb35c2868c7e94600007ba8df3d04cd7b431fa697286e5c222fe2",
@@ -501,7 +501,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "91c97aedb037f52c15ceb1863b44d05310e18c731e294435cbda74fe0d9a1ac5",
@@ -512,7 +512,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "833018dafeac1302ac98ca05e91bae286624f6e1a6b15cbed507660d685aa2ac",
@@ -523,7 +523,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "44d073d3111b790d6c5c15dab20d5da3be03db4f189950e27218962317b94b98",
@@ -534,7 +534,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "28964f3bee10d1a9356227c73db61692aaa2b95b27210572784aeb54651920eb",
@@ -545,7 +545,7 @@
       "groups": [
         "SIGRU"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "ValueError",
       "changed": false
@@ -555,7 +555,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "596db31928631c6993bcb3dbae354d34321ee044ad693c8fb8b60b2d4f3fa4d6",
@@ -566,7 +566,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "24cf4f8d98f4ec654f68720b6d17e6450e7d9d64cbccacfa8257b3373306da10",
@@ -577,7 +577,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "613032d15679ce3a8fd618e9ecc53d4847bb1937b859e001c07de68803f60577",
@@ -588,7 +588,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1758740e679c089cf9a23d83e5771e7309d2fdb593f421f7a7ae5b54e2183e43",
@@ -599,7 +599,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "65fe7c3d99ed137b945bbc37fe0c79dd7f9fe2e90dcdcc443fbc0c003f6d8e19",
@@ -610,7 +610,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6ff59273ea1c73b6d94c0b664a93c6288ffb0bb508e1e80884acbcb59e471c96",
@@ -621,7 +621,7 @@
       "groups": [
         "SIG-SLT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "019fb22d507c2743e2ab73965e9683f4aeabbcf5f009a26c1f64c0a820414413",
@@ -632,7 +632,7 @@
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "93646e0823422f97f6ea4cf31689842fc83da624db843818141b3d653e3d3bbf",
@@ -643,18 +643,18 @@
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "3dd77edd04028e77cb976775872789b38a258d35d60ccf00cf38ab4d17519285",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://list.sigdial.org/register",
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "70981c4803226aad9a47487608aa82b41310268dcd1ccf0d79118ae67ad0835b",
@@ -665,7 +665,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6afeed6d7e78a5eee2368c4edc63f0987a1d605e888bb51d57dde59c8c36bf00",
@@ -676,7 +676,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "33d7d57347bb0a7314537fbecb48511bcd6355fafe9ef60d8b6acfbed43be648",
@@ -687,29 +687,29 @@
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "5c199411ea13f69da0643d4fd60edd2650c7bb338a8fbfb9d26eedb49e148bc3",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2023.html",
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "23eb1016a9cdc6ff530f78b7fa134e584f9eb2582a6e68738025f7e4997782a2",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://nilc-nlp.github.io/ssw-2027/blizzard-challenge.html",
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2b4d686b72a98eb95bd7cadf12f08e554ba672097cc7d13754a2fec0f2d4a204",
@@ -720,7 +720,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "c1c3fe42147aa10068fd094df242fc844ee7860691692f06caf308713aa70fcd",
@@ -731,7 +731,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "6ce3f0ad7088eb9347aadd0ff0ba9c2ea8c8732f67d6c86227bc6393283cf6f4",
@@ -742,7 +742,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f63b67d00783da2a29d47efbfce00a31cf74eb7d9db550b63250f0949eb92451",
@@ -753,7 +753,7 @@
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "5a1acb7f425d06b2c82ae1a1262b61d4a0b4ea9dec4e2fa5a07ed6f909e2d0f7",
@@ -764,7 +764,7 @@
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "57d00c0e28cbbee4c44d18da50db5d0947d666a67a7183a0555c4ae065190ed7",
@@ -775,7 +775,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1a112ed15e1b0f8201ca815f50d9487073ff07d302385abf51c00de214f9c5b1",
@@ -786,7 +786,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "323861f1e6864f52ecf3cafac53badc814cf72512fba416f6495291c37e58c24",
@@ -797,7 +797,7 @@
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f1c47d7d6ed137e892f29f29b5de328a86515cb5f554ca42b215af6d90b1c045",
@@ -808,7 +808,7 @@
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2bcef360743ec46a86641a3324fcbd773de045e444edbf99897961e2b67080cf",
@@ -819,7 +819,7 @@
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "5549f1131dbe82262781d805b2bf8c1a6b08b47729ba6fd54ab5aa429dfef3f8",
@@ -830,7 +830,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "4fae3a9477e7186a75bb3af65b8212ca45848f47967425159fd91186f0054700",
@@ -841,7 +841,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "275673742d3426c1fdd945281a5a11fe1a6adb9443502a9529f24927e1e52992",
@@ -852,7 +852,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "aacd9f79219a1e5a73c578b249f6738bbd60f1dadb1dcc8069f876291a4573a2",
@@ -863,7 +863,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "96219c57524f4c3c06be3a04e0ec222bd102f7742e1ea89b450eb3e99c1c1b17",
@@ -874,7 +874,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "54990eda14a479d036d6d4336bc32813b29f5983de323ba85a46ce568a3377b3",
@@ -885,7 +885,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "02f8f4df17f9f795be42dd6720100439b1da3ea118b0c8634e5ee4ff547fe7f2",
@@ -896,7 +896,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "ed2e8b2569f642cc3bfdc231c4b563bc0870aaa4a2aa531b6e84ae5f3bf854e5",
@@ -907,7 +907,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "e64329108867c7841f8cd959ef2585ebb32700fb13faa20e214676ce84c42bb6",
@@ -918,7 +918,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "4c3e4f003bfc5393163fc81f2f060bb365df2adde8fbcdb74df0aec15d248e26",
@@ -929,7 +929,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "99037100226e5d6b9b666eba0b67a6d59152dfbfa6144dd9ffc22a21c64036b0",
@@ -940,7 +940,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f84e3865501c6b6f2d71e523bdb5d9dcb5a20cffd6dccad40634e4c90a744f52",
@@ -951,7 +951,7 @@
       "groups": [
         "SIG-ILSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "7d11c42385621492ddee0dce0fc619d9d49c741ab6b00929fc4598cbd38b3bce",
@@ -962,7 +962,7 @@
       "groups": [
         "SIG-CHILD"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b8137de515b5b7a0c41203cd35903dff6c4cef7cac8499a697a7a32cd073e79d",
@@ -973,7 +973,7 @@
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f3d59b9c2a1508264f6cd41cb6216bf81ce95e00e39107105d8e68fbc5c6ff72",
@@ -984,7 +984,7 @@
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "970e4a20e51348cb0ee9d81cf2000b70ba0c4eb08188eca94caa57ac1a9f534e",
@@ -995,7 +995,7 @@
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "c49c8701df5cd9bd439eea5638e5c021ee5fadfd807913adb5b12267f2e35889",
@@ -1006,7 +1006,7 @@
       "groups": [
         "SLaTE"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "0289d589f7bc165939b70b6e3c2ad46fc39920e9050e985fa2ea1d67de1b49b6",
@@ -1017,7 +1017,7 @@
       "groups": [
         "SIG-CHILD"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "504e6beaefa011b8c8504a711d90824b80ba9c28ccd0382a1bcbe91978d5cb43",
@@ -1028,7 +1028,7 @@
       "groups": [
         "SIG-CHILD"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d905bad9bdc62a201e3d5e0f691500dae84b9f6ec5716f4f28656a8f4a23d9f8",
@@ -1039,7 +1039,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b1941eac5beb5ad8408fbcb72a7e974fa3f391441058aff0c8f7744f00222aea",
@@ -1050,7 +1050,7 @@
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "062cfcccb4091f7f74516696ca2c81d9e98fc1da78ab3954f5ca2cbd4a8d6057",
@@ -1061,7 +1061,7 @@
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "fc3c61d69dbe97c61f05067911d7d9643fbe6bd6a502f653cca4fc2686671553",
@@ -1072,7 +1072,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b83eec1a946356c413d619e61cd22719786e7152e4029a2b33363dca56079309",
@@ -1083,7 +1083,7 @@
       "groups": [
         "SIG-ILSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f29a9702bcb26afbb0d682fb70e5a16c433ac464743bff2a54fa0da4e5d4b060",
@@ -1094,7 +1094,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "HTTPError",
       "changed": false
@@ -1104,7 +1104,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "HTTPError",
       "changed": false
@@ -1114,7 +1114,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "HTTPError",
       "changed": false
@@ -1124,7 +1124,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "HTTPError",
       "changed": false
@@ -1134,7 +1134,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "HTTPError",
       "changed": false
@@ -1144,7 +1144,7 @@
       "groups": [
         "AFCP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "unavailable",
       "error": "HTTPError",
       "changed": false
@@ -1154,7 +1154,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d17835a2ab432f7b1991d1b8c2c5ffcfb8d7ea4dea1cf73db3cf85ddadb91ef8",
@@ -1165,7 +1165,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1ac6bdba551c3e295f865e749dec20f1ad6d684d2dd4e3de840f52fde123fb52",
@@ -1176,7 +1176,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "3f8d02f19cb03d2af74f5ce686af492511560049027edbb53ee7114aacd103e9",
@@ -1187,7 +1187,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8ec833408cdbc305305d1be214d75358524bab3ed92c9ccd4f1db203b8db93ce",
@@ -1198,7 +1198,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "d08b4430354928b5e7ec0329f4b92e25ff4d2d82b0b6d9f18a69a3c58621772c",
@@ -1209,7 +1209,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "eaf963ab8bce3524213c21515a405941d814f2786bbeca5b3c725428b11896e9",
@@ -1220,7 +1220,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "48239ade1aea81d2a6a207c3a49bf42f7d9c8cc016476e999fe94e1830cc2404",
@@ -1231,7 +1231,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "af001ec65b81ab5ac5d091fb17ffc2857dbf777758e699d3ee2162435ad712bd",
@@ -1242,7 +1242,7 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "c82e4dbd1e04c18cf45cd736797da51a53641acfcd84c9c367ba6d160dea8d0e",
@@ -1253,7 +1253,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "f13e65d760c074bea8cb934536fa5a3604aa44e7b981880966f6cfb71559b062",
@@ -1264,7 +1264,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "38fdfc1e57228cbb4ca495edddbf8e9b516683ecbdc1add656d283c6d32b9710",
@@ -1275,7 +1275,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "568f0dad58d5eb9fa73678dbf5668eb1ef280bde54090e7466383f36017d10d9",
@@ -1286,7 +1286,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2d68d8e99e0599de1445cde12ad97661c0e8d6d58a87b9123c0147fb6d2c0d8d",
@@ -1297,7 +1297,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b187ba524858ff87162ab80202988bf121e4207befab4bec9939941670524fdc",
@@ -1308,7 +1308,7 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "0d368f1e0b548c2eb29b1ff3c4f6b94d750089216358391f877a46c04d620f81",
@@ -1319,7 +1319,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "ec5943eb846fb4a72ca0f11cee08be29b3206d4533dafa195b2614aa1e2fd4b1",
@@ -1330,7 +1330,7 @@
       "groups": [
         "SLPAT"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b33b0ac0638d71a9e1b4552f1fccdcb4679d7c99bb3c1e3b15a55fec94c8eabe",
@@ -1341,18 +1341,18 @@
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "286acbff1239af9035f68e7d9072846a046119a62333ef3c6bd32df3f97e6ee4",
-      "changed": true
+      "changed": false
     },
     {
       "url": "https://www.elra.info/lt4all-2025/",
       "groups": [
         "SIGUL"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "bd2cee2b04cbd2715e37b8aac995f04894e11135e5286125a7c5504f2fd2fde4",
@@ -1363,7 +1363,7 @@
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "421ecc27f1e6b14c18150558b84bc5edec7f54009661e02ac08a67721323062c",
@@ -1374,7 +1374,7 @@
       "groups": [
         "AVISA"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b62a74f580267c5fa1cfee485d2c44f8950f756c72fd647cabd71abaa8dc3630",
@@ -1385,7 +1385,7 @@
       "groups": [
         "SIG-CHILD"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "e2a99c3cf327169c1b7d762e6dc236acecb818146278201f2df27d153968673a",
@@ -1396,7 +1396,7 @@
       "groups": [
         "SIG-CSLP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "363ed5c1d63be657e2ba095d038a586788ca00351738f915aabd217768a8cc34",
@@ -1408,7 +1408,7 @@
         "ISCA",
         "ISCA resources"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2acf83a6b73fee5372af5c27915033a63961564f4238db3c40ce190f2cbf06c6",
@@ -1419,7 +1419,7 @@
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "9628b44a666bd27bd13916ad97e9d70ba7dd24099046ab667e8452ef119803ca",
@@ -1430,7 +1430,7 @@
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "71364e809b614db44dafe5082eed4b4e29ddfcf4ccc00109958beab80ae217a0",
@@ -1441,7 +1441,7 @@
       "groups": [
         "ISCA resources"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "ee40e06242b39a26f7d41daffe2aa30e7ee4bc0e4d8d5a13250d32db77245adb",
@@ -1452,7 +1452,7 @@
       "groups": [
         "SIG-RoSP"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8b2a888622ffbd69f916d36d5744c73a4a9c6d5bc906b064e0edf85a6c7898a0",
@@ -1463,10 +1463,10 @@
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "cd9811a3607598a7e41c56f317161f429f100abfe38c841e37b015c8745402fe",
+      "sha256": "6f9fe5700100aa5d08cc11418749f07cbc058345f9cfa91019d60e7bcc1104ed",
       "changed": true
     },
     {
@@ -1474,27 +1474,29 @@
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
-      "status": "unavailable",
-      "error": "URLError",
-      "changed": false
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "9dd718a71ea17eb6e033272e100c3c89d07b47d9fc78f68a55d385d65000dff4",
+      "changed": true
     },
     {
       "url": "https://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2021.html",
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
-      "status": "unavailable",
-      "error": "URLError",
-      "changed": false
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
+      "status": "retrieved",
+      "httpStatus": 200,
+      "sha256": "e8c6a2f8af4961e4ddd60fd2ad8d7f60e90e4ab5f636d013a321493250e68882",
+      "changed": true
     },
     {
       "url": "https://www.semdial.org/",
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "7b0c09719bf7e869e1739fd80e13975b814a03302cedadbe5492489fab1df57c",
@@ -1505,7 +1507,7 @@
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "564c2a1d2edc68efce2cbda88b5cf227878f7e6dedf63809a9a336e46a4db782",
@@ -1516,7 +1518,7 @@
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "c888de7b0c6b2c9872923a734bb78fc0fd5311f9f71aefa777cafa03cc060c1e",
@@ -1527,7 +1529,7 @@
       "groups": [
         "SIG-HIST"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "8036901cd4b633a5add056617c8540fc875727145c9d250dc11dfeb909cf95c2",
@@ -1538,7 +1540,7 @@
       "groups": [
         "SIGdial"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "2f864ffbf21a82ac9ea4a29c6df10d1c6c88e893267611176abe42c32b1ec454",
@@ -1549,7 +1551,7 @@
       "groups": [
         "SpLC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "997e38a5d1fed751b80d601278bca0a9df919b72422d865b892f5ecd356a84a0",
@@ -1560,7 +1562,7 @@
       "groups": [
         "SProSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b8d465427a6c498a3f60b102e4941cd660290a1a90881b896521e623531a43b4",
@@ -1571,40 +1573,40 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
-      "status": "retrieved",
-      "httpStatus": 200,
-      "sha256": "1de927f0f8a0241a6bf6c8f00e0b1575643e24c8df603468eaeb9d24d40bdd91",
-      "changed": false
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
+      "status": "unavailable",
+      "error": "HTTPError",
+      "changed": false,
+      "lastSuccessfulHash": "1de927f0f8a0241a6bf6c8f00e0b1575643e24c8df603468eaeb9d24d40bdd91"
     },
     {
       "url": "https://www.spsc-sig.org/2020-01-29-speech-legal-workshop",
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
-      "status": "retrieved",
-      "httpStatus": 200,
-      "sha256": "ab1824629bfac5865723bee2fbc4a0f77b2462dc92de3c6db6dc2f9be912f93c",
-      "changed": false
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
+      "status": "unavailable",
+      "error": "HTTPError",
+      "changed": false,
+      "lastSuccessfulHash": "ab1824629bfac5865723bee2fbc4a0f77b2462dc92de3c6db6dc2f9be912f93c"
     },
     {
       "url": "https://www.spsc-sig.org/webinar",
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
-      "status": "retrieved",
-      "httpStatus": 200,
-      "sha256": "efb44819640affedb1bc65ac0b08d6b0daa0d4b1f0a81f5b9cac579f2a99e830",
-      "changed": false
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
+      "status": "unavailable",
+      "error": "HTTPError",
+      "changed": false,
+      "lastSuccessfulHash": "efb44819640affedb1bc65ac0b08d6b0daa0d4b1f0a81f5b9cac579f2a99e830"
     },
     {
       "url": "https://www.studi.aisv.it/index.php/home",
       "groups": [
         "AISV"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "1c12c3ebdebd4ab39ef23aebe41622910ed2d36acaeb83e026f017b9ee305e7e",
@@ -1615,7 +1617,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "84a09f91b760ab83127997053e9a60751d2682fa7c25f86ff4db4ba233ca743e",
@@ -1626,7 +1628,7 @@
       "groups": [
         "SIG-SPSC"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
       "sha256": "b5dab9cf9438652dd75d6ca8db3aefc4e9cf29fe1fc765d3cb11180a154abb7d",
@@ -1637,10 +1639,10 @@
       "groups": [
         "SynSIG"
       ],
-      "checkedAt": "2026-11-02T23:32:57.381572+00:00",
+      "checkedAt": "2026-11-03T23:36:32.909409+00:00",
       "status": "retrieved",
       "httpStatus": 200,
-      "sha256": "28f379bd1a96ad625730708c36a724a74dffabf5dc3b779cfd666c439130acc9",
+      "sha256": "a5c8a28229df51b9c12767a2c4a8ac98a02a232b3abebcf6a2405c32d6815b03",
       "changed": true
     }
   ],
