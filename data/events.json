@@ -57,24 +57,24 @@
   {
     "start": "2026-10-07",
     "end": null,
-    "displayDate": "Oct 2026 (exact date unconfirmed)",
+    "displayDate": "7 Oct 2026",
     "title": "Watermarking AI-Generated Content — Pierre Fernandez",
     "sig": "SIG-SPSC",
     "url": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
-    "details": "A recording with this title and speaker is published on the official SPSC Webinar channel. The previously listed 7 October date and time could not be reconfirmed from the current sources.",
-    "verified": false,
-    "reviewed": "2026-11-01"
+    "details": "The organizer’s webinar index, reviewed 5 Nov 2026, lists this talk under Past webinars on 7 Oct 2026 and links the official SPSC Webinar recording.",
+    "verified": true,
+    "reviewed": "2026-11-05"
   },
   {
     "start": "2026-10-21",
     "end": null,
-    "displayDate": "21 Oct 2026 (unconfirmed)",
+    "displayDate": "21 Oct 2026 (scheduled; occurrence unconfirmed)",
     "title": "Acoustic Interference — Yanyun Wang",
     "sig": "SIG-SPSC",
     "url": "https://www.spsc-sig.org/webinar",
-    "details": "Previously listed date and speaker could not be reconfirmed in the 1 Nov 2026 web snapshot or official YouTube channel. Retained as an unconfirmed historical listing, not a confirmed event or a cancellation.",
+    "details": "The organizer’s page reviewed 5 Nov 2026 lists Yanyun Wang for 21 Oct 2026, but still places the session under Upcoming webinars with a registration link. This confirms the listed schedule, not whether it took place; no recording or cancellation is confirmed.",
     "verified": false,
-    "reviewed": "2026-11-01"
+    "reviewed": "2026-11-05"
   },
   {
     "start": "2026-10-21",

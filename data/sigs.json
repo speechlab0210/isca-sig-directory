@@ -1105,9 +1105,9 @@
           "name": "SPSC Webinar & Café Sessions (webinar series; one Café journal-club session listed, Aug 2020)",
           "type": "webinar-series",
           "cadence": "webinar announced as once a month (first Monday preferred, flexible); Café journal club announced as monthly but only one session listed (27 Aug 2020)",
-          "last": "The website snapshot reviewed on 1 Nov 2026 lists past webinars through 3 Mar 2025 and still labels Apr–May 2025 entries as upcoming. Recent recordings, including 2026 talks and Pierre Fernandez, are on the SIG YouTube channel. No next session is confirmed here.",
+          "last": "Reviewed 5 Nov 2026: the web index lists 2026 talks and places Pierre Fernandez’s 7 Oct webinar under Past webinars with a recording link. Yanyun Wang’s 21 Oct listing remains under Upcoming webinars; occurrence is unconfirmed. No future session is confirmed.",
           "url": "https://www.spsc-sig.org/webinar",
-          "reviewed": "2026-11-01"
+          "reviewed": "2026-11-05"
         },
         {
           "name": "SPSC Symposium (ISCA Symposium on Security and Privacy in Speech Communication)",
@@ -1177,8 +1177,8 @@
           "pageUrl": "https://www.spsc-sig.org/webinar",
           "recUrl": "https://www.youtube.com/@SPSCWebinar",
           "platform": "YouTube (2025-2026 talks) + EURECOM mediaserver / Nudgis (2020-2025 talks)",
-          "notes": "The web index currently ends in March 2025, with stale April–May 2025 placeholders. The official YouTube channel supplies the newer recording evidence. The previously listed 21 Oct 2026 Yanyun Wang session could not be reconfirmed; no cancellation is inferred.",
-          "reviewed": "2026-11-01"
+          "notes": "On 5 Nov 2026, the web index again lists 2026 webinars and links Pierre Fernandez’s 7 Oct recording. Yanyun Wang is listed for 21 Oct under the stale Upcoming webinars heading; this does not confirm delivery or cancellation.",
+          "reviewed": "2026-11-05"
         },
         {
           "name": "SPSC Café (journal club)",
@@ -1195,8 +1195,8 @@
           "title": "SPSC Webinar & Café Sessions — historical web index",
           "url": "https://www.spsc-sig.org/webinar",
           "kind": "video-page",
-          "what": "The 1 Nov 2026 source snapshot contains 44 past webinars and one Café session, ending in March 2025, plus April–May 2025 placeholders. It links historical EURECOM recordings and slides, but no YouTube recordings. Use the separate SIG YouTube channel for newer talks.",
-          "reviewed": "2026-11-01"
+          "what": "The web index reviewed on 5 Nov 2026 includes 2026 webinars, with links to YouTube and historical EURECOM recordings and slides. Pierre Fernandez’s 7 Oct 2026 webinar is listed under Past webinars with its recording; Yanyun Wang’s 21 Oct entry remains under Upcoming webinars despite the passed date.",
+          "reviewed": "2026-11-05"
         },
         {
           "title": "Guangzhi Sun and Xuenan Xu — safety and privacy in audio LLMs; holistic speech anti-spoofing (SPSC webinar, 20 Aug 2026)",
@@ -1240,8 +1240,8 @@
           "title": "Pierre Fernandez — Watermarking AI-Generated Content",
           "url": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
           "kind": "youtube-video",
-          "what": "Recording listed on the official SPSC Webinar channel; the exact session date is not confirmed by the retrieved channel listing.",
-          "reviewed": "2026-11-01"
+          "what": "The official webinar index lists this recording under Past webinars for 7 Oct 2026 and links the same video on the SPSC Webinar channel.",
+          "reviewed": "2026-11-05"
         }
       ],
       "hasRec": true,

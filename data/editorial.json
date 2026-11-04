@@ -11,7 +11,7 @@
       "pill": "live",
       "cad": "webinar series · since Jul 2020",
       "text": "Speech-security and privacy webinars. Historical slides and recordings are indexed on the website; newer recordings are on the SIG YouTube channel.",
-      "next": "Recent recordings are on YouTube. The website schedule is stale; the earlier Yanyun Wang listing for 21 Oct 2026 is unconfirmed.",
+      "next": "Most recent dated recording in the web index: Pierre Fernandez, 7 Oct 2026. Yanyun Wang’s 21 Oct listing is still marked Upcoming; occurrence is unconfirmed. No future session is confirmed.",
       "links": [
         {
           "label": "Historical web index",
@@ -22,7 +22,7 @@
           "href": "https://www.youtube.com/@SPSCWebinar"
         }
       ],
-      "reviewed": "2026-11-01"
+      "reviewed": "2026-11-05"
     },
     {
       "name": "Speech Prosody Lectures",
@@ -1173,8 +1173,9 @@
       "series": "SPSC Webinar & Café",
       "title": "Pierre Fernandez — Watermarking AI-Generated Content",
       "url": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
-      "source": "https://www.youtube.com/watch?v=uUGnnn50Dhc",
-      "indexed": "2026-11-01"
+      "source": "https://www.spsc-sig.org/webinar",
+      "indexed": "2026-11-01",
+      "date": "2026-10-07"
     },
     {
       "sig": "SIGUL",
