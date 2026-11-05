@@ -149,9 +149,9 @@
     "title": "IberSPEECH 2026, Madrid",
     "sig": "SIG-IL",
     "url": "https://iberspeech.tech/2026/",
-    "details": "Speech and language technologies for Iberian languages. Venue: ETSIT, Universidad Politécnica de Madrid. 70 papers accepted. Registration is closed because all places are filled; no further conference, Gala Dinner or companion registrations are possible.",
+    "details": "Speech and language technologies for Iberian languages. Venue: ETSIT, Universidad Politécnica de Madrid. 70 papers accepted. Registration is closed because all places are filled; no further conference, Gala Dinner or companion registrations are possible. The proceedings now have ISSN 3127-8787.",
     "verified": true,
-    "reviewed": "2026-11-04"
+    "reviewed": "2026-11-06"
   },
   {
     "start": "2027-02-24",
@@ -372,5 +372,27 @@
     "details": "Officially announced dates for the recurring philological conference associated with SIGRU’s phonetics activities; consult the organizer for the detailed sections.",
     "verified": true,
     "reviewed": "2026-11-01"
+  },
+  {
+    "start": "2026-12-07",
+    "end": null,
+    "displayDate": "7 Dec 2026",
+    "title": "SLaTE Webinar — Haopeng Geng",
+    "sig": "SLaTE",
+    "url": "https://sites.google.com/view/sigslate/webinar",
+    "details": "“Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis”, 16:00 CET. Haopeng Geng, The University of Tokyo. Online; registration is linked from the official webinar page.",
+    "verified": true,
+    "reviewed": "2026-11-06"
+  },
+  {
+    "start": "2027-01-10",
+    "end": null,
+    "displayDate": "10 Jan 2027",
+    "title": "LV International Philological Conference — abstract submission deadline",
+    "sig": "SIGRU",
+    "url": "https://conference-spbu.ru/en/conference/57/",
+    "details": "Applications with abstracts are accepted from 30 Oct 2026 through 10 Jan 2027, with no deadline extension announced. Decisions are due by 16 Feb 2027. Conference: 23–29 Mar 2027, St. Petersburg State University. No cutoff time or time zone is specified.",
+    "verified": true,
+    "reviewed": "2026-11-06"
   }
 ]

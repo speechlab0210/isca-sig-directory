@@ -637,9 +637,10 @@
         {
           "name": "ISCA SIG SLaTE Webinar Series",
           "type": "webinar-series",
-          "cadence": "nominally monthly (first non-holiday Monday, 16:00 CET); in practice 6 talks in 2024 (Mar–May, Oct–Dec), 3 in Jan–Mar 2025, 1 in 2026",
-          "last": "Webinar #1 of the 2026 series: Mikko Kurimo (Aalto University), 5 May 2026, 14:00 CET; the ISCA-SLaTE Eventbrite page listed no upcoming events as of 3 Oct 2026",
-          "url": "https://sites.google.com/view/sigslate/webinar"
+          "cadence": "nominally monthly (first non-holiday Monday, 16:00 CET); recent scheduling is irregular",
+          "last": "Next scheduled: Haopeng Geng (The University of Tokyo), 7 Dec 2026, 16:00 CET, on a prompt-free approach to mispronunciation detection and diagnosis. Earlier 2026 listing: Mikko Kurimo (Aalto University), 5 May, 14:00 CET.",
+          "url": "https://sites.google.com/view/sigslate/webinar",
+          "reviewed": "2026-11-06"
         },
         {
           "name": "Speak & Improve Challenge 2025 (spoken language assessment and feedback; 4 tasks: SGECF, SLA, SGEC, L2 ASR)",
@@ -673,13 +674,13 @@
       "series": [
         {
           "name": "ISCA SIG SLaTE Webinar Series",
-          "active": false,
-          "cadence": "nominally monthly; in practice 6 talks in 2024, 3 in early 2025, 1 in 2026 (5 May)",
+          "active": true,
+          "cadence": "announced as monthly; 2026 schedule lists 5 May and an upcoming session on 7 Dec",
           "pageUrl": "https://sites.google.com/view/sigslate/webinar",
           "recUrl": "https://www.youtube.com/@ISCASIGSLaTE",
           "platform": "live-streamed (Eventbrite registration) with recordings posted to YouTube",
-          "notes": "Webinar page states the talks are live-streamed and recorded, with links on the SIG's YouTube channel. Documented talks: 6 in 2024 (Chowdhury, Bannò, Huang, Tits, Minematsu, Ní Chasaide), 3 in 2025 (Islam — the page notes no video for this talk, Kato, Alwan), 1 in 2026 (Kurimo, 5 May). The channel holds 8 recordings (Mar 2024–Mar 2025); the Islam and Kurimo talks are not on it. No upcoming event on Eventbrite as of 3 Oct 2026. Checked 1 Nov 2026: no upcoming dated session is listed. The archive remains available; this is not evidence that the series has been discontinued.",
-          "reviewed": "2026-11-01"
+          "notes": "Next scheduled webinar: Haopeng Geng (The University of Tokyo), 7 Dec 2026, 16:00 CET, “Beyond Acoustic Sparsity and Linguistic Bias: A Prompt-Free Paradigm for Mispronunciation Detection and Diagnosis”. The official page provides a registration link and says the talks are live-streamed and recorded. Earlier listings include six talks in 2024, three in 2025 and Mikko Kurimo on 5 May 2026; the recording archive remains available.",
+          "reviewed": "2026-11-06"
         }
       ],
       "videos": [
@@ -693,7 +694,7 @@
           "title": "SIG SLaTE webinar page (talk listing with links to recordings)",
           "url": "https://sites.google.com/view/sigslate/webinar",
           "kind": "video-page",
-          "what": "Official webinar page listing the 2024–2026 talks with speakers, dates and abstracts, with the recordings embedded beside 8 of the 10 talks; it states 'Links to the talks are shown below and on our Youtube channel'."
+          "what": "Official webinar page listing 2024–2026 talks with speakers, dates, abstracts and embedded recordings. Its 2026 schedule includes Mikko Kurimo (5 May) and an announced Haopeng Geng session (7 Dec)."
         },
         {
           "title": "Abeer Alwan (UCLA) - To Use or not to Use Spoken Language Systems in Early Literacy Education? (SLaTE webinar, 3 Mar 2025)",
@@ -703,7 +704,7 @@
         }
       ],
       "hasRec": true,
-      "activeSeries": false,
+      "activeSeries": true,
       "contentReviewed": "2026-10-03"
     },
     {

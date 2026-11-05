@@ -64,9 +64,9 @@
     {
       "name": "SLaTE Webinar Series",
       "sig": "SLaTE",
-      "pill": "paused",
+      "pill": "live",
       "cad": "announced as monthly (first non-holiday Monday, 16:00 CET); irregular since 2025",
-      "text": "Speech-and-language-in-education talks, live-streamed; 8 recordings (Mar 2024–Mar 2025) on the SIG's own YouTube channel. Latest talk: Mikko Kurimo, 5 May 2026; no upcoming webinar listed as of 1 Nov 2026. No upcoming listing is not proof that the series has ended.",
+      "text": "Speech-and-language-in-education talks, live-streamed, with a recording archive on the SIG’s YouTube channel. Next scheduled: Haopeng Geng (The University of Tokyo), 7 Dec 2026, 16:00 CET, on a prompt-free approach to mispronunciation detection and diagnosis. The official webinar page provides registration.",
       "links": [
         {
           "label": "Webinar page",
@@ -77,7 +77,7 @@
           "href": "https://www.youtube.com/@ISCASIGSLaTE"
         }
       ],
-      "reviewed": "2026-11-01"
+      "reviewed": "2026-11-06"
     },
     {
       "name": "SIGSLT Seminars",
