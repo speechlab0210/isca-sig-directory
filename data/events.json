@@ -248,9 +248,9 @@
     "title": "SIG-CSLP Assembly at ISCSLP 2026",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/program",
-    "details": "SIG-CSLP Assembly / Closing Ceremony, Penang, 16 Nov 2026, starting at 16:30 in the detailed programme. No separate session end time is specified; check the organizer for updates.",
+    "details": "SIG-CSLP Assembly / Closing Ceremony, Penang, 16 Nov 2026, 17:00–18:00 in the updated detailed programme. Follow the organizer’s programme for subsequent changes.",
     "verified": true,
-    "reviewed": "2026-11-01"
+    "reviewed": "2026-11-07"
   },
   {
     "start": "2026-11-01",
@@ -394,5 +394,27 @@
     "details": "Applications with abstracts are accepted from 30 Oct 2026 through 10 Jan 2027, with no deadline extension announced. Decisions are due by 16 Feb 2027. Conference: 23–29 Mar 2027, St. Petersburg State University. No cutoff time or time zone is specified.",
     "verified": true,
     "reviewed": "2026-11-06"
+  },
+  {
+    "start": "2026-12-08",
+    "end": null,
+    "displayDate": "8 Dec 2026",
+    "title": "AISV 2027 — author attendance confirmation deadline",
+    "sig": "AISV",
+    "url": "https://sites.google.com/view/aisv2027/iscrizioni-e-scadenze-registration-and-important-dates",
+    "details": "Authors are asked to confirm attendance by 8 Dec 2026. Proposal selection is scheduled for 20 Nov 2026; the conference takes place 24–26 Feb 2027 at the University of Macerata. No cutoff time or time zone is specified.",
+    "verified": true,
+    "reviewed": "2026-11-07"
+  },
+  {
+    "start": "2027-02-21",
+    "end": null,
+    "displayDate": "21 Feb 2027",
+    "title": "AISV 2027 — online registration deadline",
+    "sig": "AISV",
+    "url": "https://sites.google.com/view/aisv2027/iscrizioni-e-scadenze-registration-and-important-dates",
+    "details": "Online registration runs from 1 Jan through 21 Feb 2027 on the AISV website. The organizer also allows on-site registration at the conference with a supplement. Conference: 24–26 Feb 2027, Macerata. No cutoff time or time zone is specified.",
+    "verified": true,
+    "reviewed": "2026-11-07"
   }
 ]
