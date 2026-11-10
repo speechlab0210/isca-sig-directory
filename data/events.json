@@ -416,5 +416,16 @@
     "details": "Online registration runs from 1 Jan through 21 Feb 2027 on the AISV website. The organizer also allows on-site registration at the conference with a supplement. Conference: 24–26 Feb 2027, Macerata. No cutoff time or time zone is specified.",
     "verified": true,
     "reviewed": "2026-11-07"
+  },
+  {
+    "start": "2026-11-20",
+    "end": null,
+    "displayDate": "20 Nov 2026",
+    "title": "IberSPEECH 2026 — Industrial Innovation Round Table",
+    "sig": "SIG-IL",
+    "url": "https://iberspeech.tech/2026/roundtable/",
+    "details": "11:00–12:00 CET, Auditorium (Salón de Actos), Building C, ETSIT-UPM, Madrid. English-language panel on speech and language technology transfer, language data and evaluation, followed by audience Q&A.",
+    "verified": true,
+    "reviewed": "2026-11-11"
   }
 ]
