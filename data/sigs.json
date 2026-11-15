@@ -272,7 +272,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-16"
     },
     {
       "acronym": "SpLC",
@@ -807,7 +807,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-16"
     },
     {
       "acronym": "SLPAT",
@@ -1247,7 +1247,7 @@
       ],
       "hasRec": true,
       "activeSeries": true,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-16"
     },
     {
       "acronym": "SIG-SLT",
@@ -1710,8 +1710,9 @@
           "name": "IberSPEECH (joint conference of SIG-IL and the Spanish Speech Technology Network RTTH; merges Jornadas en Tecnologías del Habla + Iberian SLTech)",
           "type": "conference",
           "cadence": "biennial",
-          "last": "IberSPEECH 2024, Aveiro, Nov 11-13 2024; next IberSPEECH 2026, Madrid, Nov 18-20 2026",
-          "url": "https://iberspeech.tech/2026/"
+          "last": "IberSPEECH 2024, Aveiro, Nov 11-13 2024; next IberSPEECH 2026, Madrid, Nov 18-20 2026; the conference booklet is available from the conference website.",
+          "url": "https://iberspeech.tech/2026/",
+          "reviewed": "2026-11-16"
         },
         {
           "name": "PROPOR — International Conference on Computational Processing of Portuguese (historically SIG-IL-endorsed; the 2026 site no longer lists ISCA/SIG-IL among supporters)",
@@ -1746,7 +1747,7 @@
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-16"
     },
     {
       "acronym": "SIG-ILSP",
