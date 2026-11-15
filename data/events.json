@@ -127,9 +127,9 @@
     "title": "ISCSLP 2026, Penang",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/",
-    "details": "Main conference 14–16 November in Penang; tutorial day 17 November at Universiti Sains Malaysia (USM). The detailed programme, including the paper presentation schedule, is available.",
+    "details": "Main conference 14–16 November in Penang; tutorial day 17 November at Universiti Sains Malaysia (USM). The detailed programme and program book, including the schedule, keynote and lecture details, and session paper lists, are available.",
     "verified": true,
-    "reviewed": "2026-11-01"
+    "reviewed": "2026-11-15"
   },
   {
     "start": "2026-11-17",
@@ -248,9 +248,9 @@
     "title": "SIG-CSLP Assembly at ISCSLP 2026",
     "sig": "SIG-CSLP",
     "url": "https://iscslp.org/2026/program",
-    "details": "SIG-CSLP Assembly / Closing Ceremony, Penang, 16 Nov 2026, 17:00–18:00 in the updated detailed programme. Follow the organizer’s programme for subsequent changes.",
+    "details": "SIG-CSLP Assembly / Closing Ceremony, 16 Nov 2026, 16:30–17:30, Pinang Ballroom, Level 3, JEN Penang. Follow the organizer’s programme for subsequent changes.",
     "verified": true,
-    "reviewed": "2026-11-07"
+    "reviewed": "2026-11-15"
   },
   {
     "start": "2026-11-01",
@@ -427,5 +427,16 @@
     "details": "11:00–12:00 CET, Auditorium (Salón de Actos), Building C, ETSIT-UPM, Madrid. English-language panel on speech and language technology transfer, language data and evaluation, followed by audience Q&A.",
     "verified": true,
     "reviewed": "2026-11-11"
+  },
+  {
+    "start": "2027-02-04",
+    "end": "2027-02-05",
+    "displayDate": "4–5 Feb 2027",
+    "title": "DiSS 2027 — 13th Workshop on Disfluency in Spontaneous Speech",
+    "sig": "AISV",
+    "url": "https://labalps.github.io/events/DiSS2027/",
+    "details": "Free University of Bozen-Bolzano, Italy. The workshop focuses on disfluencies in spontaneous speech and is listed among AISV-sponsored events.",
+    "verified": true,
+    "reviewed": "2026-11-15"
   }
 ]

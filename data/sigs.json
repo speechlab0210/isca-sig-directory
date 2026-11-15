@@ -1366,9 +1366,9 @@
           "name": "ISCSLP — International Symposium on Chinese Spoken Language Processing (flagship conference)",
           "type": "conference",
           "cadence": "biennial (even years)",
-          "last": "ISCSLP 2026 (15th), Penang, Malaysia: main conference 14–16 Nov at JEN Penang Georgetown; tutorials 17 Nov at USM. Online registration is closed 24 Oct–13 Nov; on-site registration reopens 14 Nov 2026.",
+          "last": "ISCSLP 2026 (15th), Penang, Malaysia: main conference 14–16 Nov at JEN Penang Georgetown; tutorials 17 Nov at USM. On-site registration was announced for 14 Nov from 08:00. The program book is available on the programme page.",
           "url": "https://iscslp.org/2026/",
-          "reviewed": "2026-11-01"
+          "reviewed": "2026-11-15"
         },
         {
           "name": "ISCSLP grand challenges (e.g. Chinese-English Code-Switching ASR + Intelligent Cockpit SR Challenge 2022, Conversational Voice Clone CoVoC 2024, CoT-TTS Challenge 2026)",
@@ -1388,9 +1388,9 @@
           "name": "SIG-CSLP Gatherings (informal member meetups at major speech conferences)",
           "type": "other",
           "cadence": "roughly twice a year at Interspeech and ICASSP",
-          "last": "The updated ISCSLP 2026 programme lists the SIG-CSLP Assembly / Closing Ceremony on 16 Nov, 17:00–18:00. Both times are now printed in the session cell; no recording is confirmed.",
+          "last": "The updated ISCSLP 2026 programme lists the SIG-CSLP Assembly / Closing Ceremony on 16 Nov, 16:30–17:30, in Pinang Ballroom, Level 3, JEN Penang. No recording is confirmed.",
           "url": "https://www.isca-cslp.org/web/",
-          "reviewed": "2026-11-07"
+          "reviewed": "2026-11-15"
         }
       ],
       "series": [],
