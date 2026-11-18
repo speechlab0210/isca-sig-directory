@@ -286,8 +286,9 @@
           "name": "Odyssey: The Speaker and Language Recognition Workshop",
           "type": "workshop",
           "cadence": "biennial (even years since 2004; series began 1994)",
-          "last": "Odyssey 2026, Lisbon, Portugal, 23–26 Jun 2026 (held; theme \"Speech beyond words: Trustworthy Identity, Health, Emotion and more\"; proceedings in the ISCA Archive since Jul 2026)",
-          "url": "https://www.speakerodyssey.com/"
+          "last": "Odyssey 2026, Lisbon, Portugal, 23–26 Jun 2026 (held; theme \"Speech beyond words: Trustworthy Identity, Health, Emotion and more\"; proceedings in the ISCA Archive since Jul 2026). The SIG’s 2026 annual report lists plans for Odyssey 2028 in Nice, France; exact dates are not announced.",
+          "url": "https://www.speakerodyssey.com/",
+          "reviewed": "2026-11-18"
         },
         {
           "name": "VoxCeleb Speaker Recognition Challenge (VoxSRC) with workshop at Interspeech",
@@ -385,7 +386,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-07"
+      "contentReviewed": "2026-11-18"
     },
     {
       "acronym": "SProSIG",
@@ -399,9 +400,9 @@
           "name": "SProSIG Virtual Lecture Series (Speech Prosody Lectures)",
           "type": "webinar-series",
           "cadence": "approximately monthly",
-          "last": "Peggy Mok’s 21 Oct 2026 talk is archived in the official playlist. Next listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time; the lecture page omits the year.",
+          "last": "Peggy Mok’s 21 Oct 2026 talk is archived in the official playlist. Also listed: Sacha Calhoun, 17 Nov, 17:00 Campinas time; the lecture page omits the year.",
           "url": "https://sprosig.org/lectures.html",
-          "reviewed": "2026-11-01"
+          "reviewed": "2026-11-18"
         },
         {
           "name": "Speech Prosody conference",
@@ -821,8 +822,9 @@
           "name": "SLPAT Workshop series (Workshop on Speech and Language Processing for Assistive Technologies)",
           "type": "workshop",
           "cadence": "irregular (annual 2010-2016, then 2019 and 2022; no edition found since 2022)",
-          "last": "SLPAT 2022 (9th edition), co-located with ACL 2022, Dublin/hybrid, 27 May 2022. The SIG's 2025 ACL report states an intent to organize a workshop in 2026; none located as of 3 Oct 2026.",
-          "url": "https://aclanthology.org/venues/slpat/"
+          "last": "SLPAT 2022 (9th edition), co-located with ACL 2022, Dublin/hybrid, 27 May 2022. The SIG’s 2026 annual report describes plans for a special session and workshop in 2027–2028, alongside a forthcoming new website; no dated edition is confirmed.",
+          "url": "https://aclanthology.org/venues/slpat/",
+          "reviewed": "2026-11-18"
         },
         {
           "name": "VCCA2024 - Virtual Conference on Computational Audiology (supported by SIG-SLPAT)",
@@ -869,7 +871,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-07"
+      "contentReviewed": "2026-11-18"
     },
     {
       "acronym": "SIG-HIST",
@@ -1269,8 +1271,9 @@
           "name": "IWSLT evaluation campaign / shared tasks (offline & simultaneous translation, subtitling, dubbing, speech-to-speech, low-resource, Indic languages, metrics, etc.)",
           "type": "challenge",
           "cadence": "annual, run with each IWSLT edition",
-          "last": "IWSLT 2026 shared tasks (offline, low-resource, customized speech translation, compression, subtitling, simultaneous, Indic and African/Celtic speech-to-speech, cross-lingual voice cloning, instruction following, metrics). For 2027, IWSLT is piloting year-round leaderboards: submissions are open for model compression, offline speech translation and instruction following. The earlier proposal call listed 30 Sep 2026 for submissions and 1 Nov for decisions; the current calls page no longer includes that timetable as of 25 Oct 2026.",
-          "url": "https://iwslt.org/2027/"
+          "last": "IWSLT 2026 shared tasks (offline, low-resource, customized speech translation, compression, subtitling, simultaneous, Indic and African/Celtic speech-to-speech, cross-lingual voice cloning, instruction following, metrics). For 2027, IWSLT is piloting year-round leaderboards: submissions are open for model compression, offline speech translation and instruction following. The earlier proposal call listed 30 Sep 2026 for submissions and 1 Nov for decisions; the current calls page no longer includes that timetable as of 25 Oct 2026. The 2027 Speech Translation Metrics task covers reference-free quality estimation for speech-to-text and, new in 2027, speech-to-speech translation. Its preliminary system submission deadline is 30 Apr 2027 at 23:59 UTC-12:00.",
+          "url": "https://iwslt.org/2027/",
+          "reviewed": "2026-11-18"
         },
         {
           "name": "ISCA SIGSLT lecture series (SIG-SLT Talk Series)",
@@ -1352,7 +1355,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-07"
+      "contentReviewed": "2026-11-18"
     },
     {
       "acronym": "SIG-CSLP",
@@ -1775,8 +1778,9 @@
           "name": "Periodic topical meetings on speech and audio processing within India",
           "type": "other",
           "cadence": "irregular",
-          "last": "SIG-ILSP's 2025 report to ISCA lists the ISCA-supported Summer School on Speech Signal Processing (S4P), DA-IICT/DAU Gandhinagar (6–10 Jul 2024; 5–9 Jul 2025), the Workshop on ASR and TTS (WATI-2025), IIT Guwahati, 1–4 Jul 2025, and a GIAN course at IIT Guwahati, 20–24 Jan 2025",
-          "url": "https://isca-speech.org/Special-Interest-Groups"
+          "last": "The SIG’s 2026 report lists speech and language training activities including the ACM India Summer School on Natural Language Models for Language Technology Development (IIT Guwahati, 3–13 Jun 2026) and IASNLP 2026 on Speech LLMs (IIIT Hyderabad, 12–27 Jun 2026).",
+          "url": "https://isca-speech.org/Special-Interest-Groups",
+          "reviewed": "2026-11-18"
         },
         {
           "name": "Summer School on Speech Signal Processing (S4P), Speech Research Lab, DA-IICT / Dhirubhai Ambani University, Gandhinagar (ISCA-supported)",
@@ -1822,7 +1826,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-07"
+      "contentReviewed": "2026-11-18"
     },
     {
       "acronym": "SIGRU",
