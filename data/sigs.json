@@ -487,7 +487,7 @@
       ],
       "hasRec": true,
       "activeSeries": true,
-      "contentReviewed": "2026-10-08"
+      "contentReviewed": "2026-11-19"
     },
     {
       "acronym": "SIGdial",
@@ -910,6 +910,14 @@
           "last": "The page provides a secretary contact; it does not describe a mailing-list subscription.",
           "url": "https://www.sig-hist.org/contact.html",
           "reviewed": "2026-11-01"
+        },
+        {
+          "name": "Armando de Lacerda Wing — Laboratory of Experimental Phonetics of Coimbra exhibition",
+          "type": "other",
+          "cadence": null,
+          "last": "Exhibition associated with HSCR 2026 at the Faculty of Arts and Humanities, University of Coimbra. The illustrated exhibition page presents scientific instruments, archival materials and oral testimonies documenting the laboratory’s history and Armando de Lacerda’s work.",
+          "url": "https://8iwhscr.uevora.pt/index.php/exhibition/",
+          "reviewed": "2026-11-19"
         }
       ],
       "series": [],
@@ -935,7 +943,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-08"
+      "contentReviewed": "2026-11-19"
     },
     {
       "acronym": "SIG-CHILD",
@@ -1468,7 +1476,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-08"
+      "contentReviewed": "2026-11-19"
     },
     {
       "acronym": "AFCP",
@@ -1713,9 +1721,9 @@
           "name": "IberSPEECH (joint conference of SIG-IL and the Spanish Speech Technology Network RTTH; merges Jornadas en Tecnologías del Habla + Iberian SLTech)",
           "type": "conference",
           "cadence": "biennial",
-          "last": "IberSPEECH 2024, Aveiro, Nov 11-13 2024; next IberSPEECH 2026, Madrid, Nov 18-20 2026; the conference booklet is available from the conference website.",
+          "last": "IberSPEECH 2024, Aveiro, Nov 11-13 2024; IberSPEECH 2026, Madrid, Nov 18-20 2026; the conference booklet is available from the conference website.",
           "url": "https://iberspeech.tech/2026/",
-          "reviewed": "2026-11-16"
+          "reviewed": "2026-11-19"
         },
         {
           "name": "PROPOR — International Conference on Computational Processing of Portuguese (historically SIG-IL-endorsed; the 2026 site no longer lists ISCA/SIG-IL among supporters)",
@@ -1878,7 +1886,7 @@
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-10-08"
+      "contentReviewed": "2026-11-19"
     }
   ]
 }
