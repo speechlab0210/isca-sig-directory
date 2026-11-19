@@ -121,7 +121,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-09"
+      "contentReviewed": "2026-11-20"
     },
     {
       "acronym": "AVISA",
@@ -501,8 +501,9 @@
           "name": "SIGDIAL Annual Meeting (conference on discourse and dialogue)",
           "type": "conference",
           "cadence": "annual",
-          "last": "SIGDIAL 2026 (27th), Atlanta, GA, USA, Aug 2-5, 2026; SIGDIAL 2025 (26th) was Avignon, France, Aug 25-27, 2025",
-          "url": "https://2026.sigdial.org"
+          "last": "SIGDIAL 2026 (27th), Atlanta, GA, USA, Aug 2-5, 2026; SIGDIAL 2025 (26th) was Avignon, France, Aug 25-27, 2025; next announced: SIGDIAL 2027, Nagoya, Japan, 23-26 August 2027, with Ryuichiro Higashinaka as general chair (2026 SIG report).",
+          "url": "https://2026.sigdial.org",
+          "reviewed": "2026-11-20"
         },
         {
           "name": "YRRSDS — Young Researchers' Roundtable on Spoken Dialogue Systems (SIGDIAL satellite)",
@@ -618,7 +619,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-10-09"
+      "contentReviewed": "2026-11-20"
     },
     {
       "acronym": "SLaTE",
@@ -1001,7 +1002,7 @@
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-20"
     },
     {
       "acronym": "SIG-RoSP",
@@ -1504,8 +1505,9 @@
           "name": "Les séminaires de l'AFCP (one-day thematic scientific seminars)",
           "type": "workshop",
           "cadence": "irregular (editions in 1998, 2003, 2007x2, 2011, 2021, 2023, 2026)",
-          "last": "AFCP study day 'Constituer, enrichir et exploiter les données de parole' (talks, round tables and hands-on workshops), Université Sorbonne Nouvelle, Paris, 11 Sep 2026; previous: joint AFIA-TLH / AFCP day, Avignon, 11 Dec 2023",
-          "url": "https://www.afcp-parole.org/category/animations-scientifiques/les-seminaires-de-lafcp/"
+          "last": "AFCP study day 'Constituer, enrichir et exploiter les données de parole' (talks, round tables and hands-on workshops), Université Sorbonne Nouvelle, Paris, 11 Sep 2026; previous: joint AFIA-TLH / AFCP day, Avignon, 11 Dec 2023. The 2026 AFCP report announces a study day on 'Data Augmentation and Generation: Speech and RAG' in Toulouse in December 2026; no exact day is given.",
+          "url": "https://www.afcp-parole.org/category/animations-scientifiques/les-seminaires-de-lafcp/",
+          "reviewed": "2026-11-20"
         },
         {
           "name": "Présente Tes Recherches (PTR) — JCeP online research-presentation series",
@@ -1547,8 +1549,9 @@
           "name": "Support for scientific events and young-researcher travel grants (Soutien à l'organisation de manifestation; Bourses jeunes chercheurs)",
           "type": "other",
           "cadence": "ongoing",
-          "last": "2024/25: 15 travel grants; events supported in 2024–25 include JPC 2025 (clinical phonetics, Sète) and Real2Phon 2025 (Paris), per AFCP's 2025 report to ISCA",
-          "url": "https://www.afcp-parole.org/category/soutiens/soutien-a-lorganisation-de-manifestation/"
+          "last": "AFCP's 2026 report lists 15 accepted student-mobility requests in 2025 and 24 requests in 2026, including 19 for JEP. Supported events in 2025-26 include RJCP 2025, the September 2025 HSCR workshop, and 'Scientific Evidence and the Voice' in Lyon in June 2026.",
+          "url": "https://www.afcp-parole.org/category/soutiens/soutien-a-lorganisation-de-manifestation/",
+          "reviewed": "2026-11-20"
         }
       ],
       "series": [
