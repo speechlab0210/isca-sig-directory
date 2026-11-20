@@ -169,13 +169,21 @@
           "last": "The retrieved feed includes an original AVSP post dated 29 Oct and reposted research items through 31 Oct 2026.",
           "url": "https://bsky.app/profile/avsp.bsky.social",
           "reviewed": "2026-11-01"
+        },
+        {
+          "name": "50 Years of McGurk — AVSP 2026 survey paper",
+          "type": "other",
+          "cadence": null,
+          "last": "Survey of 34 researchers marking the McGurk effect's fiftieth anniversary. It discusses the effect's role in auditory-visual speech research and limitations as a general measure of audiovisual integration. Published in AVSP 2026, pp. 35-39.",
+          "url": "https://www.isca-archive.org/avsp_2026/davis26b_avsp.html",
+          "reviewed": "2026-11-21"
         }
       ],
       "series": [],
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-21"
     },
     {
       "acronym": "SIGUL",
@@ -633,8 +641,9 @@
           "name": "SLaTE Workshop (Workshop on Speech and Language Technology in Education)",
           "type": "workshop",
           "cadence": "roughly biennial (2007, 2009, 2010, 2011, 2013, 2015, 2017, 2019, 2023, 2025; none in 2021 due to pandemic)",
-          "last": "10th edition: SLaTE 2025, 22-24 August 2025, Radboud University Nijmegen, Netherlands — satellite workshop of Interspeech 2025, held jointly with WOCCI 2025; proceedings at isca-archive.org/slate_2025",
-          "url": "https://sites.google.com/view/slate-2025"
+          "last": "10th edition: SLaTE 2025, 22-24 August 2025, Radboud University Nijmegen, Netherlands — satellite workshop of Interspeech 2025, held jointly with WOCCI 2025; proceedings at isca-archive.org/slate_2025. The 2026 SIG report also describes planning for SLaTE 2027 in São Paulo.",
+          "url": "https://sites.google.com/view/slate-2025",
+          "reviewed": "2026-11-21"
         },
         {
           "name": "ISCA SIG SLaTE Webinar Series",
@@ -707,7 +716,7 @@
       ],
       "hasRec": true,
       "activeSeries": true,
-      "contentReviewed": "2026-10-03"
+      "contentReviewed": "2026-11-21"
     },
     {
       "acronym": "SIGML",
@@ -1016,9 +1025,9 @@
           "name": "CHiME Challenges (Computational Hearing in Multisource Environments) — flagship activity",
           "type": "challenge",
           "cadence": "recurring challenges since 2011; intervals vary",
-          "last": "CHiME-9 ran 1 Jul 2025–6 Feb 2026, with results presented at HSCMA&CHiME 2026. CHiME-10 opens 4 Feb 2027; its one-day workshop is planned for Dec 2027 as an ASLI satellite or co-located event (details TBC). ASLI means IEEE International Conference on Audio, Speech, and Language Intelligence, Singapore; its conference website lists 29 Nov–4 Dec 2027.",
+          "last": "CHiME-9 ran 1 Jul 2025–6 Feb 2026, with results presented at HSCMA&CHiME 2026. CHiME-10 opens 4 Feb 2027; its one-day workshop is planned for Dec 2027 as an ASLI satellite or co-located event (details TBC). ASLI means IEEE International Conference on Audio, Speech, and Language Intelligence, Singapore; its conference website lists 29 Nov–4 Dec 2027. The three selected CHiME-10 tracks are ECHI-2 (hearing inclusivity), URGENT (speech enhancement) and SG-TSE (smart-glasses target speech extraction).",
           "url": "https://www.chimechallenge.org/",
-          "reviewed": "2026-11-01"
+          "reviewed": "2026-11-21"
         },
         {
           "name": "CHiME Workshops (Speech Processing in Everyday Environments) — flagship workshop, usually a satellite of Interspeech/ICASSP",
@@ -1648,6 +1657,14 @@
           "last": "9–27 November 2026; the listed registration deadline was 31 October 2026. Check the organizer’s timetable for session times.",
           "url": "https://www.aisv.it/formazione/corsi-online",
           "reviewed": "2026-11-01"
+        },
+        {
+          "name": "Scientific sponsorship of external events (patrocini)",
+          "type": "other",
+          "cadence": "ongoing",
+          "last": "DiSS XIII (13th Workshop on Disfluency in Spontaneous Speech) is listed for February 2027 at the Free University of Bozen-Bolzano. AISV's 2026 annual report includes support for this workshop among its future activities; its sponsorship page also lists the June 2026 Renata Savy study day and MALiP 2026.",
+          "url": "https://www.aisv.it/en/association/sponsorships",
+          "reviewed": "2026-11-21"
         }
       ],
       "series": [
