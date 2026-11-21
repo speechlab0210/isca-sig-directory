@@ -197,8 +197,9 @@
           "name": "SIGUL Workshop (Annual Meeting of the ELRA-ISCA SIG on Under-resourced Languages)",
           "type": "workshop",
           "cadence": "roughly annual since 2022 (no 2025 edition; LT4All 2025 took place that year); co-located with LREC (2022, 2024, 2026) or Interspeech (2023)",
-          "last": "SIGUL 2026 held 11-12 May 2026 at LREC 2026, Palma de Mallorca (proceedings published)",
-          "url": "https://sites.google.com/view/sigul2026/home-page"
+          "last": "SIGUL 2026 held 11-12 May 2026 at LREC 2026, Palma de Mallorca (proceedings published). The 2026 annual report plans SIGUL 2027 in São Paulo before or after Interspeech; exact workshop dates are not specified.",
+          "url": "https://sites.google.com/view/sigul2026/home-page",
+          "reviewed": "2026-11-22"
         },
         {
           "name": "LT4All (Language Technologies for All) conference, organized by ELRA and SIGUL in partnership with UNESCO",
@@ -243,6 +244,14 @@
           "cadence": "per workshop edition",
           "last": "SIGUL 2026 proceedings (joint workshop with ELE, EURALI and DCLRL at LREC 2026; 32 papers)",
           "url": "https://aclanthology.org/venues/sigul/"
+        },
+        {
+          "name": "ISCA-GO community tutorials supported by SIGUL",
+          "type": "other",
+          "cadence": "2026 tutorial and 2027 plan",
+          "last": "The 2026 annual report lists an Oceania community tutorial, “A Practical Guide to Building and Evaluating Speech Technologies for Language Communities”, at Interspeech 2026. It also plans support for a Latin America and Caribbean community tutorial at Interspeech 2027; no tutorial date is specified.",
+          "url": "https://isca-speech.org/resources/Documents/Special%20Interest%20Groups/TopicSIG/2026/TopicSIGmeeting2026.pdf#page=15",
+          "reviewed": "2026-11-22"
         }
       ],
       "series": [],
@@ -280,7 +289,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-16"
+      "contentReviewed": "2026-11-22"
     },
     {
       "acronym": "SpLC",
@@ -818,7 +827,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-16"
+      "contentReviewed": "2026-11-22"
     },
     {
       "acronym": "SLPAT",
@@ -1134,8 +1143,9 @@
           "name": "SPSC Symposium (ISCA Symposium on Security and Privacy in Speech Communication)",
           "type": "workshop",
           "cadence": "annual since 2021",
-          "last": "6th edition: Sept 26, 2026, UNSW Sydney, co-located with Interspeech 2026 (5th: Delft, Aug 16, 2025)",
-          "url": "https://spsc-symposium.de/"
+          "last": "6th edition: Sept 26, 2026, UNSW Sydney, co-located with Interspeech 2026 (5th: Delft, Aug 16, 2025). The 2026 annual report records 29 accepted papers across SPSC and VoicePrivacy (16 and 13 respectively) and 70 registered participants.",
+          "url": "https://spsc-symposium.de/",
+          "reviewed": "2026-11-22"
         },
         {
           "name": "VoicePrivacy Challenge (voice anonymization; workshop co-held with SPSC Symposium)",
@@ -1188,6 +1198,14 @@
           "last": "The SIG website links X and LinkedIn. Availability of this separate Slack workspace is not verified by the public website.",
           "url": "https://spsc-sig.slack.com/",
           "reviewed": "2026-11-01"
+        },
+        {
+          "name": "Computer Speech & Language special issue: Security and Privacy in Speech Processing",
+          "type": "journal",
+          "cadence": "special issue",
+          "last": "Listed as an outcome in the SIG’s 2026 annual report. The report provides the publisher’s collection reference; no current submission deadline is confirmed here.",
+          "url": "https://isca-speech.org/resources/Documents/Special%20Interest%20Groups/TopicSIG/2026/TopicSIGmeeting2026.pdf#page=40",
+          "reviewed": "2026-11-22"
         }
       ],
       "series": [
@@ -1267,7 +1285,7 @@
       ],
       "hasRec": true,
       "activeSeries": true,
-      "contentReviewed": "2026-11-16"
+      "contentReviewed": "2026-11-22"
     },
     {
       "acronym": "SIG-SLT",
@@ -1778,7 +1796,7 @@
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-11-16"
+      "contentReviewed": "2026-11-22"
     },
     {
       "acronym": "SIG-ILSP",
