@@ -55,7 +55,7 @@
           "pageUrl": "https://isca-speech.org/SynSIG-Events",
           "recUrl": "https://www.youtube.com/@isca-synsig",
           "platform": "YouTube — ISCA SynSIG",
-          "notes": "The Events page still has an empty Online Seminars programme section, but three seminar recordings are independently verified on the official ISCA SynSIG channel. Future scheduling is unconfirmed; the series is represented here as a recording archive.",
+          "notes": "The Events page still has an empty Online Seminars programme section, but three seminar recordings are independently checked by AI on the official ISCA SynSIG channel. Future scheduling is unconfirmed; the series is represented here as a recording archive.",
           "reviewed": "2026-11-01"
         }
       ],
@@ -71,51 +71,51 @@
           "title": "SPCC 2016 - Simon King - Text processing for speech synthesis",
           "url": "https://www.youtube.com/watch?v=6lMs1VcUrYc",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: summer-school lecture on the ISCA SynSIG channel; example of the SPCC lecture archive (2014 and 2016 editions confirmed)."
+          "what": "Checked by AI via oEmbed: summer-school lecture on the ISCA SynSIG channel; example of the SPCC lecture archive (2014 and 2016 editions confirmed)."
         },
         {
           "title": "SSW11 Speech Synthesis Workshop - 1st Day Aug 26 2021 (playlist)",
           "url": "https://www.youtube.com/playlist?list=PLzHvdhcuIT8y1vKKII6sXFmu9NhMJrFmy",
           "kind": "youtube-playlist",
-          "what": "Verified via oEmbed: full-day session recordings of the virtual SSW11 (Budapest, Aug 2021) on the 'HTE' channel (Hungarian host organization), not on SynSIG's own channel."
+          "what": "Checked by AI via oEmbed: full-day session recordings of the virtual SSW11 (Budapest, Aug 2021) on the 'HTE' channel (Hungarian host organization), not on SynSIG's own channel."
         },
         {
           "title": "SSW11 Speech Synthesis Workshop - 3rd Day Aug 28 2021 (playlist)",
           "url": "https://www.youtube.com/playlist?list=PLzHvdhcuIT8zpD6kXvZe8penwGN3uBpkF",
           "kind": "youtube-playlist",
-          "what": "Verified via oEmbed: day-3 recordings of SSW11 2021 on the HTE channel."
+          "what": "Checked by AI via oEmbed: day-3 recordings of SSW11 2021 on the HTE channel."
         },
         {
           "title": "SSW11 Keynote 1 - Lior Wolf (chair: Erica Cooper)",
           "url": "https://www.youtube.com/watch?v=CyYkDSDb6Tc",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: SSW11 2021 keynote recording on the HTE channel."
+          "what": "Checked by AI via oEmbed: SSW11 2021 keynote recording on the HTE channel."
         },
         {
           "title": "SSW11 Day 2 session: Emotion, Singing and Voice Conversion (chair: Simon King)",
           "url": "https://www.youtube.com/watch?v=8ARUsFIlOTk",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed (HTE channel). Day-2 sessions of SSW11 exist as individual videos on HTE rather than a discovered playlist."
+          "what": "Checked by AI via oEmbed (HTE channel). Day-2 sessions of SSW11 exist as individual videos on HTE rather than a discovered playlist."
         },
         {
           "title": "SynSIG seminars — S1E01 — Shivam Mehta",
           "url": "https://www.youtube.com/watch?v=PxanvFrwiRc",
           "kind": "youtube-video",
-          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader verified through YouTube oEmbed.",
+          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader checked by AI through YouTube oEmbed.",
           "reviewed": "2026-11-01"
         },
         {
           "title": "SynSIG seminars — S1E02 — Nikita Torgashov",
           "url": "https://www.youtube.com/watch?v=M8n9I9eGyTM",
           "kind": "youtube-video",
-          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader verified through YouTube oEmbed.",
+          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader checked by AI through YouTube oEmbed.",
           "reviewed": "2026-11-01"
         },
         {
           "title": "SynSIG seminars — S1E03 — Erica Cooper",
           "url": "https://www.youtube.com/watch?v=dayt4XhVgdc",
           "kind": "youtube-video",
-          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader verified through YouTube oEmbed.",
+          "what": "Seminar recording on the official ISCA SynSIG channel; title and uploader checked by AI through YouTube oEmbed.",
           "reviewed": "2026-11-01"
         }
       ],
@@ -284,7 +284,7 @@
           "title": "Prof. Gloria Emezue (Lanfrica) with Aimee Ansari at LT4All 2025 (CLEAR Global channel)",
           "url": "https://www.youtube.com/watch?v=GZEukvQnu8U",
           "kind": "youtube-video",
-          "what": "Third-party side interview filmed at LT4All 2025 (posted ~March 2025 by CLEAR Global) — NOT an official session recording. Title and channel verified via oEmbed. No official recordings of LT4All 2025 sessions were found on the conference, ELRA, or SIGUL sites."
+          "what": "Third-party side interview filmed at LT4All 2025 (posted ~March 2025 by CLEAR Global) — NOT an official session recording. Title and channel checked by AI via oEmbed. No official recordings of LT4All 2025 sessions were found on the conference, ELRA, or SIGUL sites."
         }
       ],
       "hasRec": true,
@@ -379,25 +379,25 @@
           "title": "VoxSRC Workshop 2020 talks (embedded videos)",
           "url": "https://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2020.html",
           "kind": "video-page",
-          "what": "Verified page (Oxford VGG) with self-hosted HTML5 embedded videos of the VoxSRC-20 workshop: 2 keynotes (Daniel Garcia-Romero, Shinji Watanabe) and 5 winning-team talks, 2020."
+          "what": "Page checked by AI (Oxford VGG) with self-hosted HTML5 embedded videos of the VoxSRC-20 workshop: 2 keynotes (Daniel Garcia-Romero, Shinji Watanabe) and 5 winning-team talks, 2020."
         },
         {
           "title": "VoxSRC Workshop 2021 talks (embedded videos)",
           "url": "https://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2021.html",
           "kind": "video-page",
-          "what": "Verified page with embedded HTML5 videos of VoxSRC-21 workshop talks: keynote by Andreas Stolcke plus winner presentations from ~6 teams (SpeakIn, IDlab, DKU-DukeECE, Phonexia, Bytedance_SAMI, etc.), 2021."
+          "what": "Page checked by AI with embedded HTML5 videos of VoxSRC-21 workshop talks: keynote by Andreas Stolcke plus winner presentations from ~6 teams (SpeakIn, IDlab, DKU-DukeECE, Phonexia, Bytedance_SAMI, etc.), 2021."
         },
         {
           "title": "VoxSRC Workshop 2022 talks (embedded videos)",
           "url": "https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2022.html",
           "kind": "video-page",
-          "what": "Verified page (KAIST) with embedded videos of the VoxSRC-22 hybrid workshop at Interspeech 2022 (Incheon): intro/dataset talk, keynote by Junichi Yamagishi, and Track 1-4 winner presentations, plus slide PDFs."
+          "what": "Page checked by AI (KAIST) with embedded videos of the VoxSRC-22 hybrid workshop at Interspeech 2022 (Incheon): intro/dataset talk, keynote by Junichi Yamagishi, and Track 1-4 winner presentations, plus slide PDFs."
         },
         {
           "title": "VoxSRC Workshop 2023 talks (embedded videos)",
           "url": "https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2023.html",
           "kind": "video-page",
-          "what": "VoxSRC 2023 workshop page (20 Aug 2023, Dublin): slides, embedded HTML5 video elements for the keynote and participant talks, and 13 technical-report links from 12 teams. DKU-MSXF has two reports. Embedded elements are present in the source; media playback was not re-tested in this review.",
+          "what": "VoxSRC 2023 workshop page (20 Aug 2023, Dublin): slides, embedded HTML5 video elements for the keynote and participant talks, and 13 technical-report links from 12 teams. DKU-MSXF has two reports. Embedded elements are present in the source; media playback was not re-tested in this AI check.",
           "reviewed": "2026-11-01"
         }
       ],
@@ -475,13 +475,13 @@
           "title": "Example lecture: Yi Xu, 'Tackling prosodic phenomena at their roots' (Oct 2023)",
           "url": "https://www.youtube.com/watch?v=ENteqgM8NEM",
           "kind": "youtube-video",
-          "what": "Verified live; title confirms 'Speech Prosody Lectures' branding. First lecture of the series."
+          "what": "Checked by AI against the live source; title confirms 'Speech Prosody Lectures' branding. First lecture of the series."
         },
         {
           "title": "Example lecture: Cristel Portes, intonational form-meaning in French (Nov 2025)",
           "url": "https://www.youtube.com/watch?v=iLhxbYfoLt4",
           "kind": "youtube-video",
-          "what": "Verified live; confirms the series was still publishing recordings in late 2025."
+          "what": "Checked by AI against the live source; confirms the series was still publishing recordings in late 2025."
         },
         {
           "title": "Ward & Levow 'Prosody: Models, Methods, and Applications' tutorial playlist",
@@ -786,43 +786,43 @@
           "title": "Charles McGhee (Cambridge) - Segmental Pronunciation Training with Consistent Articulatory Representations (SIGML seminar, 14 Nov 2025)",
           "url": "https://www.youtube.com/watch?v=o3ljydQnk9E",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: exists on Hao Tang's channel; most recent seminar recording."
+          "what": "Checked by AI via oEmbed: exists on Hao Tang's channel; most recent seminar recording."
         },
         {
           "title": "Alexander Polok (Brno UT) - Adapting Single-Speaker ASR to Handle Conversations (SIGML seminar, 17 Oct 2025)",
           "url": "https://www.youtube.com/watch?v=axcXO0paYcg",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: exists on Hao Tang's channel."
+          "what": "Checked by AI via oEmbed: exists on Hao Tang's channel."
         },
         {
           "title": "Jialu Li (Arizona) - Advancing Interdisciplinary Speech Applications in Early Children's Development (SIGML seminar, 8 Aug 2025)",
           "url": "https://www.youtube.com/watch?v=U-Xzfb3FN4Q",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: exists on Hao Tang's channel."
+          "what": "Checked by AI via oEmbed: exists on Hao Tang's channel."
         },
         {
           "title": "Saurabhchand Bhati (JHU) - Segmental Contrastive Predictive Coding (SIGML seminar, 13 Dec 2021)",
           "url": "https://www.youtube.com/watch?v=Ql0QmPFxAhI",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: exists on Hao Tang's channel; representative of the ~15 recorded 2021 seminars (others include Lea Schoenherr, Desh Raj and Yuan Gong)."
+          "what": "Checked by AI via oEmbed: exists on Hao Tang's channel; representative of the ~15 recorded 2021 seminars (others include Lea Schoenherr, Desh Raj and Yuan Gong)."
         },
         {
           "title": "Mengjie Qian (Cambridge) - From Challenge to Solution: Speak & Improve Challenge (SIGML seminar, 10 Oct 2025)",
           "url": "https://www.youtube.com/watch?v=mgpJwrTeFW8",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: 'Mengjie Qian, University of Cambridge -- From Challenge to Solution: Speak & Improve Challenge' on Hao Tang's channel."
+          "what": "Checked by AI via oEmbed: 'Mengjie Qian, University of Cambridge -- From Challenge to Solution: Speak & Improve Challenge' on Hao Tang's channel."
         },
         {
           "title": "Zhongweiyang Xu (UIUC) - Unsupervised Array Speech Processing with Diffusion as a Foundational Prior (SIGML seminar, 5 Sep 2025)",
           "url": "https://www.youtube.com/watch?v=xmBsMw7DT5Q",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: exists on Hao Tang's channel with matching speaker/title."
+          "what": "Checked by AI via oEmbed: exists on Hao Tang's channel with matching speaker/title."
         },
         {
           "title": "Liming Wang (MIT) - Language-Universal Speech Technology from Unpaired Data (SIGML seminar, 25 Jul 2025)",
           "url": "https://www.youtube.com/watch?v=A-ZAZoVwo3A",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: exists on Hao Tang's channel; first talk of the 2025 resumption."
+          "what": "Checked by AI via oEmbed: exists on Hao Tang's channel; first talk of the 2025 resumption."
         }
       ],
       "hasRec": true,
@@ -835,7 +835,7 @@
       "kind": "topic",
       "website": "http://www.slpat.org/",
       "iscaUrl": "https://isca-speech.org/Speech-and-Language-Processing-for-Assistive-Technologies-SLPAT",
-      "description": "Joint ISCA/ACL special interest group promoting the application of speech and language technologies to assistive technologies, especially for people whose impairments affect their ability to communicate; interdisciplinary across NLP, speech processing, speech pathology, AAC, HCI and accessibility. ISCA identifies slpat.org as the SIG website; that hostname could not be resolved from this review environment on 1 Nov 2026.",
+      "description": "Joint ISCA/ACL special interest group promoting the application of speech and language technologies to assistive technologies, especially for people whose impairments affect their ability to communicate; interdisciplinary across NLP, speech processing, speech pathology, AAC, HCI and accessibility. ISCA identifies slpat.org as the SIG website; that hostname could not be resolved from this AI check environment on 1 Nov 2026.",
       "activities": [
         {
           "name": "SLPAT Workshop series (Workshop on Speech and Language Processing for Assistive Technologies)",
@@ -1086,13 +1086,13 @@
           "title": "CHiME 2020 Workshop programme page with per-talk YouTube links and slides",
           "url": "https://chimechallenge.github.io/chime2020-workshop/programme.html",
           "kind": "video-page",
-          "what": "Verified. Full record of the CHiME 2020 virtual workshop: 16 individual YouTube video links (e.g. keynotes by Paola Garcia and Dong Yu, and CHiME-6 system descriptions from USTC-NELSLIP, STC, JHU, BUT, Toshiba, etc.), plus slides and abstracts. All videos 2020."
+          "what": "Checked by AI. Full record of the CHiME 2020 virtual workshop: 16 individual YouTube video links (e.g. keynotes by Paola Garcia and Dong Yu, and CHiME-6 system descriptions from USTC-NELSLIP, STC, JHU, BUT, Toshiba, etc.), plus slides and abstracts. All videos 2020."
         },
         {
           "title": "CHiME 2020 Keynote - Leibny Paola Garcia Perera (sample individual talk)",
           "url": "https://www.youtube.com/watch?v=JttWgfWo6lw",
           "kind": "youtube-video",
-          "what": "Verified alive — page title confirms 'CHiME 2020 Keynote - Leibny Paola Garcia Perera' (2020, keynote 'Diarization, the missing link in Speech Technologies'). Representative of the 16 talk videos linked from the CHiME 2020 programme page."
+          "what": "Availability checked by AI — page title confirms 'CHiME 2020 Keynote - Leibny Paola Garcia Perera' (2020, keynote 'Diarization, the missing link in Speech Technologies'). Representative of the 16 talk videos linked from the CHiME 2020 programme page."
         },
         {
           "title": "HSCMA 2024 per-paper presentation video: VoiceVector - Multimodal Enrolment Vectors for Speaker Separation (Paper ID 11951)",
@@ -1135,7 +1135,7 @@
           "name": "SPSC Webinar & Café Sessions (webinar series; one Café journal-club session listed, Aug 2020)",
           "type": "webinar-series",
           "cadence": "webinar announced as once a month (first Monday preferred, flexible); Café journal club announced as monthly but only one session listed (27 Aug 2020)",
-          "last": "Reviewed 5 Nov 2026: the web index lists 2026 talks and places Pierre Fernandez’s 7 Oct webinar under Past webinars with a recording link. Yanyun Wang’s 21 Oct listing remains under Upcoming webinars; occurrence is unconfirmed. No future session is confirmed.",
+          "last": "Checked by AI 5 Nov 2026: the web index lists 2026 talks and places Pierre Fernandez’s 7 Oct webinar under Past webinars with a recording link. Yanyun Wang’s 21 Oct listing remains under Upcoming webinars; occurrence is unconfirmed. No future session is confirmed.",
           "url": "https://www.spsc-sig.org/webinar",
           "reviewed": "2026-11-05"
         },
@@ -1195,7 +1195,7 @@
           "name": "Slack community + social media (Twitter/X @SPSC_SIG, LinkedIn)",
           "type": "other",
           "cadence": null,
-          "last": "The SIG website links X and LinkedIn. Availability of this separate Slack workspace is not verified by the public website.",
+          "last": "The SIG website links X and LinkedIn. Availability of this separate Slack workspace is not confirmed by the public website.",
           "url": "https://spsc-sig.slack.com/",
           "reviewed": "2026-11-01"
         },
@@ -1234,7 +1234,7 @@
           "title": "SPSC Webinar & Café Sessions — historical web index",
           "url": "https://www.spsc-sig.org/webinar",
           "kind": "video-page",
-          "what": "The web index reviewed on 5 Nov 2026 includes 2026 webinars, with links to YouTube and historical EURECOM recordings and slides. Pierre Fernandez’s 7 Oct 2026 webinar is listed under Past webinars with its recording; Yanyun Wang’s 21 Oct entry remains under Upcoming webinars despite the passed date.",
+          "what": "The web index checked by AI on 5 Nov 2026 includes 2026 webinars, with links to YouTube and historical EURECOM recordings and slides. Pierre Fernandez’s 7 Oct 2026 webinar is listed under Past webinars with its recording; Yanyun Wang’s 21 Oct entry remains under Upcoming webinars despite the passed date.",
           "reviewed": "2026-11-05"
         },
         {
@@ -1259,7 +1259,7 @@
           "title": "Kai Li — AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models (SPSC webinar 2025-08-07)",
           "url": "https://mediaserver.eurecom.fr/videos/spsc-20250807-kai-li-audiotrustmp4",
           "kind": "video-page",
-          "what": "Verified. EURECOM Nudgis mediaserver video page under an 'SPSC-SIG' channel, with embedded player, transcript and slides. Representative of the 2020–2025 SPSC webinar recordings hosted on mediaserver.eurecom.fr (e.g. Tom Bäckström 2025-04-07, Yi Zhu 2025-03-03, plus 2020-2024 permalink URLs listed on the webinar page)."
+          "what": "Checked by AI. EURECOM Nudgis mediaserver video page under an 'SPSC-SIG' channel, with embedded player, transcript and slides. Representative of the 2020–2025 SPSC webinar recordings hosted on mediaserver.eurecom.fr (e.g. Tom Bäckström 2025-04-07, Yi Zhu 2025-03-03, plus 2020-2024 permalink URLs listed on the webinar page)."
         },
         {
           "title": "SPSC Webinar — dedicated YouTube channel (@SPSCWebinar)",
@@ -1362,31 +1362,31 @@
           "title": "Playlist: ISCA SIGSLT Seminars",
           "url": "https://www.youtube.com/playlist?list=PLMS8PIkS6c4jU-4KZdhFErTYMP7KmFRw-",
           "kind": "youtube-playlist",
-          "what": "Verified via oEmbed: playlist titled \"ISCA SIGSLT Seminars\" on the SIGSLT channel — the lecture-series recordings (talks from Mar 2022 - May 2023)."
+          "what": "Checked by AI via oEmbed: playlist titled \"ISCA SIGSLT Seminars\" on the SIGSLT channel — the lecture-series recordings (talks from Mar 2022 - May 2023)."
         },
         {
           "title": "SIG-SLT Lectures page (per-talk recording links)",
           "url": "https://iwslt.org/lectures/",
           "kind": "video-page",
-          "what": "Verified: lists 10 talks (Mar 1, 2022 - May 3, 2023) each with a YouTube recording link, e.g. https://youtu.be/SyJkrdF2Ed4 (Naver Labs Europe talk, individually verified: title matches, channel SIGSLT)."
+          "what": "Checked by AI: lists 10 talks (Mar 1, 2022 - May 3, 2023) each with a YouTube recording link, e.g. https://youtu.be/SyJkrdF2Ed4 (Naver Labs Europe talk, individually checked by AI: title matches, channel SIGSLT)."
         },
         {
           "title": "IWSLT 2016 - Session 2 (Microsoft Research channel)",
           "url": "https://www.youtube.com/watch?v=lsKGeUk2aF8",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: \"International Workshop on Spoken Language Translation (IWSLT) 2016 - Session 2\", uploaded by Microsoft Research (2016 edition host). One-off conference session recording."
+          "what": "Checked by AI via oEmbed: \"International Workshop on Spoken Language Translation (IWSLT) 2016 - Session 2\", uploaded by Microsoft Research (2016 edition host). One-off conference session recording."
         },
         {
           "title": "IWSLT 2016 - Session 3 (Microsoft Research channel)",
           "url": "https://www.youtube.com/watch?v=SiQbmMPjez0",
           "kind": "youtube-video",
-          "what": "Verified via oEmbed: \"International Workshop on Spoken Language Translation (IWSLT) 2016 - Session 3\", uploaded by Microsoft Research."
+          "what": "Checked by AI via oEmbed: \"International Workshop on Spoken Language Translation (IWSLT) 2016 - Session 3\", uploaded by Microsoft Research."
         },
         {
           "title": "IWSLT 2021 session recordings on Underline (via ACL-IJCNLP 2021)",
           "url": "https://underline.io/lecture/32264-international-conference-on-spoken-language-translation-(iwslt)---part-2",
           "kind": "video-page",
-          "what": "Verified page exists: IWSLT Part 2 from ACL-IJCNLP 2021 (Aug 5, 2021) with auto transcript; video playback appears to require an Underline login, so treat as gated conference recordings."
+          "what": "Page existence checked by AI: IWSLT Part 2 from ACL-IJCNLP 2021 (Aug 5, 2021) with auto transcript; video playback appears to require an Underline login, so treat as gated conference recordings."
         }
       ],
       "hasRec": true,
@@ -1450,49 +1450,49 @@
           "title": "ISCSLP 2022 Keynote Speech 1 — Dr Jinyu Li, Microsoft: Advancing end-to-end automatic speech recognition and beyond",
           "url": "https://youtu.be/Yz5I990Md5o",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed; on COLIPS SG channel; recorded Dec 2022."
+          "what": "Checked by AI against the live source via oEmbed; on COLIPS SG channel; recorded Dec 2022."
         },
         {
           "title": "ISCSLP 2022 Keynote Speech 2 — Prof Eng Siong Chng, NTU Singapore: code-switch Singapore English+Mandarin LVCSR",
           "url": "https://youtu.be/xZQTXXIzCZo",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed; on COLIPS SG channel; recorded Dec 2022."
+          "what": "Checked by AI against the live source via oEmbed; on COLIPS SG channel; recorded Dec 2022."
         },
         {
           "title": "ISCSLP 2022 Keynote Speech 3 — Kate Knill, University of Cambridge: Automated Assessment and Feedback / Spoken Grammatical Error Correction",
           "url": "https://youtu.be/ukCCcs99WKI",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed; on COLIPS SG channel; recorded Dec 2022."
+          "what": "Checked by AI against the live source via oEmbed; on COLIPS SG channel; recorded Dec 2022."
         },
         {
           "title": "ISCSLP 2022 Tutorial 1 — Exploring the Frontier of Large-Scale Semi-Supervised Learning for Speech Processing (Google)",
           "url": "https://youtu.be/iZmMHLM7gkQ",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed (title 'ISCSLP 2022 Tutorial1', COLIPS SG channel)."
+          "what": "Checked by AI against the live source via oEmbed (title 'ISCSLP 2022 Tutorial1', COLIPS SG channel)."
         },
         {
           "title": "ISCSLP 2022 Tutorial 2 — TorchAudio Tutorial",
           "url": "https://youtu.be/oz_OcJq2nOc",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed (title 'ISCSLP 2022 Tutorial2', COLIPS SG channel)."
+          "what": "Checked by AI against the live source via oEmbed (title 'ISCSLP 2022 Tutorial2', COLIPS SG channel)."
         },
         {
           "title": "ISCSLP 2022 Tutorial 3 — Towards Solving Cocktail Party Problem with Artificial Intelligence",
           "url": "https://youtu.be/DVA7QATrlYA",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed (title 'ISCSLP 2022 Tutorial3', COLIPS SG channel)."
+          "what": "Checked by AI against the live source via oEmbed (title 'ISCSLP 2022 Tutorial3', COLIPS SG channel)."
         },
         {
           "title": "ISCSLP 2022 Tutorial 4 — Quantum Machine Learning for Speech Processing",
           "url": "https://youtu.be/iimei5hckLI",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed (title 'ISCSLP 2022 Tutorial4', COLIPS SG channel)."
+          "what": "Checked by AI against the live source via oEmbed (title 'ISCSLP 2022 Tutorial4', COLIPS SG channel)."
         },
         {
           "title": "ISCSLP 2022 Tutorial 5 — Recent Advances on Automatic Dialogue Evaluation",
           "url": "https://youtu.be/_p6yQeJKPAA",
           "kind": "youtube-video",
-          "what": "Verified live via oEmbed (title 'ISCSLP 2022 Tutorial5', COLIPS SG channel)."
+          "what": "Checked by AI against the live source via oEmbed (title 'ISCSLP 2022 Tutorial5', COLIPS SG channel)."
         },
         {
           "title": "ISCSLP 2014 recordings on SuperLectures (Singapore, 12–14 Sep 2014)",
@@ -1603,7 +1603,7 @@
           "title": "PTR #7 — Archivage audiovisuel à grande échelle grâce à une diarisation robuste",
           "url": "https://www.youtube.com/watch?v=OJbTed99eb0",
           "kind": "youtube-video",
-          "what": "Individually verified via oEmbed: title and channel ('Jeunes Chercheurs en Parole') confirmed; published 2023-06-17. Example session of the PTR webinar series."
+          "what": "Individually checked by AI via oEmbed: title and channel ('Jeunes Chercheurs en Parole') confirmed; published 2023-06-17. Example session of the PTR webinar series."
         }
       ],
       "hasRec": true,
@@ -1626,7 +1626,7 @@
           "url": "https://www.aisv.it/convegni"
         },
         {
-          "name": "Studi AISV (peer-reviewed open-access volume series, since 2015)",
+          "name": "Studi AISV (open-access volume series, since 2015)",
           "type": "journal",
           "cadence": "roughly annual",
           "last": "Vol. 13, 2025",
@@ -1702,7 +1702,7 @@
           "pageUrl": "https://olf.aisv.it/",
           "recUrl": "https://www.radioradicale.it/scheda/743534/le-intercettazioni-intelligence-e-formazione-del-perito-linguista",
           "platform": "third-party streams: Senate webTV, Radio Radicale, partner YouTube channels",
-          "notes": "Not a systematic recorded series: recordings of individual events end up on third-party platforms (verified: full 2h29m video of the 8 Nov 2024 Senate roundtable on Radio Radicale)."
+          "notes": "Not a systematic recorded series: recordings of individual events end up on third-party platforms (checked by AI: full 2h29m video of the 8 Nov 2024 Senate roundtable on Radio Radicale)."
         }
       ],
       "videos": [
@@ -1710,19 +1710,19 @@
           "title": "Tavola Rotonda del XX Convegno AISV, Torino 1-3/2/2024",
           "url": "https://www.youtube.com/watch?v=3-gWkKsJvI0",
           "kind": "youtube-video",
-          "what": "Recording of the roundtable from the XX AISV national conference (Turin, Feb 2024), hosted on the YouTube channel 'Laboratorio di Fonetica Sperimentale A. Genre' (Univ. of Turin phonetics lab, home lab of AISV president Antonio Romano). Title and channel verified via YouTube oEmbed; the only AISV conference-session recording found on YouTube."
+          "what": "Recording of the roundtable from the XX AISV national conference (Turin, Feb 2024), hosted on the YouTube channel 'Laboratorio di Fonetica Sperimentale A. Genre' (Univ. of Turin phonetics lab, home lab of AISV president Antonio Romano). Title and channel checked by AI via YouTube oEmbed; the only AISV conference-session recording found on YouTube."
         },
         {
           "title": "Le intercettazioni: intelligence e formazione del perito linguista (Radio Radicale)",
           "url": "https://www.radioradicale.it/scheda/743534/le-intercettazioni-intelligence-e-formazione-del-perito-linguista",
           "kind": "video-page",
-          "what": "Full free video (2h29m, also audio-only) of the AISV-OLF / SOCINT roundtable held in the Italian Senate on 8 Nov 2024, with the then-AISV president Barbara Gili Fivela among the speakers. Page verified: recording present and freely watchable."
+          "what": "Full free video (2h29m, also audio-only) of the AISV-OLF / SOCINT roundtable held in the Italian Senate on 8 Nov 2024, with the then-AISV president Barbara Gili Fivela among the speakers. Page checked by AI: recording present and freely watchable."
         },
         {
           "title": "UN ANNO DI 'VADEMECUM PER IL TRATTAMENTO DELLE FONTI ORALI' (ICCD channel)",
           "url": "https://www.youtube.com/watch?v=owLlvPuJpPQ",
           "kind": "youtube-video",
-          "what": "Recorded live stream (Oct 2022) of the oral-sources study day of the Tavolo Permanente per le Fonti Orali, one year after the AISV-coordinated Vademecum; hosted on the Italian Ministry of Culture ICCD YouTube channel (@Iccd01). Verified via YouTube oEmbed. Later editions were also recorded: the V edition (28 Oct 2024; live stream on the DFCLAM – Università di Siena channel) and the VI edition (27 Oct 2025, Reggio Emilia; two-part recording on the Istoreco Reggio Emilia channel)."
+          "what": "Recorded live stream (Oct 2022) of the oral-sources study day of the Tavolo Permanente per le Fonti Orali, one year after the AISV-coordinated Vademecum; hosted on the Italian Ministry of Culture ICCD YouTube channel (@Iccd01). Checked by AI via YouTube oEmbed. Later editions were also recorded: the V edition (28 Oct 2024; live stream on the DFCLAM – Università di Siena channel) and the VI edition (27 Oct 2025, Reggio Emilia; two-part recording on the Istoreco Reggio Emilia channel)."
         },
         {
           "title": "Laboratorio di Fonetica Sperimentale A. Genre — YouTube channel",
@@ -1734,13 +1734,13 @@
           "title": "V Giornata di Studi sulle Fonti Orali — Le molte voci delle voci (28 Oct 2024)",
           "url": "https://www.youtube.com/watch?v=h7tTGu00ImE",
           "kind": "youtube-video",
-          "what": "Full live-stream recording (about 4h23m) of the fifth oral-sources study day, published by the DFCLAM – Università di Siena channel. Title, channel and date verified on 3 Oct 2026."
+          "what": "Full live-stream recording (about 4h23m) of the fifth oral-sources study day, published by the DFCLAM – Università di Siena channel. Title, channel and date checked by AI on 3 Oct 2026."
         },
         {
           "title": "VI Giornata di studi sulle fonti orali — Custodire le voci, Part 1 (27 Oct 2025)",
           "url": "https://www.youtube.com/watch?v=38gT7EhoHhc",
           "kind": "youtube-video",
-          "what": "First half (about 1h56m) of the sixth oral-sources study day in Reggio Emilia, whose scientific committee included AISV; recording uploaded by Istoreco Reggio Emilia on 10 Nov 2025. Part 2: https://www.youtube.com/watch?v=sxW_TPmdRyM. Verified on 3 Oct 2026."
+          "what": "First half (about 1h56m) of the sixth oral-sources study day in Reggio Emilia, whose scientific committee included AISV; recording uploaded by Istoreco Reggio Emilia on 10 Nov 2025. Part 2: https://www.youtube.com/watch?v=sxW_TPmdRyM. Checked by AI on 3 Oct 2026."
         }
       ],
       "hasRec": true,
@@ -1842,13 +1842,13 @@
           "title": "WiSSAP 2023 — YouTube playlist (channel: MADHAVlab IITK)",
           "url": "https://www.youtube.com/playlist?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7",
           "kind": "youtube-playlist",
-          "what": "Playlist titled 'WiSSAP 2023' on the MADHAVlab IITK channel (MADHAV Lab, IIT Kanpur — the WiSSAP 2023 organizers); existence, title and owning channel verified via YouTube oEmbed. Contains 21 videos as of 3 Oct 2026: opening and introductory sessions, Day 1–4 lectures, flash presentations and three 'WiSSAP Cup' talks."
+          "what": "Playlist titled 'WiSSAP 2023' on the MADHAVlab IITK channel (MADHAV Lab, IIT Kanpur — the WiSSAP 2023 organizers); existence, title and owning channel checked by AI via YouTube oEmbed. Contains 21 videos as of 3 Oct 2026: opening and introductory sessions, Day 1–4 lectures, flash presentations and three 'WiSSAP Cup' talks."
         },
         {
           "title": "Dr. Vipul Arora — Day 1 Session 1, WiSSAP 2023",
           "url": "https://www.youtube.com/watch?v=HPXQMC2XmdI",
           "kind": "youtube-video",
-          "what": "Individual WiSSAP 2023 session recording; title and channel (MADHAVlab IITK) verified via YouTube oEmbed."
+          "what": "Individual WiSSAP 2023 session recording; title and channel (MADHAVlab IITK) checked by AI via YouTube oEmbed."
         },
         {
           "title": "Prof. Zhiyao Duan — Day 2 Session 2, WiSSAP 2023",
