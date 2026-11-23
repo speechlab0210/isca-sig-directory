@@ -504,7 +504,7 @@
       ],
       "hasRec": true,
       "activeSeries": true,
-      "contentReviewed": "2026-11-19"
+      "contentReviewed": "2026-11-24"
     },
     {
       "acronym": "SIGdial",
@@ -962,7 +962,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-19"
+      "contentReviewed": "2026-11-24"
     },
     {
       "acronym": "SIG-CHILD",
@@ -1504,7 +1504,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-19"
+      "contentReviewed": "2026-11-24"
     },
     {
       "acronym": "AFCP",
@@ -1924,7 +1924,7 @@
       "videos": [],
       "hasRec": false,
       "activeSeries": false,
-      "contentReviewed": "2026-11-19"
+      "contentReviewed": "2026-11-24"
     }
   ]
 }
