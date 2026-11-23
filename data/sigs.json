@@ -397,7 +397,7 @@
           "title": "VoxSRC Workshop 2023 talks (embedded videos)",
           "url": "https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/interspeech2023.html",
           "kind": "video-page",
-          "what": "VoxSRC 2023 workshop page (20 Aug 2023, Dublin): slides, embedded HTML5 video elements for the keynote and participant talks, and 13 technical-report links from 12 teams. DKU-MSXF has two reports. Embedded elements are present in the source; media playback was not re-tested in this AI check.",
+          "what": "VoxSRC 2023 workshop page (20 Aug 2023, Dublin): slides, embedded HTML5 video elements for the keynote and participant talks, and 13 technical-report links from 12 teams. DKU-MSXF has two reports. Embedded elements are present in the source; media playback was not re-tested.",
           "reviewed": "2026-11-01"
         }
       ],
@@ -835,7 +835,7 @@
       "kind": "topic",
       "website": "http://www.slpat.org/",
       "iscaUrl": "https://isca-speech.org/Speech-and-Language-Processing-for-Assistive-Technologies-SLPAT",
-      "description": "Joint ISCA/ACL special interest group promoting the application of speech and language technologies to assistive technologies, especially for people whose impairments affect their ability to communicate; interdisciplinary across NLP, speech processing, speech pathology, AAC, HCI and accessibility. ISCA identifies slpat.org as the SIG website; that hostname could not be resolved from this AI check environment on 1 Nov 2026.",
+      "description": "Joint ISCA/ACL special interest group promoting the application of speech and language technologies to assistive technologies, especially for people whose impairments affect their ability to communicate; interdisciplinary across NLP, speech processing, speech pathology, AAC, HCI and accessibility. ISCA identifies slpat.org as the SIG website; that hostname could not be resolved from the collection environment on 1 Nov 2026.",
       "activities": [
         {
           "name": "SLPAT Workshop series (Workshop on Speech and Language Processing for Assistive Technologies)",

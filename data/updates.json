@@ -1,51 +1,55 @@
 [
   {
     "date": "2026-11-23",
-    "text": "Labelled profile, lecture-series and event source checks explicitly as AI checks in both editions. Human SIG confirmation is separate and is not implied by these dates."
+    "text": "Removed profile, lecture-series and event check labels and their displayed dates from both editions. Event dates, source links and uncertainty notices remain available."
+  },
+  {
+    "date": "2026-11-23",
+    "text": "Clarified that source maintenance does not imply human SIG confirmation."
   },
   {
     "date": "2026-11-22",
-    "text": "Daily AI check: added SIGUL community tutorial activities and its tentative 2027 workshop plan; expanded SPSC symposium outcomes and added its speech-security special issue, using the 2026 annual reports."
+    "text": "Daily update: added SIGUL community tutorial activities and its tentative 2027 workshop plan; expanded SPSC symposium outcomes and added its speech-security special issue, using the 2026 annual reports."
   },
   {
     "date": "2026-11-21",
-    "text": "Daily AI check: added AVISA's McGurk anniversary survey and AISV's scientific-sponsorship page, including the planned DiSS XIII workshop. Added SLaTE 2027 planning and the three CHiME-10 tracks, and refreshed the wording of the AISV 2027 proposal-selection date."
+    "text": "Daily update: added AVISA's McGurk anniversary survey and AISV's scientific-sponsorship page, including the planned DiSS XIII workshop. Added SLaTE 2027 planning and the three CHiME-10 tracks, and refreshed the wording of the AISV 2027 proposal-selection date."
   },
   {
     "date": "2026-11-20",
-    "text": "Daily AI check: added SIGDIAL 2027 in Nagoya (23-26 August) from the 2026 ISCA SIG report. Added AFCP's December 2026 Toulouse study-day announcement, with the exact day still unspecified, and updated its student-mobility figures."
+    "text": "Daily update: added SIGDIAL 2027 in Nagoya (23-26 August) from the 2026 ISCA SIG report. Added AFCP's December 2026 Toulouse study-day announcement, with the exact day still unspecified, and updated its student-mobility figures."
   },
   {
     "date": "2026-11-19",
-    "text": "Daily AI check: added the illustrated HSCR 2026 exhibition on the history of experimental phonetics in Coimbra to SIG-HIST. Removed outdated next-edition wording for IberSPEECH 2026, whose announced dates are 18–20 November."
+    "text": "Daily update: added the illustrated HSCR 2026 exhibition on the history of experimental phonetics in Coimbra to SIG-HIST. Removed outdated next-edition wording for IberSPEECH 2026, whose announced dates are 18–20 November."
   },
   {
     "date": "2026-11-18",
-    "text": "Daily AI check: added the IWSLT 2027 Speech Translation Metrics deadline and its new speech-to-speech track. Updated Odyssey 2028 and SLPAT workshop plans and Indian-language training activities from the 2026 SIG reports; removed outdated next-talk wording for the Sacha Calhoun listing."
+    "text": "Daily update: added the IWSLT 2027 Speech Translation Metrics deadline and its new speech-to-speech track. Updated Odyssey 2028 and SLPAT workshop plans and Indian-language training activities from the 2026 SIG reports; removed outdated next-talk wording for the Sacha Calhoun listing."
   },
   {
     "date": "2026-11-16",
-    "text": "Daily AI check: noted the conference booklet now linked from the IberSPEECH 2026 website for the meeting in Madrid on 18–20 November."
+    "text": "Daily update: noted the conference booklet now linked from the IberSPEECH 2026 website for the meeting in Madrid on 18–20 November."
   },
   {
     "date": "2026-11-15",
-    "text": "Daily AI check: updated the SIG-CSLP Assembly / Closing Ceremony on 16 Nov to 16:30–17:30 in Pinang Ballroom and noted the ISCSLP 2026 program book. Added DiSS 2027, 4–5 Feb in Bozen-Bolzano, from the organizer’s announcement."
+    "text": "Daily update: updated the SIG-CSLP Assembly / Closing Ceremony on 16 Nov to 16:30–17:30 in Pinang Ballroom and noted the ISCSLP 2026 program book. Added DiSS 2027, 4–5 Feb in Bozen-Bolzano, from the organizer’s announcement."
   },
   {
     "date": "2026-11-11",
-    "text": "Daily AI check: added the IberSPEECH 2026 Industrial Innovation Round Table, on 20 Nov at 11:00–12:00 CET in Madrid."
+    "text": "Daily update: added the IberSPEECH 2026 Industrial Innovation Round Table, on 20 Nov at 11:00–12:00 CET in Madrid."
   },
   {
     "date": "2026-11-08",
-    "text": "Daily AI check: added IberSPEECH 2026 programme and presenter information to the conference listing. Detailed sessions, oral/poster guidelines and social activities are now available; the programme remains preliminary and registration is still closed."
+    "text": "Daily update: added IberSPEECH 2026 programme and presenter information to the conference listing. Detailed sessions, oral/poster guidelines and social activities are now available; the programme remains preliminary and registration is still closed."
   },
   {
     "date": "2026-11-07",
-    "text": "Daily AI check: updated the SIG-CSLP Assembly / Closing Ceremony on 16 Nov to 17:00–18:00, as now printed in the ISCSLP programme. Added AISV 2027 deadlines for author attendance confirmation (8 Dec 2026) and online registration (21 Feb 2027)."
+    "text": "Daily update: updated the SIG-CSLP Assembly / Closing Ceremony on 16 Nov to 17:00–18:00, as now printed in the ISCSLP programme. Added AISV 2027 deadlines for author attendance confirmation (8 Dec 2026) and online registration (21 Feb 2027)."
   },
   {
     "date": "2026-11-06",
-    "text": "Daily AI check: added Haopeng Geng’s 7 Dec SLaTE webinar and the 10 Jan 2027 abstract deadline for the LV International Philological Conference. Updated the SLaTE series to show its announced session and added the IberSPEECH proceedings ISSN."
+    "text": "Daily update: added Haopeng Geng’s 7 Dec SLaTE webinar and the 10 Jan 2027 abstract deadline for the LV International Philological Conference. Updated the SLaTE series to show its announced session and added the IberSPEECH proceedings ISSN."
   },
   {
     "date": "2026-11-06",
@@ -53,11 +57,11 @@
   },
   {
     "date": "2026-11-05",
-    "text": "Daily AI check: confirmed Pierre Fernandez’s 7 Oct 2026 SPSC webinar date from the restored official index and added the date to the talk list. Clarified that Yanyun Wang’s published 21 Oct schedule does not confirm that the event took place."
+    "text": "Daily update: confirmed Pierre Fernandez’s 7 Oct 2026 SPSC webinar date from the restored official index and added the date to the talk list. Clarified that Yanyun Wang’s published 21 Oct schedule does not confirm that the event took place."
   },
   {
     "date": "2026-11-04",
-    "text": "Daily AI check: updated IberSPEECH 2026 registration to reflect the organizer’s announcement that all places are filled and registration is closed."
+    "text": "Daily update: updated IberSPEECH 2026 registration to reflect the organizer’s announcement that all places are filled and registration is closed."
   },
   {
     "date": "2026-11-02",
@@ -81,27 +85,27 @@
   },
   {
     "date": "2026-11-01",
-    "text": "Daily AI check: added the SSW14 keynote lineup and linked its speaker page. Updated ISCSLP 2026 listings to reflect the detailed programme, and changed the wording for the past AISV course-registration and Odyssey special-issue submission deadlines."
+    "text": "Daily update: added the SSW14 keynote lineup and linked its speaker page. Updated ISCSLP 2026 listings to reflect the detailed programme, and changed the wording for the past AISV course-registration and Odyssey special-issue submission deadlines."
   },
   {
     "date": "2026-10-28",
-    "text": "Daily AI check: linked the AVSP 2026 proceedings in ISCA Archive. Updated the wording for the 27 October Milan oral-archives study day and the opening of TAI 2027 abstract submissions."
+    "text": "Daily update: linked the AVSP 2026 proceedings in ISCA Archive. Updated the wording for the 27 October Milan oral-archives study day and the opening of TAI 2027 abstract submissions."
   },
   {
     "date": "2026-10-25",
-    "text": "Daily AI check: refreshed the Speech Prosody lecture listings and added the free-admission reservation requirement for the Milan oral-archives study day. Marked the previously announced IWSLT 2027 task-decision date as unconfirmed because the current call no longer includes that timetable."
+    "text": "Daily update: refreshed the Speech Prosody lecture listings and added the free-admission reservation requirement for the Milan oral-archives study day. Marked the previously announced IWSLT 2027 task-decision date as unconfirmed because the current call no longer includes that timetable."
   },
   {
     "date": "2026-10-08",
-    "text": "Daily AI check: refreshed the SPSC webinar listings after the 7 October date passed. Yanyun Wang’s 21 October webinar is now the next listed session; the earlier Pierre Fernandez listing remains available on the organizer’s page."
+    "text": "Daily update: refreshed the SPSC webinar listings after the 7 October date passed. Yanyun Wang’s 21 October webinar is now the next listed session; the earlier Pierre Fernandez listing remains available on the organizer’s page."
   },
   {
     "date": "2026-10-07",
-    "text": "Daily AI check: VoicePrivacy 2026 results and system descriptions are available; added the organizer’s presentation index with seven team videos, papers and audio samples."
+    "text": "Daily update: VoicePrivacy 2026 results and system descriptions are available; added the organizer’s presentation index with seven team videos, papers and audio samples."
   },
   {
     "date": "2026-10-06",
-    "text": "Daily AI check: the provisional ISCSLP 2026 programme now holds the SIG-CSLP Assembly together with the closing ceremony, 16:30–17:00 on 16 Nov 2026."
+    "text": "Daily update: the provisional ISCSLP 2026 programme now holds the SIG-CSLP Assembly together with the closing ceremony, 16:30–17:00 on 16 Nov 2026."
   },
   {
     "date": "2026-10-04",
@@ -109,15 +113,15 @@
   },
   {
     "date": "2026-10-03",
-    "text": "Daily AI check: added the recording of the 20 Aug 2026 SPSC webinar (Guangzhi Sun and Xuenan Xu) and noted the IberSPEECH 2026 late-registration deadline (17 Nov)."
+    "text": "Daily update: added the recording of the 20 Aug 2026 SPSC webinar (Guangzhi Sun and Xuenan Xu) and noted the IberSPEECH 2026 late-registration deadline (17 Nov)."
   },
   {
     "date": "2026-10-03",
-    "text": "Started a daily collection and AI checking of the source pages, now 148 pages including the activity and event pages cited in the directory. Pages that changed are compared with the last AI check, and updates found this way are published only after they are confirmed on a first-party source; a few SIGs also get a targeted search each day, in rotation. GitHub Issues are turned off; corrections are handled by email."
+    "text": "Started daily collection of the source pages, now 148 pages including the activity and event pages cited in the directory. Pages that changed are compared with the last stored copy, and updates found this way are published only after they are confirmed on a first-party source; a few SIGs also get a targeted search each day, in rotation. GitHub Issues are turned off; corrections are handled by email."
   },
   {
     "date": "2026-10-03",
-    "text": "The AI checked all 20 SIG profiles against their official sources. Corrected dates, links and descriptions; added 17 dated events (including the October 2026 ISCA Distinguished Lectures), 10 recording links and 3 recording collections; removed one superseded webinar announcement; and trimmed internal research notes. Re-ran the source checks: 74 of 74 pages retrieved, including two reported earlier as unavailable."
+    "text": "Compared all 20 SIG profiles with their official sources. Corrected dates, links and descriptions; added 17 dated events (including the October 2026 ISCA Distinguished Lectures), 10 recording links and 3 recording collections; removed one superseded webinar announcement; and trimmed internal research notes. Re-ran the source checks: 74 of 74 pages retrieved, including two reported earlier as unavailable."
   },
   {
     "date": "2026-10-03",
