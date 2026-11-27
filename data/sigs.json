@@ -403,7 +403,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-23"
+      "contentReviewed": "2026-11-28"
     },
     {
       "acronym": "SProSIG",
@@ -890,7 +890,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-23"
+      "contentReviewed": "2026-11-28"
     },
     {
       "acronym": "SIG-HIST",
@@ -1307,9 +1307,9 @@
           "name": "IWSLT evaluation campaign / shared tasks (offline & simultaneous translation, subtitling, dubbing, speech-to-speech, low-resource, Indic languages, metrics, etc.)",
           "type": "challenge",
           "cadence": "annual, run with each IWSLT edition",
-          "last": "IWSLT 2026 shared tasks (offline, low-resource, customized speech translation, compression, subtitling, simultaneous, Indic and African/Celtic speech-to-speech, cross-lingual voice cloning, instruction following, metrics). For 2027, IWSLT is piloting year-round leaderboards: submissions are open for model compression, offline speech translation and instruction following. The earlier proposal call listed 30 Sep 2026 for submissions and 1 Nov for decisions; the current calls page no longer includes that timetable as of 25 Oct 2026. The 2027 Speech Translation Metrics task covers reference-free quality estimation for speech-to-text and, new in 2027, speech-to-speech translation. Its preliminary system submission deadline is 30 Apr 2027 at 23:59 UTC-12:00.",
+          "last": "IWSLT 2026 shared tasks (offline, low-resource, customized speech translation, compression, subtitling, simultaneous, Indic and African/Celtic speech-to-speech, cross-lingual voice cloning, instruction following, metrics). For 2027, IWSLT is piloting year-round leaderboards: submissions are open for model compression, offline speech translation and instruction following. Year-round entries submitted by the traditional shared-task deadlines count as regular submissions, and their authors are invited to present at IWSLT. Traditional tracks include simultaneous translation, subtitling, voice cloning and speech translation metrics; low-resource tasks are still to be announced. The earlier proposal call listed 30 Sep 2026 for submissions and 1 Nov for decisions; the current calls page no longer includes that timetable as of 25 Oct 2026. The 2027 Speech Translation Metrics task covers reference-free quality estimation for speech-to-text and, new in 2027, speech-to-speech translation. Its preliminary system submission deadline is 30 Apr 2027 at 23:59 UTC-12:00.",
           "url": "https://iwslt.org/2027/",
-          "reviewed": "2026-11-18"
+          "reviewed": "2026-11-28"
         },
         {
           "name": "ISCA SIGSLT lecture series (SIG-SLT Talk Series)",
@@ -1391,7 +1391,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-23"
+      "contentReviewed": "2026-11-28"
     },
     {
       "acronym": "SIG-CSLP",
@@ -1872,7 +1872,7 @@
       ],
       "hasRec": true,
       "activeSeries": false,
-      "contentReviewed": "2026-11-23"
+      "contentReviewed": "2026-11-28"
     },
     {
       "acronym": "SIGRU",
